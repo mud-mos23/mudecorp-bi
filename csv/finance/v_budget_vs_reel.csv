@@ -1,0 +1,721 @@
+﻿annee,mois,compte,groupe,type_flux,budget,realise
+2024,1,Énergie et eau,Exploitation,DEPENSE,43199.84,2856.50
+2024,1,Abonnements et maintenance,Abonnements,REVENU,1009490.50,6985.46
+2024,1,Assurances,Administration,DEPENSE,82038.24,15501.23
+2024,1,Fournitures et consommables,Exploitation,DEPENSE,192592.08,15342.62
+2024,1,Honoraires de conseil,Services,REVENU,3846960.90,19298.42
+2024,1,Impôts et taxes,Administration,DEPENSE,300902.81,28714.35
+2024,1,Informatique et logiciels,Exploitation,DEPENSE,99274.14,11399.14
+2024,1,Intérêts et frais bancaires,Finance,DEPENSE,47531.33,4425.00
+2024,1,Loyers et immobilier,Immobilier,DEPENSE,142504.40,15817.86
+2024,1,Marketing et publicité,Marketing,DEPENSE,421141.32,49582.99
+2024,1,Prestations de services,Services,REVENU,5280523.92,27899.36
+2024,1,Salaires et charges sociales,Personnel,DEPENSE,368410.55,33487.88
+2024,1,Transport et logistique,Exploitation,DEPENSE,195018.72,22621.40
+2024,1,Ventes à l'export,Ventes,REVENU,3501345.69,21923.26
+2024,1,Ventes de produits,Ventes,REVENU,17038420.47,102428.30
+2024,2,Énergie et eau,Exploitation,DEPENSE,115413.84,7928.30
+2024,2,Abonnements et maintenance,Abonnements,REVENU,1470195.20,6651.45
+2024,2,Assurances,Administration,DEPENSE,82608.80,13391.66
+2024,2,Fournitures et consommables,Exploitation,DEPENSE,97065.70,3997.70
+2024,2,Honoraires de conseil,Services,REVENU,3326778.56,21249.15
+2024,2,Impôts et taxes,Administration,DEPENSE,150469.50,13523.40
+2024,2,Informatique et logiciels,Exploitation,DEPENSE,68141.70,7977.83
+2024,2,Intérêts et frais bancaires,Finance,DEPENSE,44454.80,3614.82
+2024,2,Loyers et immobilier,Immobilier,DEPENSE,147527.94,9541.11
+2024,2,Marketing et publicité,Marketing,DEPENSE,268230.00,40195.61
+2024,2,Prestations de services,Services,REVENU,5945106.51,28524.80
+2024,2,Salaires et charges sociales,Personnel,DEPENSE,729527.31,99092.38
+2024,2,Transport et logistique,Exploitation,DEPENSE,71828.25,11988.20
+2024,2,Ventes à l'export,Ventes,REVENU,4010133.68,20844.78
+2024,2,Ventes de produits,Ventes,REVENU,16274374.48,86734.57
+2024,3,Énergie et eau,Exploitation,DEPENSE,117298.80,10469.40
+2024,3,Abonnements et maintenance,Abonnements,REVENU,1606062.15,7962.88
+2024,3,Assurances,Administration,DEPENSE,45234.24,5578.57
+2024,3,Fournitures et consommables,Exploitation,DEPENSE,174564.18,11482.95
+2024,3,Honoraires de conseil,Services,REVENU,3354460.83,20797.64
+2024,3,Impôts et taxes,Administration,DEPENSE,210036.06,18438.05
+2024,3,Informatique et logiciels,Exploitation,DEPENSE,220765.22,24265.71
+2024,3,Intérêts et frais bancaires,Finance,DEPENSE,48724.60,2767.11
+2024,3,Loyers et immobilier,Immobilier,DEPENSE,94174.95,13956.52
+2024,3,Marketing et publicité,Marketing,DEPENSE,166348.15,14912.59
+2024,3,Prestations de services,Services,REVENU,6934632.00,28901.40
+2024,3,Salaires et charges sociales,Personnel,DEPENSE,636290.13,65254.54
+2024,3,Transport et logistique,Exploitation,DEPENSE,183370.53,17613.59
+2024,3,Ventes à l'export,Ventes,REVENU,4248362.24,28095.67
+2024,3,Ventes de produits,Ventes,REVENU,19971162.24,130419.13
+2024,4,Énergie et eau,Exploitation,DEPENSE,123059.75,8462.61
+2024,4,Abonnements et maintenance,Abonnements,REVENU,1261438.36,6169.52
+2024,4,Assurances,Administration,DEPENSE,74749.76,18204.02
+2024,4,Fournitures et consommables,Exploitation,DEPENSE,139234.83,11189.08
+2024,4,Honoraires de conseil,Services,REVENU,3920646.59,17889.24
+2024,4,Impôts et taxes,Administration,DEPENSE,224363.97,21139.98
+2024,4,Informatique et logiciels,Exploitation,DEPENSE,213626.88,26083.80
+2024,4,Intérêts et frais bancaires,Finance,DEPENSE,30412.32,3118.27
+2024,4,Loyers et immobilier,Immobilier,DEPENSE,65663.31,9776.22
+2024,4,Marketing et publicité,Marketing,DEPENSE,330006.87,20421.09
+2024,4,Prestations de services,Services,REVENU,6516903.04,36626.98
+2024,4,Salaires et charges sociales,Personnel,DEPENSE,758446.92,89122.26
+2024,4,Transport et logistique,Exploitation,DEPENSE,137029.60,14099.43
+2024,4,Ventes à l'export,Ventes,REVENU,5134810.55,26754.64
+2024,4,Ventes de produits,Ventes,REVENU,21856296.64,118008.53
+2024,5,Énergie et eau,Exploitation,DEPENSE,135328.20,13296.31
+2024,5,Abonnements et maintenance,Abonnements,REVENU,906373.00,6890.69
+2024,5,Assurances,Administration,DEPENSE,55056.10,8514.11
+2024,5,Fournitures et consommables,Exploitation,DEPENSE,170399.35,16333.45
+2024,5,Honoraires de conseil,Services,REVENU,3720844.42,15458.20
+2024,5,Impôts et taxes,Administration,DEPENSE,136622.04,17340.44
+2024,5,Informatique et logiciels,Exploitation,DEPENSE,98084.16,16846.69
+2024,5,Intérêts et frais bancaires,Finance,DEPENSE,29872.64,3833.99
+2024,5,Loyers et immobilier,Immobilier,DEPENSE,189891.81,18034.86
+2024,5,Marketing et publicité,Marketing,DEPENSE,273026.08,44531.87
+2024,5,Prestations de services,Services,REVENU,6899265.14,38281.22
+2024,5,Salaires et charges sociales,Personnel,DEPENSE,684186.30,77630.34
+2024,5,Transport et logistique,Exploitation,DEPENSE,201373.04,34174.55
+2024,5,Ventes à l'export,Ventes,REVENU,3827863.52,20973.91
+2024,5,Ventes de produits,Ventes,REVENU,20610805.80,144258.87
+2024,6,Énergie et eau,Exploitation,DEPENSE,51976.70,4894.38
+2024,6,Abonnements et maintenance,Abonnements,REVENU,911999.28,5311.19
+2024,6,Assurances,Administration,DEPENSE,76806.03,10350.46
+2024,6,Fournitures et consommables,Exploitation,DEPENSE,63172.32,3089.57
+2024,6,Honoraires de conseil,Services,REVENU,4391927.05,19057.20
+2024,6,Impôts et taxes,Administration,DEPENSE,78188.64,9636.48
+2024,6,Informatique et logiciels,Exploitation,DEPENSE,158549.27,20999.71
+2024,6,Intérêts et frais bancaires,Finance,DEPENSE,24717.95,2123.49
+2024,6,Loyers et immobilier,Immobilier,DEPENSE,159775.14,19484.71
+2024,6,Marketing et publicité,Marketing,DEPENSE,267106.21,24412.93
+2024,6,Prestations de services,Services,REVENU,5888025.92,26569.59
+2024,6,Salaires et charges sociales,Personnel,DEPENSE,568428.56,74130.94
+2024,6,Transport et logistique,Exploitation,DEPENSE,287303.30,24992.62
+2024,6,Ventes à l'export,Ventes,REVENU,5431646.22,35212.81
+2024,6,Ventes de produits,Ventes,REVENU,18285866.56,125511.38
+2024,7,Énergie et eau,Exploitation,DEPENSE,104067.44,6770.81
+2024,7,Abonnements et maintenance,Abonnements,REVENU,1329598.06,4382.67
+2024,7,Assurances,Administration,DEPENSE,105711.80,14877.13
+2024,7,Fournitures et consommables,Exploitation,DEPENSE,152560.08,10452.14
+2024,7,Honoraires de conseil,Services,REVENU,4463701.22,19431.86
+2024,7,Impôts et taxes,Administration,DEPENSE,113527.38,15324.20
+2024,7,Informatique et logiciels,Exploitation,DEPENSE,112502.32,25843.08
+2024,7,Intérêts et frais bancaires,Finance,DEPENSE,24111.30,1948.88
+2024,7,Loyers et immobilier,Immobilier,DEPENSE,231669.72,29620.40
+2024,7,Marketing et publicité,Marketing,DEPENSE,214423.32,17735.10
+2024,7,Prestations de services,Services,REVENU,5195396.50,34912.02
+2024,7,Salaires et charges sociales,Personnel,DEPENSE,922360.20,103172.21
+2024,7,Transport et logistique,Exploitation,DEPENSE,109184.56,18587.45
+2024,7,Ventes à l'export,Ventes,REVENU,5627607.92,31504.64
+2024,7,Ventes de produits,Ventes,REVENU,18329584.56,104118.04
+2024,8,Énergie et eau,Exploitation,DEPENSE,108681.52,4211.84
+2024,8,Abonnements et maintenance,Abonnements,REVENU,1069467.36,5681.32
+2024,8,Assurances,Administration,DEPENSE,56191.20,7557.95
+2024,8,Fournitures et consommables,Exploitation,DEPENSE,58616.49,5978.68
+2024,8,Honoraires de conseil,Services,REVENU,3786364.80,20732.45
+2024,8,Impôts et taxes,Administration,DEPENSE,199395.00,28787.51
+2024,8,Informatique et logiciels,Exploitation,DEPENSE,89100.55,13626.27
+2024,8,Intérêts et frais bancaires,Finance,DEPENSE,54882.40,3624.21
+2024,8,Loyers et immobilier,Immobilier,DEPENSE,156405.96,21357.19
+2024,8,Marketing et publicité,Marketing,DEPENSE,281370.60,32973.69
+2024,8,Prestations de services,Services,REVENU,5897324.16,24967.85
+2024,8,Salaires et charges sociales,Personnel,DEPENSE,674770.77,80769.59
+2024,8,Transport et logistique,Exploitation,DEPENSE,286207.32,24223.80
+2024,8,Ventes à l'export,Ventes,REVENU,3633314.40,21136.82
+2024,8,Ventes de produits,Ventes,REVENU,21124033.74,104544.71
+2024,9,Énergie et eau,Exploitation,DEPENSE,120725.46,10433.23
+2024,9,Abonnements et maintenance,Abonnements,REVENU,1007340.10,6190.74
+2024,9,Assurances,Administration,DEPENSE,79314.83,9792.46
+2024,9,Fournitures et consommables,Exploitation,DEPENSE,118936.86,8570.39
+2024,9,Honoraires de conseil,Services,REVENU,3226278.81,21687.91
+2024,9,Impôts et taxes,Administration,DEPENSE,157240.40,26967.66
+2024,9,Informatique et logiciels,Exploitation,DEPENSE,71542.52,11812.66
+2024,9,Intérêts et frais bancaires,Finance,DEPENSE,34360.96,3022.64
+2024,9,Loyers et immobilier,Immobilier,DEPENSE,192835.90,19089.92
+2024,9,Marketing et publicité,Marketing,DEPENSE,469264.56,50947.16
+2024,9,Prestations de services,Services,REVENU,6394643.08,29609.20
+2024,9,Salaires et charges sociales,Personnel,DEPENSE,404260.20,37729.00
+2024,9,Transport et logistique,Exploitation,DEPENSE,151096.62,11768.34
+2024,9,Ventes à l'export,Ventes,REVENU,4623190.25,29458.37
+2024,9,Ventes de produits,Ventes,REVENU,15552714.58,86437.15
+2024,10,Énergie et eau,Exploitation,DEPENSE,81082.02,6560.59
+2024,10,Abonnements et maintenance,Abonnements,REVENU,1174229.42,6687.72
+2024,10,Assurances,Administration,DEPENSE,102095.51,19110.02
+2024,10,Fournitures et consommables,Exploitation,DEPENSE,102577.80,7121.14
+2024,10,Honoraires de conseil,Services,REVENU,5691874.31,29307.94
+2024,10,Impôts et taxes,Administration,DEPENSE,43857.84,0.00
+2024,10,Informatique et logiciels,Exploitation,DEPENSE,50372.31,7207.48
+2024,10,Intérêts et frais bancaires,Finance,DEPENSE,49806.36,4437.86
+2024,10,Loyers et immobilier,Immobilier,DEPENSE,257727.60,19129.50
+2024,10,Marketing et publicité,Marketing,DEPENSE,393497.30,44759.69
+2024,10,Prestations de services,Services,REVENU,4653761.25,28885.74
+2024,10,Salaires et charges sociales,Personnel,DEPENSE,438465.05,56281.17
+2024,10,Transport et logistique,Exploitation,DEPENSE,77348.37,11102.94
+2024,10,Ventes à l'export,Ventes,REVENU,3668183.75,22001.82
+2024,10,Ventes de produits,Ventes,REVENU,20227923.28,122218.31
+2024,11,Énergie et eau,Exploitation,DEPENSE,103342.60,9244.71
+2024,11,Abonnements et maintenance,Abonnements,REVENU,1260639.04,7508.36
+2024,11,Assurances,Administration,DEPENSE,39670.48,5451.66
+2024,11,Fournitures et consommables,Exploitation,DEPENSE,80726.25,5894.69
+2024,11,Honoraires de conseil,Services,REVENU,3021279.60,14864.24
+2024,11,Impôts et taxes,Administration,DEPENSE,261294.15,36366.94
+2024,11,Informatique et logiciels,Exploitation,DEPENSE,100108.14,17321.31
+2024,11,Intérêts et frais bancaires,Finance,DEPENSE,46040.31,3591.33
+2024,11,Loyers et immobilier,Immobilier,DEPENSE,153371.36,15375.29
+2024,11,Marketing et publicité,Marketing,DEPENSE,161793.50,9454.69
+2024,11,Prestations de services,Services,REVENU,9754258.80,46723.30
+2024,11,Salaires et charges sociales,Personnel,DEPENSE,658133.70,88772.43
+2024,11,Transport et logistique,Exploitation,DEPENSE,319519.56,35835.80
+2024,11,Ventes à l'export,Ventes,REVENU,5304044.20,29256.42
+2024,11,Ventes de produits,Ventes,REVENU,16282445.85,124917.76
+2024,12,Énergie et eau,Exploitation,DEPENSE,31059.84,2942.86
+2024,12,Abonnements et maintenance,Abonnements,REVENU,971888.25,6353.16
+2024,12,Assurances,Administration,DEPENSE,85367.60,15612.15
+2024,12,Fournitures et consommables,Exploitation,DEPENSE,99764.00,6999.30
+2024,12,Honoraires de conseil,Services,REVENU,4392934.59,20018.56
+2024,12,Impôts et taxes,Administration,DEPENSE,79480.24,11626.89
+2024,12,Informatique et logiciels,Exploitation,DEPENSE,106069.80,12144.36
+2024,12,Intérêts et frais bancaires,Finance,DEPENSE,53245.70,4142.89
+2024,12,Loyers et immobilier,Immobilier,DEPENSE,94143.25,11356.41
+2024,12,Marketing et publicité,Marketing,DEPENSE,188397.55,14533.30
+2024,12,Prestations de services,Services,REVENU,5200229.10,27523.66
+2024,12,Salaires et charges sociales,Personnel,DEPENSE,766270.48,82080.14
+2024,12,Transport et logistique,Exploitation,DEPENSE,337479.74,36284.75
+2024,12,Ventes à l'export,Ventes,REVENU,5285819.20,32770.43
+2024,12,Ventes de produits,Ventes,REVENU,19105161.60,87056.16
+2025,1,Énergie et eau,Exploitation,DEPENSE,73480.62,5627.97
+2025,1,Abonnements et maintenance,Abonnements,REVENU,1326875.57,6417.13
+2025,1,Assurances,Administration,DEPENSE,56223.78,6132.85
+2025,1,Fournitures et consommables,Exploitation,DEPENSE,112689.01,8532.37
+2025,1,Honoraires de conseil,Services,REVENU,4906978.11,23438.72
+2025,1,Impôts et taxes,Administration,DEPENSE,183359.97,12989.30
+2025,1,Informatique et logiciels,Exploitation,DEPENSE,62023.32,9642.08
+2025,1,Intérêts et frais bancaires,Finance,DEPENSE,32108.58,1466.34
+2025,1,Loyers et immobilier,Immobilier,DEPENSE,143520.56,14074.04
+2025,1,Marketing et publicité,Marketing,DEPENSE,336128.22,35695.90
+2025,1,Prestations de services,Services,REVENU,7350466.01,48541.90
+2025,1,Salaires et charges sociales,Personnel,DEPENSE,654825.96,89548.48
+2025,1,Transport et logistique,Exploitation,DEPENSE,145462.68,13308.75
+2025,1,Ventes à l'export,Ventes,REVENU,5240873.14,31288.58
+2025,1,Ventes de produits,Ventes,REVENU,16509878.08,124156.06
+2025,2,Énergie et eau,Exploitation,DEPENSE,23861.14,2393.17
+2025,2,Abonnements et maintenance,Abonnements,REVENU,1246581.35,7730.02
+2025,2,Assurances,Administration,DEPENSE,82902.51,11601.36
+2025,2,Fournitures et consommables,Exploitation,DEPENSE,103331.28,11435.27
+2025,2,Honoraires de conseil,Services,REVENU,4343337.14,21976.97
+2025,2,Impôts et taxes,Administration,DEPENSE,139127.45,17704.29
+2025,2,Informatique et logiciels,Exploitation,DEPENSE,86756.10,6722.67
+2025,2,Intérêts et frais bancaires,Finance,DEPENSE,33539.45,2081.76
+2025,2,Loyers et immobilier,Immobilier,DEPENSE,138273.76,16399.65
+2025,2,Marketing et publicité,Marketing,DEPENSE,369549.96,38831.91
+2025,2,Prestations de services,Services,REVENU,5500053.12,25761.06
+2025,2,Salaires et charges sociales,Personnel,DEPENSE,452083.05,71146.24
+2025,2,Transport et logistique,Exploitation,DEPENSE,142613.40,19542.32
+2025,2,Ventes à l'export,Ventes,REVENU,3786178.20,24541.70
+2025,2,Ventes de produits,Ventes,REVENU,21010601.23,131627.66
+2025,3,Énergie et eau,Exploitation,DEPENSE,104562.40,8390.47
+2025,3,Abonnements et maintenance,Abonnements,REVENU,1466516.83,6974.12
+2025,3,Assurances,Administration,DEPENSE,92461.20,11957.90
+2025,3,Fournitures et consommables,Exploitation,DEPENSE,105390.72,7545.86
+2025,3,Honoraires de conseil,Services,REVENU,4553264.03,23288.77
+2025,3,Impôts et taxes,Administration,DEPENSE,152723.44,22993.06
+2025,3,Informatique et logiciels,Exploitation,DEPENSE,162383.70,20636.92
+2025,3,Intérêts et frais bancaires,Finance,DEPENSE,35743.82,2438.89
+2025,3,Loyers et immobilier,Immobilier,DEPENSE,184450.41,22229.80
+2025,3,Marketing et publicité,Marketing,DEPENSE,240100.63,26561.68
+2025,3,Prestations de services,Services,REVENU,5928402.24,41273.18
+2025,3,Salaires et charges sociales,Personnel,DEPENSE,279957.69,33484.75
+2025,3,Transport et logistique,Exploitation,DEPENSE,106843.72,18617.70
+2025,3,Ventes à l'export,Ventes,REVENU,3919034.34,22347.14
+2025,3,Ventes de produits,Ventes,REVENU,16185911.81,118307.06
+2025,4,Énergie et eau,Exploitation,DEPENSE,34277.13,4235.88
+2025,4,Abonnements et maintenance,Abonnements,REVENU,1544436.74,6699.51
+2025,4,Assurances,Administration,DEPENSE,67217.15,6451.30
+2025,4,Fournitures et consommables,Exploitation,DEPENSE,157538.43,8665.74
+2025,4,Honoraires de conseil,Services,REVENU,4734259.56,23656.29
+2025,4,Impôts et taxes,Administration,DEPENSE,149568.23,15382.65
+2025,4,Informatique et logiciels,Exploitation,DEPENSE,126042.14,17615.21
+2025,4,Intérêts et frais bancaires,Finance,DEPENSE,33712.49,2891.93
+2025,4,Loyers et immobilier,Immobilier,DEPENSE,51555.96,6939.90
+2025,4,Marketing et publicité,Marketing,DEPENSE,235210.80,18908.12
+2025,4,Prestations de services,Services,REVENU,6230802.27,33436.93
+2025,4,Salaires et charges sociales,Personnel,DEPENSE,731289.60,89717.71
+2025,4,Transport et logistique,Exploitation,DEPENSE,149000.16,11813.28
+2025,4,Ventes à l'export,Ventes,REVENU,3044649.96,18990.85
+2025,4,Ventes de produits,Ventes,REVENU,18048950.37,119485.96
+2025,5,Énergie et eau,Exploitation,DEPENSE,142044.96,12298.17
+2025,5,Abonnements et maintenance,Abonnements,REVENU,1302600.25,8173.88
+2025,5,Assurances,Administration,DEPENSE,57755.58,9252.63
+2025,5,Fournitures et consommables,Exploitation,DEPENSE,159178.14,10644.40
+2025,5,Honoraires de conseil,Services,REVENU,4759676.67,23976.81
+2025,5,Impôts et taxes,Administration,DEPENSE,226999.56,24524.91
+2025,5,Informatique et logiciels,Exploitation,DEPENSE,96483.10,18460.87
+2025,5,Intérêts et frais bancaires,Finance,DEPENSE,39498.30,3804.48
+2025,5,Loyers et immobilier,Immobilier,DEPENSE,41265.20,5880.56
+2025,5,Marketing et publicité,Marketing,DEPENSE,129569.20,18278.84
+2025,5,Prestations de services,Services,REVENU,6262299.15,32690.24
+2025,5,Salaires et charges sociales,Personnel,DEPENSE,315367.68,53898.17
+2025,5,Transport et logistique,Exploitation,DEPENSE,170155.86,16771.75
+2025,5,Ventes à l'export,Ventes,REVENU,5537614.17,31469.30
+2025,5,Ventes de produits,Ventes,REVENU,19756612.87,141467.45
+2025,6,Énergie et eau,Exploitation,DEPENSE,80174.52,5308.43
+2025,6,Abonnements et maintenance,Abonnements,REVENU,1412307.62,9732.62
+2025,6,Assurances,Administration,DEPENSE,43920.35,8227.64
+2025,6,Fournitures et consommables,Exploitation,DEPENSE,113899.44,6772.69
+2025,6,Honoraires de conseil,Services,REVENU,3798368.28,16490.46
+2025,6,Impôts et taxes,Administration,DEPENSE,86295.24,9740.80
+2025,6,Informatique et logiciels,Exploitation,DEPENSE,71546.64,8437.06
+2025,6,Intérêts et frais bancaires,Finance,DEPENSE,17954.00,1396.76
+2025,6,Loyers et immobilier,Immobilier,DEPENSE,213499.33,22382.46
+2025,6,Marketing et publicité,Marketing,DEPENSE,221283.02,17535.18
+2025,6,Prestations de services,Services,REVENU,4942137.25,25397.31
+2025,6,Salaires et charges sociales,Personnel,DEPENSE,790260.93,104375.09
+2025,6,Transport et logistique,Exploitation,DEPENSE,95380.24,14948.71
+2025,6,Ventes à l'export,Ventes,REVENU,5184211.53,23884.85
+2025,6,Ventes de produits,Ventes,REVENU,16605327.50,104167.30
+2025,7,Énergie et eau,Exploitation,DEPENSE,118202.49,8187.88
+2025,7,Abonnements et maintenance,Abonnements,REVENU,1150744.32,8065.99
+2025,7,Assurances,Administration,DEPENSE,31548.06,8327.37
+2025,7,Fournitures et consommables,Exploitation,DEPENSE,60216.09,4617.09
+2025,7,Honoraires de conseil,Services,REVENU,4815030.80,27255.96
+2025,7,Impôts et taxes,Administration,DEPENSE,154353.04,22564.64
+2025,7,Informatique et logiciels,Exploitation,DEPENSE,109785.13,17400.12
+2025,7,Intérêts et frais bancaires,Finance,DEPENSE,39203.57,2964.23
+2025,7,Loyers et immobilier,Immobilier,DEPENSE,127468.50,17389.16
+2025,7,Marketing et publicité,Marketing,DEPENSE,382353.36,36221.18
+2025,7,Prestations de services,Services,REVENU,5636187.84,35568.97
+2025,7,Salaires et charges sociales,Personnel,DEPENSE,921066.60,121588.00
+2025,7,Transport et logistique,Exploitation,DEPENSE,146550.18,11590.29
+2025,7,Ventes à l'export,Ventes,REVENU,4429862.04,30399.85
+2025,7,Ventes de produits,Ventes,REVENU,15925516.80,113339.58
+2025,8,Énergie et eau,Exploitation,DEPENSE,130900.10,10037.62
+2025,8,Abonnements et maintenance,Abonnements,REVENU,1204167.06,6123.01
+2025,8,Assurances,Administration,DEPENSE,45884.20,4753.34
+2025,8,Fournitures et consommables,Exploitation,DEPENSE,173984.80,11460.43
+2025,8,Honoraires de conseil,Services,REVENU,2782497.45,14158.26
+2025,8,Impôts et taxes,Administration,DEPENSE,124774.10,13411.63
+2025,8,Informatique et logiciels,Exploitation,DEPENSE,111167.44,16039.89
+2025,8,Intérêts et frais bancaires,Finance,DEPENSE,9895.48,976.60
+2025,8,Loyers et immobilier,Immobilier,DEPENSE,152094.11,16458.88
+2025,8,Marketing et publicité,Marketing,DEPENSE,117345.30,5245.49
+2025,8,Prestations de services,Services,REVENU,6196731.42,32610.75
+2025,8,Salaires et charges sociales,Personnel,DEPENSE,730411.38,99570.23
+2025,8,Transport et logistique,Exploitation,DEPENSE,293710.34,28506.85
+2025,8,Ventes à l'export,Ventes,REVENU,4468807.20,26314.08
+2025,8,Ventes de produits,Ventes,REVENU,15285334.96,122936.64
+2025,9,Énergie et eau,Exploitation,DEPENSE,88519.44,7102.80
+2025,9,Abonnements et maintenance,Abonnements,REVENU,1028233.28,8145.45
+2025,9,Assurances,Administration,DEPENSE,80006.49,12691.34
+2025,9,Fournitures et consommables,Exploitation,DEPENSE,94780.45,7814.80
+2025,9,Honoraires de conseil,Services,REVENU,3415393.89,18158.85
+2025,9,Impôts et taxes,Administration,DEPENSE,196171.50,33924.70
+2025,9,Informatique et logiciels,Exploitation,DEPENSE,90389.76,12313.83
+2025,9,Intérêts et frais bancaires,Finance,DEPENSE,39723.03,2259.50
+2025,9,Loyers et immobilier,Immobilier,DEPENSE,228755.12,31565.78
+2025,9,Marketing et publicité,Marketing,DEPENSE,111772.59,13368.38
+2025,9,Prestations de services,Services,REVENU,6975501.22,41015.58
+2025,9,Salaires et charges sociales,Personnel,DEPENSE,760602.60,122455.85
+2025,9,Transport et logistique,Exploitation,DEPENSE,90103.84,15810.59
+2025,9,Ventes à l'export,Ventes,REVENU,3618071.80,22836.27
+2025,9,Ventes de produits,Ventes,REVENU,16595965.63,97670.43
+2025,10,Énergie et eau,Exploitation,DEPENSE,89738.80,5886.76
+2025,10,Abonnements et maintenance,Abonnements,REVENU,1173425.92,9182.56
+2025,10,Assurances,Administration,DEPENSE,52459.62,9242.29
+2025,10,Fournitures et consommables,Exploitation,DEPENSE,94253.82,11238.54
+2025,10,Honoraires de conseil,Services,REVENU,3506067.04,18135.01
+2025,10,Impôts et taxes,Administration,DEPENSE,145785.72,12696.65
+2025,10,Informatique et logiciels,Exploitation,DEPENSE,110323.74,12003.76
+2025,10,Intérêts et frais bancaires,Finance,DEPENSE,19654.32,548.31
+2025,10,Loyers et immobilier,Immobilier,DEPENSE,143514.91,21519.68
+2025,10,Marketing et publicité,Marketing,DEPENSE,235103.96,28384.75
+2025,10,Prestations de services,Services,REVENU,6141748.20,32933.36
+2025,10,Salaires et charges sociales,Personnel,DEPENSE,751609.68,92145.72
+2025,10,Transport et logistique,Exploitation,DEPENSE,158503.24,23897.60
+2025,10,Ventes à l'export,Ventes,REVENU,4272009.28,25603.94
+2025,10,Ventes de produits,Ventes,REVENU,19948574.40,128098.45
+2025,11,Énergie et eau,Exploitation,DEPENSE,91674.10,8070.98
+2025,11,Abonnements et maintenance,Abonnements,REVENU,1347435.66,9547.31
+2025,11,Assurances,Administration,DEPENSE,88810.20,17492.69
+2025,11,Fournitures et consommables,Exploitation,DEPENSE,113582.91,6726.61
+2025,11,Honoraires de conseil,Services,REVENU,4566923.64,25901.87
+2025,11,Impôts et taxes,Administration,DEPENSE,116583.06,14503.89
+2025,11,Informatique et logiciels,Exploitation,DEPENSE,57709.96,6473.04
+2025,11,Intérêts et frais bancaires,Finance,DEPENSE,20179.52,2179.67
+2025,11,Loyers et immobilier,Immobilier,DEPENSE,75334.64,9400.11
+2025,11,Marketing et publicité,Marketing,DEPENSE,299355.00,28422.30
+2025,11,Prestations de services,Services,REVENU,8436972.57,42283.86
+2025,11,Salaires et charges sociales,Personnel,DEPENSE,382941.20,77378.63
+2025,11,Transport et logistique,Exploitation,DEPENSE,150365.28,24137.92
+2025,11,Ventes à l'export,Ventes,REVENU,5964313.68,32949.89
+2025,11,Ventes de produits,Ventes,REVENU,12090699.72,80406.49
+2025,12,Énergie et eau,Exploitation,DEPENSE,77088.48,5195.44
+2025,12,Abonnements et maintenance,Abonnements,REVENU,1822965.60,10069.73
+2025,12,Assurances,Administration,DEPENSE,35784.88,5397.58
+2025,12,Fournitures et consommables,Exploitation,DEPENSE,229491.22,19613.42
+2025,12,Honoraires de conseil,Services,REVENU,3590128.95,21419.25
+2025,12,Impôts et taxes,Administration,DEPENSE,199806.39,32609.41
+2025,12,Informatique et logiciels,Exploitation,DEPENSE,72940.15,12056.43
+2025,12,Intérêts et frais bancaires,Finance,DEPENSE,44162.55,3372.00
+2025,12,Loyers et immobilier,Immobilier,DEPENSE,133087.68,7508.96
+2025,12,Marketing et publicité,Marketing,DEPENSE,226290.60,17625.20
+2025,12,Prestations de services,Services,REVENU,4532876.66,29809.18
+2025,12,Salaires et charges sociales,Personnel,DEPENSE,376011.20,50470.33
+2025,12,Transport et logistique,Exploitation,DEPENSE,174265.68,24402.90
+2025,12,Ventes à l'export,Ventes,REVENU,4539871.08,31154.75
+2025,12,Ventes de produits,Ventes,REVENU,15481253.86,112104.47
+2026,1,Énergie et eau,Exploitation,DEPENSE,74406.90,4186.95
+2026,1,Abonnements et maintenance,Abonnements,REVENU,993495.34,7126.24
+2026,1,Assurances,Administration,DEPENSE,74415.53,9414.01
+2026,1,Fournitures et consommables,Exploitation,DEPENSE,183115.24,13598.18
+2026,1,Honoraires de conseil,Services,REVENU,3917931.60,19735.05
+2026,1,Impôts et taxes,Administration,DEPENSE,159755.89,29119.97
+2026,1,Informatique et logiciels,Exploitation,DEPENSE,91811.25,11076.70
+2026,1,Intérêts et frais bancaires,Finance,DEPENSE,26282.34,1949.33
+2026,1,Loyers et immobilier,Immobilier,DEPENSE,191579.85,19758.27
+2026,1,Marketing et publicité,Marketing,DEPENSE,350772.75,30287.92
+2026,1,Prestations de services,Services,REVENU,7708756.76,42358.25
+2026,1,Salaires et charges sociales,Personnel,DEPENSE,475730.55,75368.61
+2026,1,Transport et logistique,Exploitation,DEPENSE,259235.24,27229.78
+2026,1,Ventes à l'export,Ventes,REVENU,4173746.40,29493.08
+2026,1,Ventes de produits,Ventes,REVENU,20842605.54,136207.02
+2026,2,Énergie et eau,Exploitation,DEPENSE,77713.23,4826.73
+2026,2,Abonnements et maintenance,Abonnements,REVENU,1083043.50,6797.06
+2026,2,Assurances,Administration,DEPENSE,81325.60,12231.33
+2026,2,Fournitures et consommables,Exploitation,DEPENSE,59892.84,1361.94
+2026,2,Honoraires de conseil,Services,REVENU,3394424.28,18835.05
+2026,2,Impôts et taxes,Administration,DEPENSE,119638.60,19521.28
+2026,2,Informatique et logiciels,Exploitation,DEPENSE,120116.24,21402.33
+2026,2,Intérêts et frais bancaires,Finance,DEPENSE,30770.88,3092.81
+2026,2,Loyers et immobilier,Immobilier,DEPENSE,87500.00,12805.00
+2026,2,Marketing et publicité,Marketing,DEPENSE,209922.16,31603.65
+2026,2,Prestations de services,Services,REVENU,6357243.43,42729.96
+2026,2,Salaires et charges sociales,Personnel,DEPENSE,648187.82,81828.86
+2026,2,Transport et logistique,Exploitation,DEPENSE,183471.47,16591.42
+2026,2,Ventes à l'export,Ventes,REVENU,3746347.68,19878.91
+2026,2,Ventes de produits,Ventes,REVENU,15996912.75,91398.33
+2026,3,Énergie et eau,Exploitation,DEPENSE,145479.00,13386.17
+2026,3,Abonnements et maintenance,Abonnements,REVENU,1520569.05,7744.44
+2026,3,Assurances,Administration,DEPENSE,17467.78,3923.50
+2026,3,Fournitures et consommables,Exploitation,DEPENSE,102915.40,6869.91
+2026,3,Honoraires de conseil,Services,REVENU,5332368.16,28444.12
+2026,3,Impôts et taxes,Administration,DEPENSE,119384.04,15616.90
+2026,3,Informatique et logiciels,Exploitation,DEPENSE,117819.10,17560.69
+2026,3,Intérêts et frais bancaires,Finance,DEPENSE,32895.18,2799.69
+2026,3,Loyers et immobilier,Immobilier,DEPENSE,193251.52,28398.29
+2026,3,Marketing et publicité,Marketing,DEPENSE,276010.08,34759.37
+2026,3,Prestations de services,Services,REVENU,4901744.13,27687.04
+2026,3,Salaires et charges sociales,Personnel,DEPENSE,728363.79,66687.45
+2026,3,Transport et logistique,Exploitation,DEPENSE,214168.00,28746.20
+2026,3,Ventes à l'export,Ventes,REVENU,4396591.69,24549.49
+2026,3,Ventes de produits,Ventes,REVENU,21024660.24,133060.44
+2026,4,Énergie et eau,Exploitation,DEPENSE,54776.36,4689.46
+2026,4,Abonnements et maintenance,Abonnements,REVENU,1205262.33,6919.11
+2026,4,Assurances,Administration,DEPENSE,43970.25,4426.21
+2026,4,Fournitures et consommables,Exploitation,DEPENSE,182717.00,10264.20
+2026,4,Honoraires de conseil,Services,REVENU,4166419.18,24162.84
+2026,4,Impôts et taxes,Administration,DEPENSE,147215.76,15392.58
+2026,4,Informatique et logiciels,Exploitation,DEPENSE,99471.40,16299.08
+2026,4,Intérêts et frais bancaires,Finance,DEPENSE,17173.14,1552.58
+2026,4,Loyers et immobilier,Immobilier,DEPENSE,123016.14,16792.17
+2026,4,Marketing et publicité,Marketing,DEPENSE,129933.96,22622.63
+2026,4,Prestations de services,Services,REVENU,8006617.50,43634.13
+2026,4,Salaires et charges sociales,Personnel,DEPENSE,778479.00,90700.62
+2026,4,Transport et logistique,Exploitation,DEPENSE,182117.04,18631.20
+2026,4,Ventes à l'export,Ventes,REVENU,4867476.84,32515.43
+2026,4,Ventes de produits,Ventes,REVENU,15253960.85,101298.03
+2026,5,Énergie et eau,Exploitation,DEPENSE,106830.88,5565.12
+2026,5,Abonnements et maintenance,Abonnements,REVENU,1191984.04,5808.82
+2026,5,Assurances,Administration,DEPENSE,57093.18,8304.19
+2026,5,Fournitures et consommables,Exploitation,DEPENSE,99783.20,6007.25
+2026,5,Honoraires de conseil,Services,REVENU,3645830.44,17992.54
+2026,5,Impôts et taxes,Administration,DEPENSE,145337.71,22073.10
+2026,5,Informatique et logiciels,Exploitation,DEPENSE,48676.80,7730.30
+2026,5,Intérêts et frais bancaires,Finance,DEPENSE,54462.30,4946.38
+2026,5,Loyers et immobilier,Immobilier,DEPENSE,131091.94,10943.20
+2026,5,Marketing et publicité,Marketing,DEPENSE,218922.90,13564.41
+2026,5,Prestations de services,Services,REVENU,5752123.47,33177.52
+2026,5,Salaires et charges sociales,Personnel,DEPENSE,499509.54,77345.35
+2026,5,Transport et logistique,Exploitation,DEPENSE,326401.08,36352.56
+2026,5,Ventes à l'export,Ventes,REVENU,4945633.61,25914.01
+2026,5,Ventes de produits,Ventes,REVENU,26057154.19,142338.31
+2026,6,Énergie et eau,Exploitation,DEPENSE,118080.80,12360.54
+2026,6,Abonnements et maintenance,Abonnements,REVENU,1131616.71,5795.55
+2026,6,Assurances,Administration,DEPENSE,71661.66,7644.16
+2026,6,Fournitures et consommables,Exploitation,DEPENSE,148223.52,10702.28
+2026,6,Honoraires de conseil,Services,REVENU,4255457.74,24828.87
+2026,6,Impôts et taxes,Administration,DEPENSE,117907.02,15011.80
+2026,6,Informatique et logiciels,Exploitation,DEPENSE,164874.51,20864.16
+2026,6,Intérêts et frais bancaires,Finance,DEPENSE,44779.77,3441.72
+2026,6,Loyers et immobilier,Immobilier,DEPENSE,132121.20,18502.83
+2026,6,Marketing et publicité,Marketing,DEPENSE,461187.09,60126.87
+2026,6,Prestations de services,Services,REVENU,4949970.74,26628.81
+2026,6,Salaires et charges sociales,Personnel,DEPENSE,543721.29,79382.38
+2026,6,Transport et logistique,Exploitation,DEPENSE,205030.24,17357.71
+2026,6,Ventes à l'export,Ventes,REVENU,4377114.60,26134.84
+2026,6,Ventes de produits,Ventes,REVENU,18887840.40,133030.80
+2026,7,Énergie et eau,Exploitation,DEPENSE,85666.98,7929.74
+2026,7,Abonnements et maintenance,Abonnements,REVENU,1075681.40,7180.30
+2026,7,Assurances,Administration,DEPENSE,55193.34,11628.22
+2026,7,Fournitures et consommables,Exploitation,DEPENSE,170820.36,15958.60
+2026,7,Honoraires de conseil,Services,REVENU,4217835.32,20786.15
+2026,7,Impôts et taxes,Administration,DEPENSE,216174.87,27365.92
+2026,7,Informatique et logiciels,Exploitation,DEPENSE,121509.60,22811.54
+2026,7,Intérêts et frais bancaires,Finance,DEPENSE,18421.84,2284.63
+2026,7,Loyers et immobilier,Immobilier,DEPENSE,210188.00,28196.62
+2026,7,Marketing et publicité,Marketing,DEPENSE,277861.64,28380.73
+2026,7,Prestations de services,Services,REVENU,8048739.24,37415.97
+2026,7,Salaires et charges sociales,Personnel,DEPENSE,613419.24,73062.97
+2026,7,Transport et logistique,Exploitation,DEPENSE,271471.20,31511.50
+2026,7,Ventes à l'export,Ventes,REVENU,6531298.41,31667.79
+2026,7,Ventes de produits,Ventes,REVENU,19614654.84,111318.43
+2026,8,Énergie et eau,Exploitation,DEPENSE,63148.38,8617.05
+2026,8,Abonnements et maintenance,Abonnements,REVENU,1638606.06,8210.68
+2026,8,Assurances,Administration,DEPENSE,45361.65,6398.39
+2026,8,Fournitures et consommables,Exploitation,DEPENSE,93514.32,9136.12
+2026,8,Honoraires de conseil,Services,REVENU,3947765.44,22672.21
+2026,8,Impôts et taxes,Administration,DEPENSE,172877.31,28814.23
+2026,8,Informatique et logiciels,Exploitation,DEPENSE,35004.42,5918.90
+2026,8,Intérêts et frais bancaires,Finance,DEPENSE,49503.96,4100.01
+2026,8,Loyers et immobilier,Immobilier,DEPENSE,188087.00,22780.84
+2026,8,Marketing et publicité,Marketing,DEPENSE,237021.75,20650.76
+2026,8,Prestations de services,Services,REVENU,5732682.13,32513.82
+2026,8,Salaires et charges sociales,Personnel,DEPENSE,659108.34,110466.33
+2026,8,Transport et logistique,Exploitation,DEPENSE,70326.24,9668.40
+2026,8,Ventes à l'export,Ventes,REVENU,5467940.48,28638.32
+2026,8,Ventes de produits,Ventes,REVENU,16336453.20,123461.10
+2026,9,Énergie et eau,Exploitation,DEPENSE,46012.36,4704.79
+2026,9,Abonnements et maintenance,Abonnements,REVENU,1011811.75,5289.18
+2026,9,Assurances,Administration,DEPENSE,119585.18,10846.38
+2026,9,Fournitures et consommables,Exploitation,DEPENSE,136660.51,4643.50
+2026,9,Honoraires de conseil,Services,REVENU,3341409.00,17961.70
+2026,9,Impôts et taxes,Administration,DEPENSE,95219.20,10582.04
+2026,9,Informatique et logiciels,Exploitation,DEPENSE,86450.28,9394.86
+2026,9,Intérêts et frais bancaires,Finance,DEPENSE,25162.70,1982.40
+2026,9,Loyers et immobilier,Immobilier,DEPENSE,233087.27,28712.64
+2026,9,Marketing et publicité,Marketing,DEPENSE,270679.71,29017.06
+2026,9,Prestations de services,Services,REVENU,5719231.68,35213.17
+2026,9,Salaires et charges sociales,Personnel,DEPENSE,797546.25,94242.96
+2026,9,Transport et logistique,Exploitation,DEPENSE,197826.32,9915.96
+2026,9,Ventes à l'export,Ventes,REVENU,4274411.58,21902.11
+2026,9,Ventes de produits,Ventes,REVENU,23085633.96,116688.72
+2026,10,Énergie et eau,Exploitation,DEPENSE,84631.52,6890.00
+2026,10,Abonnements et maintenance,Abonnements,REVENU,1377232.85,8158.72
+2026,10,Assurances,Administration,DEPENSE,73049.76,9411.85
+2026,10,Fournitures et consommables,Exploitation,DEPENSE,97568.28,8217.12
+2026,10,Honoraires de conseil,Services,REVENU,3581239.35,19833.68
+2026,10,Impôts et taxes,Administration,DEPENSE,142428.37,14465.68
+2026,10,Informatique et logiciels,Exploitation,DEPENSE,60390.00,9391.40
+2026,10,Intérêts et frais bancaires,Finance,DEPENSE,38268.58,3951.56
+2026,10,Loyers et immobilier,Immobilier,DEPENSE,148748.88,18355.33
+2026,10,Marketing et publicité,Marketing,DEPENSE,503960.24,41530.24
+2026,10,Prestations de services,Services,REVENU,7039047.24,34950.86
+2026,10,Salaires et charges sociales,Personnel,DEPENSE,695846.80,114827.06
+2026,10,Transport et logistique,Exploitation,DEPENSE,200840.57,17475.69
+2026,10,Ventes à l'export,Ventes,REVENU,4707102.31,25676.81
+2026,10,Ventes de produits,Ventes,REVENU,15328895.98,113583.08
+2026,11,Énergie et eau,Exploitation,DEPENSE,111764.34,8056.57
+2026,11,Abonnements et maintenance,Abonnements,REVENU,1153908.55,7869.55
+2026,11,Assurances,Administration,DEPENSE,28164.03,5087.31
+2026,11,Fournitures et consommables,Exploitation,DEPENSE,146188.96,6757.39
+2026,11,Honoraires de conseil,Services,REVENU,3365407.00,18446.18
+2026,11,Impôts et taxes,Administration,DEPENSE,179780.94,21983.64
+2026,11,Informatique et logiciels,Exploitation,DEPENSE,69881.65,13129.58
+2026,11,Intérêts et frais bancaires,Finance,DEPENSE,54682.40,5071.91
+2026,11,Loyers et immobilier,Immobilier,DEPENSE,73423.52,13393.29
+2026,11,Marketing et publicité,Marketing,DEPENSE,181380.48,17680.61
+2026,11,Prestations de services,Services,REVENU,5944272.51,40730.00
+2026,11,Salaires et charges sociales,Personnel,DEPENSE,1079586.12,151986.06
+2026,11,Transport et logistique,Exploitation,DEPENSE,195734.64,18155.00
+2026,11,Ventes à l'export,Ventes,REVENU,4330086.42,25510.16
+2026,11,Ventes de produits,Ventes,REVENU,15950927.40,120421.54
+2026,12,Énergie et eau,Exploitation,DEPENSE,75223.89,7966.25
+2026,12,Abonnements et maintenance,Abonnements,REVENU,1464591.04,7021.77
+2026,12,Assurances,Administration,DEPENSE,74565.61,9520.31
+2026,12,Fournitures et consommables,Exploitation,DEPENSE,175351.68,8243.35
+2026,12,Honoraires de conseil,Services,REVENU,4350893.25,24340.72
+2026,12,Impôts et taxes,Administration,DEPENSE,61712.67,5898.92
+2026,12,Informatique et logiciels,Exploitation,DEPENSE,104107.78,21331.77
+2026,12,Intérêts et frais bancaires,Finance,DEPENSE,54590.14,3573.35
+2026,12,Loyers et immobilier,Immobilier,DEPENSE,154711.62,23038.94
+2026,12,Marketing et publicité,Marketing,DEPENSE,214659.66,17923.34
+2026,12,Prestations de services,Services,REVENU,8459596.80,44533.54
+2026,12,Salaires et charges sociales,Personnel,DEPENSE,600028.80,125429.78
+2026,12,Transport et logistique,Exploitation,DEPENSE,171562.65,15904.07
+2026,12,Ventes à l'export,Ventes,REVENU,3689212.23,23381.14
+2026,12,Ventes de produits,Ventes,REVENU,21075430.72,128109.59
+2027,1,Énergie et eau,Exploitation,DEPENSE,111265.47,9230.45
+2027,1,Abonnements et maintenance,Abonnements,REVENU,1167910.24,7378.29
+2027,1,Assurances,Administration,DEPENSE,68684.16,8965.10
+2027,1,Fournitures et consommables,Exploitation,DEPENSE,140451.78,11042.36
+2027,1,Honoraires de conseil,Services,REVENU,3905185.80,20889.82
+2027,1,Impôts et taxes,Administration,DEPENSE,242531.40,26579.40
+2027,1,Informatique et logiciels,Exploitation,DEPENSE,89075.40,8909.37
+2027,1,Intérêts et frais bancaires,Finance,DEPENSE,37873.36,2119.18
+2027,1,Loyers et immobilier,Immobilier,DEPENSE,135628.68,13680.52
+2027,1,Marketing et publicité,Marketing,DEPENSE,277115.30,40148.82
+2027,1,Prestations de services,Services,REVENU,5163791.62,29924.85
+2027,1,Salaires et charges sociales,Personnel,DEPENSE,782878.77,94714.30
+2027,1,Transport et logistique,Exploitation,DEPENSE,191417.76,20928.45
+2027,1,Ventes à l'export,Ventes,REVENU,4811261.56,25573.71
+2027,1,Ventes de produits,Ventes,REVENU,20892370.66,135679.37
+2027,2,Énergie et eau,Exploitation,DEPENSE,122963.76,10938.06
+2027,2,Abonnements et maintenance,Abonnements,REVENU,1074988.32,8015.02
+2027,2,Assurances,Administration,DEPENSE,55386.84,6524.55
+2027,2,Fournitures et consommables,Exploitation,DEPENSE,113220.42,6540.49
+2027,2,Honoraires de conseil,Services,REVENU,3781607.04,20760.53
+2027,2,Impôts et taxes,Administration,DEPENSE,117953.70,12384.35
+2027,2,Informatique et logiciels,Exploitation,DEPENSE,91375.20,9480.96
+2027,2,Intérêts et frais bancaires,Finance,DEPENSE,26100.75,2318.19
+2027,2,Loyers et immobilier,Immobilier,DEPENSE,120941.94,14480.95
+2027,2,Marketing et publicité,Marketing,DEPENSE,172266.00,11449.47
+2027,2,Prestations de services,Services,REVENU,3907584.12,33137.36
+2027,2,Salaires et charges sociales,Personnel,DEPENSE,658437.52,102254.09
+2027,2,Transport et logistique,Exploitation,DEPENSE,54887.74,10533.92
+2027,2,Ventes à l'export,Ventes,REVENU,3488683.38,22654.26
+2027,2,Ventes de produits,Ventes,REVENU,16309878.10,104214.33
+2027,3,Énergie et eau,Exploitation,DEPENSE,85527.12,6743.75
+2027,3,Abonnements et maintenance,Abonnements,REVENU,934273.08,5499.74
+2027,3,Assurances,Administration,DEPENSE,110868.48,18065.54
+2027,3,Fournitures et consommables,Exploitation,DEPENSE,180101.43,9746.45
+2027,3,Honoraires de conseil,Services,REVENU,3538849.60,17482.88
+2027,3,Impôts et taxes,Administration,DEPENSE,46307.98,9606.88
+2027,3,Informatique et logiciels,Exploitation,DEPENSE,116542.51,13641.40
+2027,3,Intérêts et frais bancaires,Finance,DEPENSE,22385.70,2081.72
+2027,3,Loyers et immobilier,Immobilier,DEPENSE,192607.10,22852.61
+2027,3,Marketing et publicité,Marketing,DEPENSE,216335.46,28737.45
+2027,3,Prestations de services,Services,REVENU,7665044.32,47733.56
+2027,3,Salaires et charges sociales,Personnel,DEPENSE,582110.06,49015.24
+2027,3,Transport et logistique,Exploitation,DEPENSE,113211.10,18466.43
+2027,3,Ventes à l'export,Ventes,REVENU,5418359.31,35123.42
+2027,3,Ventes de produits,Ventes,REVENU,15852169.20,109390.45
+2027,4,Énergie et eau,Exploitation,DEPENSE,72420.32,6187.00
+2027,4,Abonnements et maintenance,Abonnements,REVENU,1463503.55,9537.10
+2027,4,Assurances,Administration,DEPENSE,96340.40,18195.05
+2027,4,Fournitures et consommables,Exploitation,DEPENSE,93622.95,8230.13
+2027,4,Honoraires de conseil,Services,REVENU,3094279.70,15055.10
+2027,4,Impôts et taxes,Administration,DEPENSE,100945.92,9781.66
+2027,4,Informatique et logiciels,Exploitation,DEPENSE,157730.58,20304.81
+2027,4,Intérêts et frais bancaires,Finance,DEPENSE,22135.45,1766.90
+2027,4,Loyers et immobilier,Immobilier,DEPENSE,150664.56,25347.44
+2027,4,Marketing et publicité,Marketing,DEPENSE,334858.59,25766.56
+2027,4,Prestations de services,Services,REVENU,7855567.92,41913.29
+2027,4,Salaires et charges sociales,Personnel,DEPENSE,769584.08,75637.61
+2027,4,Transport et logistique,Exploitation,DEPENSE,164494.54,29248.18
+2027,4,Ventes à l'export,Ventes,REVENU,5067401.46,35466.33
+2027,4,Ventes de produits,Ventes,REVENU,19235129.57,99249.88
+2027,5,Énergie et eau,Exploitation,DEPENSE,114563.10,14352.37
+2027,5,Abonnements et maintenance,Abonnements,REVENU,1032098.76,6766.40
+2027,5,Assurances,Administration,DEPENSE,148003.96,16234.12
+2027,5,Fournitures et consommables,Exploitation,DEPENSE,133101.52,7544.53
+2027,5,Honoraires de conseil,Services,REVENU,4043996.03,25042.51
+2027,5,Impôts et taxes,Administration,DEPENSE,192001.44,20235.03
+2027,5,Informatique et logiciels,Exploitation,DEPENSE,85354.74,8381.93
+2027,5,Intérêts et frais bancaires,Finance,DEPENSE,23070.20,1844.54
+2027,5,Loyers et immobilier,Immobilier,DEPENSE,120819.84,14469.04
+2027,5,Marketing et publicité,Marketing,DEPENSE,199318.40,16581.46
+2027,5,Prestations de services,Services,REVENU,6262903.02,35479.18
+2027,5,Salaires et charges sociales,Personnel,DEPENSE,947806.00,96698.37
+2027,5,Transport et logistique,Exploitation,DEPENSE,85051.36,13959.00
+2027,5,Ventes à l'export,Ventes,REVENU,3241272.01,17537.84
+2027,5,Ventes de produits,Ventes,REVENU,19780990.32,131938.19
+2027,6,Énergie et eau,Exploitation,DEPENSE,105984.24,7536.50
+2027,6,Abonnements et maintenance,Abonnements,REVENU,1261240.64,7650.86
+2027,6,Assurances,Administration,DEPENSE,67635.40,12444.07
+2027,6,Fournitures et consommables,Exploitation,DEPENSE,122557.26,7810.59
+2027,6,Honoraires de conseil,Services,REVENU,2432802.46,12148.56
+2027,6,Impôts et taxes,Administration,DEPENSE,166960.99,22744.90
+2027,6,Informatique et logiciels,Exploitation,DEPENSE,120080.94,17535.35
+2027,6,Intérêts et frais bancaires,Finance,DEPENSE,33539.45,2334.34
+2027,6,Loyers et immobilier,Immobilier,DEPENSE,144806.32,14455.43
+2027,6,Marketing et publicité,Marketing,DEPENSE,197396.16,19045.61
+2027,6,Prestations de services,Services,REVENU,5983561.10,34284.49
+2027,6,Salaires et charges sociales,Personnel,DEPENSE,1203968.92,194651.45
+2027,6,Transport et logistique,Exploitation,DEPENSE,48282.28,8294.10
+2027,6,Ventes à l'export,Ventes,REVENU,6218402.82,39296.99
+2027,6,Ventes de produits,Ventes,REVENU,25004822.70,127714.78
+2027,7,Énergie et eau,Exploitation,DEPENSE,128103.69,8646.77
+2027,7,Abonnements et maintenance,Abonnements,REVENU,1363021.45,8393.63
+2027,7,Assurances,Administration,DEPENSE,79585.38,13788.72
+2027,7,Fournitures et consommables,Exploitation,DEPENSE,239237.04,18007.74
+2027,7,Honoraires de conseil,Services,REVENU,3056929.25,15958.78
+2027,7,Impôts et taxes,Administration,DEPENSE,153328.42,11846.56
+2027,7,Informatique et logiciels,Exploitation,DEPENSE,146504.79,24332.13
+2027,7,Intérêts et frais bancaires,Finance,DEPENSE,52252.97,3723.64
+2027,7,Loyers et immobilier,Immobilier,DEPENSE,75682.84,11795.10
+2027,7,Marketing et publicité,Marketing,DEPENSE,279088.60,32568.69
+2027,7,Prestations de services,Services,REVENU,6597915.00,33854.52
+2027,7,Salaires et charges sociales,Personnel,DEPENSE,465976.92,100632.77
+2027,7,Transport et logistique,Exploitation,DEPENSE,220427.10,20021.37
+2027,7,Ventes à l'export,Ventes,REVENU,3840457.25,22778.59
+2027,7,Ventes de produits,Ventes,REVENU,16603249.05,99294.99
+2027,8,Énergie et eau,Exploitation,DEPENSE,104009.04,11385.95
+2027,8,Abonnements et maintenance,Abonnements,REVENU,1771506.40,10063.13
+2027,8,Assurances,Administration,DEPENSE,53562.24,7815.67
+2027,8,Fournitures et consommables,Exploitation,DEPENSE,115032.26,5188.38
+2027,8,Honoraires de conseil,Services,REVENU,3358470.86,18886.76
+2027,8,Impôts et taxes,Administration,DEPENSE,224613.90,28752.61
+2027,8,Informatique et logiciels,Exploitation,DEPENSE,15103.30,2570.10
+2027,8,Intérêts et frais bancaires,Finance,DEPENSE,53327.00,4493.79
+2027,8,Loyers et immobilier,Immobilier,DEPENSE,110775.20,17732.51
+2027,8,Marketing et publicité,Marketing,DEPENSE,391638.17,46950.31
+2027,8,Prestations de services,Services,REVENU,6613701.14,29813.81
+2027,8,Salaires et charges sociales,Personnel,DEPENSE,870263.20,142693.18
+2027,8,Transport et logistique,Exploitation,DEPENSE,138955.32,23636.60
+2027,8,Ventes à l'export,Ventes,REVENU,5150598.12,31791.72
+2027,8,Ventes de produits,Ventes,REVENU,21354504.07,106427.55
+2027,9,Énergie et eau,Exploitation,DEPENSE,62923.56,7593.00
+2027,9,Abonnements et maintenance,Abonnements,REVENU,1747513.95,7626.20
+2027,9,Assurances,Administration,DEPENSE,59830.02,8664.38
+2027,9,Fournitures et consommables,Exploitation,DEPENSE,40150.76,1974.00
+2027,9,Honoraires de conseil,Services,REVENU,4913514.36,25769.81
+2027,9,Impôts et taxes,Administration,DEPENSE,100588.90,12690.41
+2027,9,Informatique et logiciels,Exploitation,DEPENSE,214390.02,14246.20
+2027,9,Intérêts et frais bancaires,Finance,DEPENSE,38410.96,3219.93
+2027,9,Loyers et immobilier,Immobilier,DEPENSE,162966.80,24259.40
+2027,9,Marketing et publicité,Marketing,DEPENSE,154732.45,18244.73
+2027,9,Prestations de services,Services,REVENU,4341788.88,33877.96
+2027,9,Salaires et charges sociales,Personnel,DEPENSE,866582.70,82061.65
+2027,9,Transport et logistique,Exploitation,DEPENSE,187914.37,24450.93
+2027,9,Ventes à l'export,Ventes,REVENU,3812054.35,22805.08
+2027,9,Ventes de produits,Ventes,REVENU,16392977.90,99517.45
+2027,10,Énergie et eau,Exploitation,DEPENSE,45919.48,2798.56
+2027,10,Abonnements et maintenance,Abonnements,REVENU,826574.69,4754.54
+2027,10,Assurances,Administration,DEPENSE,92849.58,14614.91
+2027,10,Fournitures et consommables,Exploitation,DEPENSE,117723.97,11717.26
+2027,10,Honoraires de conseil,Services,REVENU,5149320.79,26219.70
+2027,10,Impôts et taxes,Administration,DEPENSE,201813.10,26477.37
+2027,10,Informatique et logiciels,Exploitation,DEPENSE,105467.60,18094.80
+2027,10,Intérêts et frais bancaires,Finance,DEPENSE,44255.20,3948.83
+2027,10,Loyers et immobilier,Immobilier,DEPENSE,206037.80,26501.82
+2027,10,Marketing et publicité,Marketing,DEPENSE,179545.14,20098.02
+2027,10,Prestations de services,Services,REVENU,4326073.50,26703.83
+2027,10,Salaires et charges sociales,Personnel,DEPENSE,976357.70,121367.84
+2027,10,Transport et logistique,Exploitation,DEPENSE,226065.12,29118.85
+2027,10,Ventes à l'export,Ventes,REVENU,4242019.08,17468.49
+2027,10,Ventes de produits,Ventes,REVENU,15981261.36,126409.33
+2027,11,Énergie et eau,Exploitation,DEPENSE,121545.18,11644.67
+2027,11,Abonnements et maintenance,Abonnements,REVENU,1231965.72,8512.45
+2027,11,Assurances,Administration,DEPENSE,80227.12,15356.80
+2027,11,Fournitures et consommables,Exploitation,DEPENSE,110565.84,8082.85
+2027,11,Honoraires de conseil,Services,REVENU,4477768.00,22526.82
+2027,11,Impôts et taxes,Administration,DEPENSE,227054.07,13961.03
+2027,11,Informatique et logiciels,Exploitation,DEPENSE,109219.32,19271.13
+2027,11,Intérêts et frais bancaires,Finance,DEPENSE,30997.68,1958.02
+2027,11,Loyers et immobilier,Immobilier,DEPENSE,102173.15,9317.07
+2027,11,Marketing et publicité,Marketing,DEPENSE,146690.68,24814.59
+2027,11,Prestations de services,Services,REVENU,6040523.61,47377.28
+2027,11,Salaires et charges sociales,Personnel,DEPENSE,494847.36,71773.41
+2027,11,Transport et logistique,Exploitation,DEPENSE,304100.17,21647.89
+2027,11,Ventes à l'export,Ventes,REVENU,4957469.79,33377.28
+2027,11,Ventes de produits,Ventes,REVENU,13778988.00,89096.01
+2027,12,Énergie et eau,Exploitation,DEPENSE,65370.36,3756.68
+2027,12,Abonnements et maintenance,Abonnements,REVENU,1591379.99,8616.49
+2027,12,Assurances,Administration,DEPENSE,84027.78,17263.15
+2027,12,Fournitures et consommables,Exploitation,DEPENSE,109012.62,7714.81
+2027,12,Honoraires de conseil,Services,REVENU,5576847.76,31189.24
+2027,12,Impôts et taxes,Administration,DEPENSE,164342.80,17615.66
+2027,12,Informatique et logiciels,Exploitation,DEPENSE,81432.20,7541.47
+2027,12,Intérêts et frais bancaires,Finance,DEPENSE,28455.40,1277.85
+2027,12,Loyers et immobilier,Immobilier,DEPENSE,214814.70,20994.41
+2027,12,Marketing et publicité,Marketing,DEPENSE,94113.54,11616.65
+2027,12,Prestations de services,Services,REVENU,5548786.92,30337.29
+2027,12,Salaires et charges sociales,Personnel,DEPENSE,659269.73,64160.20
+2027,12,Transport et logistique,Exploitation,DEPENSE,144222.24,21054.19
+2027,12,Ventes à l'export,Ventes,REVENU,2716008.00,18668.90
+2027,12,Ventes de produits,Ventes,REVENU,17149082.10,105639.93

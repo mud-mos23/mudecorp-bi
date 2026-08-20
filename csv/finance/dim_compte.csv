@@ -1,0 +1,16 @@
+﻿compte_id,code,nom_compte,type,groupe
+1,701,Ventes de produits,REVENU,Ventes
+2,702,Prestations de services,REVENU,Services
+3,703,Abonnements et maintenance,REVENU,Abonnements
+4,704,Honoraires de conseil,REVENU,Services
+5,705,Ventes à l'export,REVENU,Ventes
+6,601,Salaires et charges sociales,DEPENSE,Personnel
+7,602,Loyers et immobilier,DEPENSE,Immobilier
+8,603,Marketing et publicité,DEPENSE,Marketing
+9,604,Fournitures et consommables,DEPENSE,Exploitation
+10,605,Énergie et eau,DEPENSE,Exploitation
+11,606,Transport et logistique,DEPENSE,Exploitation
+12,607,Assurances,DEPENSE,Administration
+13,608,Impôts et taxes,DEPENSE,Administration
+14,609,Informatique et logiciels,DEPENSE,Exploitation
+15,610,Intérêts et frais bancaires,DEPENSE,Finance

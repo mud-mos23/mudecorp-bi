@@ -1,0 +1,54 @@
+table Calendrier
+	lineageTag: 35cd9a05-95f2-4d14-a1f5-94deee9b2bdf
+
+	column DateId
+		dataType: dateTime
+		formatString: dd/mm/yyyy
+		lineageTag: 4a43c46b-e12b-4c51-b4a1-c33d6cf02885
+		summarizeBy: none
+		sourceColumn: date_id
+
+	column Annee
+		dataType: int64
+		lineageTag: 5d0d6d04-e346-4088-9e05-5f5fe84e4a2f
+		summarizeBy: none
+		sourceColumn: annee
+
+	column Mois
+		dataType: int64
+		lineageTag: 27248320-6d60-4278-acde-c2a11c615fd3
+		summarizeBy: none
+		sourceColumn: mois
+
+	column NomMois
+		dataType: string
+		lineageTag: 2bd63cd5-d146-48dc-90bd-17e2e47e5af7
+		summarizeBy: none
+		sourceColumn: nom_mois
+
+	column Trimestre
+		dataType: int64
+		lineageTag: f44485d4-0c5d-41c7-8256-6db0f97ee30c
+		summarizeBy: none
+		sourceColumn: trimestre
+
+	column JourSemaine
+		dataType: string
+		lineageTag: 54db803c-0d74-40b9-af53-21ad90d937f9
+		summarizeBy: none
+		sourceColumn: jour_semaine
+
+	column EstWeekend
+		dataType: boolean
+		lineageTag: ea61854a-6ae7-47f9-97f2-93cb99b21c2d
+		summarizeBy: none
+		sourceColumn: est_weekend
+
+	partition Calendrier = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("localhost", "bi_finance", [ReturnSingleDatabase = true, Query = "SELECT * FROM dim_date"])
+				in
+				    Source
+

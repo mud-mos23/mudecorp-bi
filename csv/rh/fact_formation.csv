@@ -1,0 +1,2923 @@
+﻿formation_id,employe_id,date_formation,theme,type,duree_heures,cout
+1,71,2024-01-01,Sécurité au travail,INTERNE,10,852.37
+2,7,2024-01-01,Excel avancé pour la finance,EXTERNE,28,681.35
+3,105,2024-01-02,Excel avancé pour la finance,INTERNE,25,471.14
+4,26,2024-01-02,Comptabilité analytique,E_LEARNING,27,250.66
+5,116,2024-01-03,Excel avancé pour la finance,E_LEARNING,4,295.99
+6,9,2024-01-03,Leadership et management,E_LEARNING,19,326.93
+7,4,2024-01-04,Comptabilité analytique,EXTERNE,32,1352.05
+8,99,2024-01-04,Négociation commerciale,INTERNE,17,416.31
+9,79,2024-01-05,Sécurité au travail,INTERNE,9,407.38
+10,50,2024-01-05,Power BI et analyse de données,E_LEARNING,24,243.72
+11,17,2024-01-06,Power BI et analyse de données,E_LEARNING,9,72.66
+12,100,2024-01-06,Leadership et management,E_LEARNING,33,203.14
+13,68,2024-01-07,Gestion de projet agile,INTERNE,26,558.96
+14,76,2024-01-07,Power BI et analyse de données,EXTERNE,10,936.63
+15,26,2024-01-08,Excel avancé pour la finance,EXTERNE,24,999.71
+16,117,2024-01-08,Sécurité au travail,INTERNE,14,409.66
+17,112,2024-01-09,Gestion de projet agile,EXTERNE,30,1407.88
+18,23,2024-01-09,Comptabilité analytique,E_LEARNING,9,226.18
+19,52,2024-01-10,Service client de qualité,EXTERNE,32,2876.21
+20,104,2024-01-10,Gestion de projet agile,EXTERNE,12,1147.81
+21,50,2024-01-11,Leadership et management,INTERNE,32,292.17
+22,46,2024-01-11,Gestion de projet agile,INTERNE,7,372.91
+23,48,2024-01-12,Gestion de projet agile,E_LEARNING,14,291.85
+24,117,2024-01-12,Power BI et analyse de données,EXTERNE,10,1049.66
+25,49,2024-01-13,Service client de qualité,EXTERNE,21,1488.96
+26,24,2024-01-13,Power BI et analyse de données,E_LEARNING,9,68.00
+27,86,2024-01-14,Comptabilité analytique,EXTERNE,33,1373.34
+28,102,2024-01-14,Power BI et analyse de données,INTERNE,31,655.31
+29,91,2024-01-15,Leadership et management,E_LEARNING,31,340.94
+30,14,2024-01-15,Négociation commerciale,EXTERNE,18,2496.40
+31,63,2024-01-16,Service client de qualité,INTERNE,32,266.76
+32,22,2024-01-16,Comptabilité analytique,INTERNE,8,430.11
+33,72,2024-01-17,Comptabilité analytique,E_LEARNING,7,344.52
+34,69,2024-01-17,Négociation commerciale,E_LEARNING,24,281.86
+35,96,2024-01-18,Négociation commerciale,EXTERNE,23,1561.85
+36,25,2024-01-18,Excel avancé pour la finance,E_LEARNING,9,255.57
+37,105,2024-01-19,Négociation commerciale,INTERNE,23,516.26
+38,78,2024-01-19,Power BI et analyse de données,EXTERNE,28,2935.52
+39,54,2024-01-20,Leadership et management,INTERNE,4,512.90
+40,65,2024-01-20,Excel avancé pour la finance,INTERNE,32,547.41
+41,112,2024-01-21,Excel avancé pour la finance,E_LEARNING,13,197.81
+42,59,2024-01-21,Power BI et analyse de données,E_LEARNING,26,298.58
+43,103,2024-01-22,Sécurité au travail,E_LEARNING,26,184.34
+44,120,2024-01-22,Leadership et management,EXTERNE,8,943.52
+45,47,2024-01-23,Comptabilité analytique,EXTERNE,6,2640.00
+46,3,2024-01-23,Service client de qualité,EXTERNE,11,1723.41
+47,90,2024-01-24,Excel avancé pour la finance,INTERNE,15,742.17
+48,107,2024-01-24,Sécurité au travail,INTERNE,6,172.99
+49,29,2024-01-25,Négociation commerciale,E_LEARNING,22,207.06
+50,87,2024-01-25,Excel avancé pour la finance,INTERNE,11,112.94
+51,40,2024-01-26,Négociation commerciale,EXTERNE,30,2121.09
+52,71,2024-01-26,Leadership et management,E_LEARNING,4,203.75
+53,60,2024-01-27,Leadership et management,E_LEARNING,9,155.83
+54,23,2024-01-27,Négociation commerciale,E_LEARNING,31,282.15
+55,18,2024-01-28,Gestion de projet agile,EXTERNE,31,2247.43
+56,89,2024-01-28,Gestion de projet agile,EXTERNE,28,2857.29
+57,32,2024-01-29,Gestion de projet agile,EXTERNE,27,2878.52
+58,51,2024-01-29,Négociation commerciale,INTERNE,4,257.94
+59,116,2024-01-30,Power BI et analyse de données,INTERNE,27,114.48
+60,89,2024-01-30,Négociation commerciale,EXTERNE,31,2296.98
+61,99,2024-01-31,Power BI et analyse de données,E_LEARNING,26,295.42
+62,98,2024-01-31,Service client de qualité,EXTERNE,31,2949.03
+63,17,2024-02-01,Power BI et analyse de données,E_LEARNING,16,91.91
+64,50,2024-02-01,Négociation commerciale,EXTERNE,26,526.55
+65,93,2024-02-02,Comptabilité analytique,E_LEARNING,16,265.42
+66,45,2024-02-02,Sécurité au travail,E_LEARNING,32,219.22
+67,112,2024-02-03,Excel avancé pour la finance,E_LEARNING,13,197.99
+68,59,2024-02-03,Power BI et analyse de données,E_LEARNING,25,219.58
+69,87,2024-02-04,Sécurité au travail,E_LEARNING,17,323.87
+70,27,2024-02-04,Excel avancé pour la finance,EXTERNE,19,971.21
+71,52,2024-02-05,Service client de qualité,EXTERNE,32,940.81
+72,4,2024-02-05,Négociation commerciale,EXTERNE,5,1189.05
+73,31,2024-02-06,Service client de qualité,EXTERNE,11,2229.67
+74,84,2024-02-06,Négociation commerciale,EXTERNE,18,1825.77
+75,30,2024-02-07,Sécurité au travail,EXTERNE,19,704.77
+76,106,2024-02-07,Excel avancé pour la finance,INTERNE,5,859.73
+77,73,2024-02-08,Excel avancé pour la finance,INTERNE,21,783.06
+78,64,2024-02-08,Comptabilité analytique,INTERNE,5,592.19
+79,115,2024-02-09,Comptabilité analytique,E_LEARNING,5,347.10
+80,94,2024-02-09,Leadership et management,E_LEARNING,15,124.53
+81,12,2024-02-10,Power BI et analyse de données,E_LEARNING,13,282.89
+82,107,2024-02-10,Comptabilité analytique,INTERNE,28,637.04
+83,105,2024-02-11,Excel avancé pour la finance,EXTERNE,21,1799.23
+84,104,2024-02-11,Leadership et management,E_LEARNING,21,176.77
+85,43,2024-02-12,Service client de qualité,EXTERNE,7,509.33
+86,78,2024-02-12,Leadership et management,INTERNE,12,755.62
+87,32,2024-02-13,Sécurité au travail,E_LEARNING,23,317.02
+88,65,2024-02-13,Sécurité au travail,INTERNE,10,645.40
+89,96,2024-02-14,Leadership et management,E_LEARNING,15,138.95
+90,35,2024-02-14,Comptabilité analytique,EXTERNE,16,2139.14
+91,6,2024-02-15,Leadership et management,INTERNE,30,136.83
+92,69,2024-02-15,Négociation commerciale,E_LEARNING,11,225.85
+93,24,2024-02-16,Sécurité au travail,INTERNE,27,430.59
+94,91,2024-02-16,Power BI et analyse de données,EXTERNE,4,731.98
+95,55,2024-02-17,Service client de qualité,E_LEARNING,5,185.00
+96,11,2024-02-17,Leadership et management,INTERNE,20,267.71
+97,53,2024-02-18,Service client de qualité,EXTERNE,30,2679.98
+98,85,2024-02-18,Sécurité au travail,E_LEARNING,19,123.98
+99,81,2024-02-19,Excel avancé pour la finance,EXTERNE,15,2595.21
+100,1,2024-02-19,Service client de qualité,EXTERNE,9,1131.29
+101,89,2024-02-20,Sécurité au travail,E_LEARNING,9,291.24
+102,53,2024-02-20,Service client de qualité,E_LEARNING,11,267.13
+103,105,2024-02-21,Power BI et analyse de données,INTERNE,4,208.26
+104,76,2024-02-21,Comptabilité analytique,E_LEARNING,28,270.46
+105,21,2024-02-22,Comptabilité analytique,E_LEARNING,6,60.30
+106,105,2024-02-22,Gestion de projet agile,INTERNE,22,165.60
+107,65,2024-02-23,Service client de qualité,EXTERNE,17,1992.47
+108,77,2024-02-23,Leadership et management,EXTERNE,16,2077.65
+109,115,2024-02-24,Sécurité au travail,E_LEARNING,22,272.98
+110,107,2024-02-24,Power BI et analyse de données,INTERNE,33,874.76
+111,108,2024-02-25,Power BI et analyse de données,EXTERNE,19,2612.61
+112,79,2024-02-25,Gestion de projet agile,E_LEARNING,33,81.75
+113,64,2024-02-26,Leadership et management,EXTERNE,23,2430.07
+114,115,2024-02-26,Sécurité au travail,EXTERNE,23,549.28
+115,20,2024-02-27,Power BI et analyse de données,E_LEARNING,19,192.36
+116,100,2024-02-27,Excel avancé pour la finance,E_LEARNING,12,97.45
+117,114,2024-02-28,Sécurité au travail,INTERNE,10,868.97
+118,15,2024-02-28,Power BI et analyse de données,E_LEARNING,11,156.41
+119,6,2024-02-29,Gestion de projet agile,INTERNE,24,583.00
+120,111,2024-02-29,Leadership et management,E_LEARNING,21,151.67
+121,114,2024-03-01,Comptabilité analytique,E_LEARNING,24,94.00
+122,79,2024-03-01,Leadership et management,E_LEARNING,19,340.16
+123,35,2024-03-02,Comptabilité analytique,EXTERNE,25,2981.69
+124,96,2024-03-02,Service client de qualité,E_LEARNING,33,99.06
+125,102,2024-03-03,Leadership et management,E_LEARNING,25,344.05
+126,93,2024-03-03,Power BI et analyse de données,E_LEARNING,20,55.50
+127,50,2024-03-04,Comptabilité analytique,INTERNE,29,806.58
+128,109,2024-03-04,Gestion de projet agile,E_LEARNING,23,138.14
+129,62,2024-03-05,Négociation commerciale,E_LEARNING,18,273.71
+130,29,2024-03-05,Négociation commerciale,E_LEARNING,6,199.03
+131,27,2024-03-06,Sécurité au travail,EXTERNE,15,1822.88
+132,63,2024-03-06,Sécurité au travail,INTERNE,17,728.70
+133,68,2024-03-07,Service client de qualité,EXTERNE,17,1938.40
+134,63,2024-03-07,Négociation commerciale,E_LEARNING,30,256.33
+135,94,2024-03-08,Comptabilité analytique,E_LEARNING,15,248.25
+136,15,2024-03-08,Gestion de projet agile,EXTERNE,26,1981.10
+137,86,2024-03-09,Comptabilité analytique,E_LEARNING,19,131.00
+138,96,2024-03-09,Sécurité au travail,INTERNE,32,316.07
+139,60,2024-03-10,Comptabilité analytique,EXTERNE,5,2441.93
+140,94,2024-03-10,Sécurité au travail,EXTERNE,18,772.46
+141,14,2024-03-11,Comptabilité analytique,INTERNE,19,894.61
+142,55,2024-03-11,Excel avancé pour la finance,INTERNE,21,561.33
+143,22,2024-03-12,Power BI et analyse de données,INTERNE,4,279.01
+144,4,2024-03-12,Power BI et analyse de données,EXTERNE,9,2796.46
+145,7,2024-03-13,Sécurité au travail,EXTERNE,20,1840.44
+146,120,2024-03-13,Négociation commerciale,EXTERNE,18,2108.97
+147,92,2024-03-14,Excel avancé pour la finance,E_LEARNING,29,51.25
+148,54,2024-03-14,Gestion de projet agile,INTERNE,26,685.13
+149,50,2024-03-15,Leadership et management,E_LEARNING,5,299.70
+150,3,2024-03-15,Négociation commerciale,EXTERNE,32,2900.30
+151,109,2024-03-16,Service client de qualité,EXTERNE,25,2795.37
+152,59,2024-03-16,Négociation commerciale,E_LEARNING,20,337.92
+153,22,2024-03-17,Service client de qualité,INTERNE,29,492.80
+154,109,2024-03-17,Service client de qualité,INTERNE,26,112.83
+155,98,2024-03-18,Service client de qualité,INTERNE,5,365.89
+156,68,2024-03-18,Power BI et analyse de données,E_LEARNING,12,153.43
+157,110,2024-03-19,Négociation commerciale,EXTERNE,30,2460.94
+158,29,2024-03-19,Service client de qualité,E_LEARNING,8,101.37
+159,45,2024-03-20,Gestion de projet agile,EXTERNE,9,2966.84
+160,45,2024-03-20,Sécurité au travail,E_LEARNING,9,297.38
+161,66,2024-03-21,Gestion de projet agile,INTERNE,25,490.24
+162,33,2024-03-21,Gestion de projet agile,E_LEARNING,29,88.86
+163,10,2024-03-22,Comptabilité analytique,INTERNE,10,530.69
+164,4,2024-03-22,Service client de qualité,EXTERNE,4,2024.31
+165,114,2024-03-23,Gestion de projet agile,E_LEARNING,32,206.34
+166,92,2024-03-23,Négociation commerciale,INTERNE,29,505.08
+167,119,2024-03-24,Excel avancé pour la finance,EXTERNE,6,1073.36
+168,109,2024-03-24,Sécurité au travail,E_LEARNING,32,122.10
+169,45,2024-03-25,Sécurité au travail,INTERNE,5,709.17
+170,83,2024-03-25,Comptabilité analytique,INTERNE,16,698.83
+171,58,2024-03-26,Leadership et management,INTERNE,26,146.56
+172,6,2024-03-26,Excel avancé pour la finance,INTERNE,17,866.42
+173,47,2024-03-27,Leadership et management,INTERNE,31,848.08
+174,108,2024-03-27,Service client de qualité,EXTERNE,5,1704.45
+175,28,2024-03-28,Comptabilité analytique,E_LEARNING,33,168.86
+176,10,2024-03-28,Comptabilité analytique,INTERNE,14,362.74
+177,75,2024-03-29,Gestion de projet agile,INTERNE,11,222.46
+178,117,2024-03-29,Excel avancé pour la finance,EXTERNE,11,2936.81
+179,16,2024-03-30,Leadership et management,E_LEARNING,21,207.10
+180,103,2024-03-30,Négociation commerciale,E_LEARNING,17,218.49
+181,53,2024-03-31,Leadership et management,EXTERNE,20,838.39
+182,2,2024-03-31,Leadership et management,EXTERNE,32,937.67
+183,8,2024-04-01,Gestion de projet agile,E_LEARNING,13,150.80
+184,92,2024-04-01,Gestion de projet agile,E_LEARNING,11,61.28
+185,54,2024-04-02,Power BI et analyse de données,INTERNE,8,765.81
+186,85,2024-04-02,Excel avancé pour la finance,INTERNE,7,451.89
+187,104,2024-04-03,Power BI et analyse de données,E_LEARNING,25,219.02
+188,82,2024-04-03,Service client de qualité,E_LEARNING,20,93.83
+189,9,2024-04-04,Power BI et analyse de données,E_LEARNING,31,230.13
+190,31,2024-04-04,Service client de qualité,EXTERNE,14,863.16
+191,79,2024-04-05,Leadership et management,E_LEARNING,15,157.77
+192,81,2024-04-05,Sécurité au travail,INTERNE,15,552.20
+193,81,2024-04-06,Leadership et management,EXTERNE,10,1642.41
+194,71,2024-04-06,Excel avancé pour la finance,EXTERNE,20,2157.26
+195,76,2024-04-07,Comptabilité analytique,INTERNE,29,694.19
+196,14,2024-04-07,Sécurité au travail,EXTERNE,31,1622.72
+197,57,2024-04-08,Service client de qualité,E_LEARNING,25,325.68
+198,59,2024-04-08,Négociation commerciale,EXTERNE,15,1294.06
+199,51,2024-04-09,Sécurité au travail,INTERNE,24,253.11
+200,107,2024-04-09,Gestion de projet agile,E_LEARNING,29,83.07
+201,6,2024-04-10,Power BI et analyse de données,E_LEARNING,27,72.21
+202,2,2024-04-10,Excel avancé pour la finance,E_LEARNING,31,169.93
+203,27,2024-04-11,Comptabilité analytique,E_LEARNING,16,251.68
+204,10,2024-04-11,Service client de qualité,EXTERNE,29,1622.79
+205,87,2024-04-12,Leadership et management,INTERNE,30,170.18
+206,89,2024-04-12,Négociation commerciale,EXTERNE,23,1134.20
+207,39,2024-04-13,Power BI et analyse de données,E_LEARNING,32,309.04
+208,55,2024-04-13,Excel avancé pour la finance,E_LEARNING,33,335.51
+209,95,2024-04-14,Excel avancé pour la finance,INTERNE,27,860.87
+210,46,2024-04-14,Leadership et management,INTERNE,22,578.08
+211,17,2024-04-15,Leadership et management,E_LEARNING,32,151.26
+212,101,2024-04-15,Sécurité au travail,INTERNE,14,611.99
+213,17,2024-04-16,Sécurité au travail,E_LEARNING,22,338.97
+214,115,2024-04-16,Gestion de projet agile,E_LEARNING,16,130.18
+215,6,2024-04-17,Excel avancé pour la finance,EXTERNE,6,883.33
+216,63,2024-04-17,Leadership et management,INTERNE,21,275.11
+217,47,2024-04-18,Power BI et analyse de données,INTERNE,25,573.29
+218,99,2024-04-18,Power BI et analyse de données,EXTERNE,11,1622.73
+219,62,2024-04-19,Service client de qualité,INTERNE,12,617.64
+220,46,2024-04-19,Service client de qualité,E_LEARNING,10,130.34
+221,81,2024-04-20,Comptabilité analytique,EXTERNE,10,2427.64
+222,23,2024-04-20,Service client de qualité,EXTERNE,33,1088.16
+223,24,2024-04-21,Comptabilité analytique,INTERNE,17,617.85
+224,107,2024-04-21,Négociation commerciale,EXTERNE,29,2053.93
+225,68,2024-04-22,Négociation commerciale,E_LEARNING,6,206.81
+226,42,2024-04-22,Gestion de projet agile,INTERNE,4,863.46
+227,92,2024-04-23,Sécurité au travail,E_LEARNING,22,230.73
+228,19,2024-04-23,Power BI et analyse de données,E_LEARNING,26,263.53
+229,43,2024-04-24,Leadership et management,EXTERNE,27,1599.40
+230,107,2024-04-24,Négociation commerciale,INTERNE,5,652.48
+231,32,2024-04-25,Power BI et analyse de données,INTERNE,9,718.66
+232,40,2024-04-25,Service client de qualité,INTERNE,8,774.09
+233,95,2024-04-26,Gestion de projet agile,EXTERNE,16,2828.66
+234,45,2024-04-26,Leadership et management,INTERNE,19,224.83
+235,31,2024-04-27,Leadership et management,E_LEARNING,24,292.41
+236,117,2024-04-27,Leadership et management,EXTERNE,25,2820.78
+237,65,2024-04-28,Négociation commerciale,E_LEARNING,32,322.60
+238,86,2024-04-28,Excel avancé pour la finance,E_LEARNING,4,266.72
+239,69,2024-04-29,Comptabilité analytique,E_LEARNING,28,265.58
+240,19,2024-04-29,Service client de qualité,EXTERNE,4,1426.62
+241,98,2024-04-30,Power BI et analyse de données,E_LEARNING,28,77.51
+242,120,2024-04-30,Service client de qualité,E_LEARNING,20,103.98
+243,28,2024-05-01,Sécurité au travail,EXTERNE,5,827.45
+244,60,2024-05-01,Négociation commerciale,INTERNE,10,475.79
+245,80,2024-05-02,Service client de qualité,E_LEARNING,8,58.77
+246,83,2024-05-02,Gestion de projet agile,EXTERNE,9,2991.97
+247,53,2024-05-03,Service client de qualité,INTERNE,15,222.92
+248,76,2024-05-03,Service client de qualité,E_LEARNING,21,172.91
+249,30,2024-05-04,Power BI et analyse de données,INTERNE,21,870.04
+250,6,2024-05-04,Service client de qualité,EXTERNE,4,1020.69
+251,2,2024-05-05,Leadership et management,EXTERNE,21,1262.82
+252,99,2024-05-05,Sécurité au travail,INTERNE,20,461.24
+253,78,2024-05-06,Sécurité au travail,E_LEARNING,23,316.61
+254,59,2024-05-06,Power BI et analyse de données,E_LEARNING,16,87.02
+255,40,2024-05-07,Power BI et analyse de données,INTERNE,5,155.69
+256,29,2024-05-07,Power BI et analyse de données,E_LEARNING,12,257.22
+257,70,2024-05-08,Sécurité au travail,E_LEARNING,16,327.15
+258,47,2024-05-08,Gestion de projet agile,INTERNE,33,730.88
+259,2,2024-05-09,Sécurité au travail,E_LEARNING,33,259.53
+260,65,2024-05-09,Power BI et analyse de données,EXTERNE,24,1874.33
+261,86,2024-05-10,Sécurité au travail,E_LEARNING,11,91.71
+262,108,2024-05-10,Gestion de projet agile,INTERNE,6,501.51
+263,26,2024-05-11,Leadership et management,EXTERNE,17,1728.46
+264,17,2024-05-11,Gestion de projet agile,INTERNE,4,766.18
+265,16,2024-05-12,Power BI et analyse de données,INTERNE,8,797.69
+266,105,2024-05-12,Négociation commerciale,E_LEARNING,27,55.61
+267,84,2024-05-13,Excel avancé pour la finance,EXTERNE,9,2125.66
+268,82,2024-05-13,Leadership et management,EXTERNE,16,1992.58
+269,93,2024-05-14,Excel avancé pour la finance,INTERNE,32,586.53
+270,27,2024-05-14,Comptabilité analytique,INTERNE,5,873.29
+271,77,2024-05-15,Sécurité au travail,INTERNE,17,868.04
+272,49,2024-05-15,Sécurité au travail,INTERNE,31,247.75
+273,22,2024-05-16,Leadership et management,EXTERNE,25,786.01
+274,54,2024-05-16,Excel avancé pour la finance,E_LEARNING,29,311.35
+275,103,2024-05-17,Gestion de projet agile,EXTERNE,23,867.13
+276,89,2024-05-17,Négociation commerciale,INTERNE,9,832.88
+277,9,2024-05-18,Négociation commerciale,EXTERNE,23,1893.45
+278,99,2024-05-18,Gestion de projet agile,EXTERNE,7,1816.63
+279,36,2024-05-19,Service client de qualité,E_LEARNING,10,160.36
+280,21,2024-05-19,Power BI et analyse de données,E_LEARNING,13,232.03
+281,11,2024-05-20,Comptabilité analytique,EXTERNE,33,2030.47
+282,16,2024-05-20,Gestion de projet agile,E_LEARNING,8,209.13
+283,29,2024-05-21,Leadership et management,EXTERNE,11,2124.43
+284,61,2024-05-21,Power BI et analyse de données,EXTERNE,30,1781.26
+285,106,2024-05-22,Gestion de projet agile,E_LEARNING,5,64.01
+286,10,2024-05-22,Excel avancé pour la finance,INTERNE,19,378.94
+287,28,2024-05-23,Négociation commerciale,INTERNE,7,850.38
+288,38,2024-05-23,Comptabilité analytique,E_LEARNING,29,284.14
+289,43,2024-05-24,Leadership et management,EXTERNE,14,1202.12
+290,49,2024-05-24,Service client de qualité,INTERNE,18,575.91
+291,67,2024-05-25,Power BI et analyse de données,E_LEARNING,23,115.23
+292,20,2024-05-25,Sécurité au travail,INTERNE,18,243.69
+293,56,2024-05-26,Sécurité au travail,E_LEARNING,7,73.93
+294,10,2024-05-26,Sécurité au travail,INTERNE,30,113.06
+295,54,2024-05-27,Service client de qualité,INTERNE,19,656.91
+296,115,2024-05-27,Sécurité au travail,E_LEARNING,17,301.82
+297,97,2024-05-28,Excel avancé pour la finance,EXTERNE,28,2882.13
+298,34,2024-05-28,Négociation commerciale,EXTERNE,28,1699.16
+299,108,2024-05-29,Service client de qualité,INTERNE,26,871.35
+300,72,2024-05-29,Gestion de projet agile,INTERNE,31,593.03
+301,46,2024-05-30,Excel avancé pour la finance,INTERNE,9,687.60
+302,15,2024-05-30,Gestion de projet agile,EXTERNE,14,2076.44
+303,9,2024-05-31,Excel avancé pour la finance,EXTERNE,9,2046.64
+304,61,2024-05-31,Négociation commerciale,E_LEARNING,15,136.54
+305,33,2024-06-01,Gestion de projet agile,EXTERNE,28,905.49
+306,39,2024-06-01,Service client de qualité,INTERNE,21,211.17
+307,117,2024-06-02,Leadership et management,EXTERNE,29,1876.23
+308,27,2024-06-02,Service client de qualité,EXTERNE,14,1015.28
+309,114,2024-06-03,Gestion de projet agile,INTERNE,5,295.21
+310,9,2024-06-03,Comptabilité analytique,EXTERNE,11,2604.66
+311,53,2024-06-04,Excel avancé pour la finance,E_LEARNING,14,185.03
+312,30,2024-06-04,Gestion de projet agile,E_LEARNING,23,143.49
+313,71,2024-06-05,Leadership et management,E_LEARNING,33,137.41
+314,66,2024-06-05,Gestion de projet agile,E_LEARNING,21,63.10
+315,56,2024-06-06,Sécurité au travail,INTERNE,27,571.42
+316,68,2024-06-06,Service client de qualité,INTERNE,30,565.04
+317,31,2024-06-07,Comptabilité analytique,EXTERNE,20,1071.02
+318,65,2024-06-07,Sécurité au travail,INTERNE,32,615.00
+319,39,2024-06-08,Sécurité au travail,E_LEARNING,12,57.14
+320,31,2024-06-08,Power BI et analyse de données,INTERNE,31,657.99
+321,84,2024-06-09,Négociation commerciale,EXTERNE,14,2999.37
+322,116,2024-06-09,Leadership et management,E_LEARNING,13,91.26
+323,89,2024-06-10,Leadership et management,INTERNE,13,835.65
+324,74,2024-06-10,Gestion de projet agile,INTERNE,15,846.13
+325,64,2024-06-11,Service client de qualité,E_LEARNING,15,118.97
+326,117,2024-06-11,Négociation commerciale,INTERNE,12,480.62
+327,68,2024-06-12,Power BI et analyse de données,EXTERNE,15,2761.65
+328,50,2024-06-12,Sécurité au travail,EXTERNE,17,2404.36
+329,55,2024-06-13,Service client de qualité,E_LEARNING,30,272.76
+330,5,2024-06-13,Comptabilité analytique,E_LEARNING,30,96.35
+331,13,2024-06-14,Négociation commerciale,INTERNE,24,466.81
+332,33,2024-06-14,Leadership et management,E_LEARNING,29,278.30
+333,30,2024-06-15,Négociation commerciale,E_LEARNING,26,62.64
+334,115,2024-06-15,Power BI et analyse de données,EXTERNE,29,1012.92
+335,56,2024-06-16,Excel avancé pour la finance,E_LEARNING,6,166.07
+336,79,2024-06-16,Service client de qualité,INTERNE,19,762.25
+337,76,2024-06-17,Sécurité au travail,EXTERNE,5,500.73
+338,106,2024-06-17,Power BI et analyse de données,EXTERNE,10,1183.57
+339,86,2024-06-18,Service client de qualité,E_LEARNING,28,121.07
+340,89,2024-06-18,Gestion de projet agile,E_LEARNING,15,345.32
+341,89,2024-06-19,Sécurité au travail,E_LEARNING,32,183.13
+342,47,2024-06-19,Négociation commerciale,EXTERNE,22,1361.91
+343,111,2024-06-20,Excel avancé pour la finance,EXTERNE,28,2232.96
+344,8,2024-06-20,Négociation commerciale,INTERNE,7,633.29
+345,1,2024-06-21,Leadership et management,INTERNE,23,754.66
+346,16,2024-06-21,Service client de qualité,INTERNE,7,136.45
+347,101,2024-06-22,Gestion de projet agile,INTERNE,12,380.87
+348,112,2024-06-22,Excel avancé pour la finance,EXTERNE,28,2477.97
+349,58,2024-06-23,Gestion de projet agile,INTERNE,14,650.32
+350,48,2024-06-23,Power BI et analyse de données,E_LEARNING,6,167.19
+351,80,2024-06-24,Gestion de projet agile,INTERNE,4,116.82
+352,8,2024-06-24,Excel avancé pour la finance,INTERNE,24,177.32
+353,57,2024-06-25,Comptabilité analytique,INTERNE,33,458.47
+354,35,2024-06-25,Gestion de projet agile,INTERNE,30,450.70
+355,71,2024-06-26,Power BI et analyse de données,EXTERNE,32,2310.59
+356,87,2024-06-26,Excel avancé pour la finance,EXTERNE,26,2303.57
+357,43,2024-06-27,Négociation commerciale,EXTERNE,4,789.19
+358,70,2024-06-27,Négociation commerciale,EXTERNE,4,1294.74
+359,65,2024-06-28,Leadership et management,E_LEARNING,17,286.57
+360,75,2024-06-28,Comptabilité analytique,E_LEARNING,22,311.75
+361,57,2024-06-29,Power BI et analyse de données,E_LEARNING,11,151.60
+362,116,2024-06-29,Excel avancé pour la finance,E_LEARNING,32,199.33
+363,82,2024-06-30,Service client de qualité,E_LEARNING,30,321.56
+364,100,2024-06-30,Gestion de projet agile,EXTERNE,12,1060.40
+365,35,2024-07-01,Négociation commerciale,E_LEARNING,19,251.55
+366,100,2024-07-01,Excel avancé pour la finance,INTERNE,8,477.13
+367,108,2024-07-02,Service client de qualité,INTERNE,27,169.16
+368,16,2024-07-02,Sécurité au travail,EXTERNE,12,2885.61
+369,113,2024-07-03,Power BI et analyse de données,E_LEARNING,6,201.64
+370,32,2024-07-03,Leadership et management,E_LEARNING,16,254.60
+371,14,2024-07-04,Power BI et analyse de données,EXTERNE,27,857.22
+372,41,2024-07-04,Power BI et analyse de données,INTERNE,27,126.41
+373,93,2024-07-05,Sécurité au travail,E_LEARNING,29,343.93
+374,44,2024-07-05,Power BI et analyse de données,E_LEARNING,27,84.91
+375,25,2024-07-06,Gestion de projet agile,EXTERNE,20,1901.68
+376,24,2024-07-06,Négociation commerciale,INTERNE,31,670.57
+377,95,2024-07-07,Service client de qualité,E_LEARNING,18,271.66
+378,28,2024-07-07,Négociation commerciale,E_LEARNING,29,212.31
+379,14,2024-07-08,Sécurité au travail,E_LEARNING,7,188.71
+380,111,2024-07-08,Sécurité au travail,INTERNE,14,502.77
+381,57,2024-07-09,Comptabilité analytique,E_LEARNING,27,127.23
+382,117,2024-07-09,Sécurité au travail,INTERNE,31,394.04
+383,7,2024-07-10,Gestion de projet agile,INTERNE,24,564.27
+384,98,2024-07-10,Leadership et management,INTERNE,28,642.85
+385,109,2024-07-11,Gestion de projet agile,EXTERNE,33,2626.73
+386,38,2024-07-11,Leadership et management,INTERNE,23,805.16
+387,51,2024-07-12,Excel avancé pour la finance,EXTERNE,31,1543.58
+388,39,2024-07-12,Comptabilité analytique,EXTERNE,33,1800.74
+389,76,2024-07-13,Excel avancé pour la finance,EXTERNE,16,2995.34
+390,88,2024-07-13,Excel avancé pour la finance,EXTERNE,16,2549.24
+391,106,2024-07-14,Négociation commerciale,E_LEARNING,6,200.78
+392,33,2024-07-14,Sécurité au travail,E_LEARNING,18,96.19
+393,44,2024-07-15,Service client de qualité,INTERNE,32,867.60
+394,116,2024-07-15,Comptabilité analytique,E_LEARNING,4,304.87
+395,20,2024-07-16,Comptabilité analytique,INTERNE,19,878.08
+396,39,2024-07-16,Sécurité au travail,E_LEARNING,13,91.37
+397,91,2024-07-17,Sécurité au travail,EXTERNE,12,648.98
+398,52,2024-07-17,Sécurité au travail,E_LEARNING,21,166.09
+399,28,2024-07-18,Leadership et management,E_LEARNING,9,132.02
+400,96,2024-07-18,Power BI et analyse de données,INTERNE,11,301.38
+401,61,2024-07-19,Power BI et analyse de données,E_LEARNING,8,305.75
+402,101,2024-07-19,Gestion de projet agile,EXTERNE,24,1157.32
+403,30,2024-07-20,Sécurité au travail,EXTERNE,4,2156.58
+404,33,2024-07-20,Excel avancé pour la finance,EXTERNE,14,1729.58
+405,46,2024-07-21,Négociation commerciale,EXTERNE,17,1581.35
+406,98,2024-07-21,Sécurité au travail,E_LEARNING,26,195.29
+407,23,2024-07-22,Négociation commerciale,EXTERNE,10,1054.95
+408,58,2024-07-22,Leadership et management,E_LEARNING,23,270.62
+409,90,2024-07-23,Sécurité au travail,EXTERNE,22,2430.32
+410,119,2024-07-23,Leadership et management,EXTERNE,9,964.53
+411,52,2024-07-24,Gestion de projet agile,EXTERNE,18,1613.48
+412,96,2024-07-24,Comptabilité analytique,EXTERNE,4,2503.30
+413,110,2024-07-25,Négociation commerciale,INTERNE,20,675.73
+414,118,2024-07-25,Gestion de projet agile,E_LEARNING,8,282.48
+415,51,2024-07-26,Gestion de projet agile,E_LEARNING,28,93.02
+416,37,2024-07-26,Sécurité au travail,INTERNE,7,247.21
+417,69,2024-07-27,Gestion de projet agile,INTERNE,26,554.25
+418,73,2024-07-27,Gestion de projet agile,INTERNE,28,740.96
+419,70,2024-07-28,Gestion de projet agile,EXTERNE,33,2486.30
+420,8,2024-07-28,Service client de qualité,E_LEARNING,26,118.14
+421,105,2024-07-29,Gestion de projet agile,E_LEARNING,22,333.62
+422,103,2024-07-29,Gestion de projet agile,EXTERNE,28,1154.19
+423,99,2024-07-30,Excel avancé pour la finance,INTERNE,18,294.65
+424,87,2024-07-30,Leadership et management,E_LEARNING,8,136.80
+425,2,2024-07-31,Négociation commerciale,INTERNE,6,598.84
+426,104,2024-07-31,Gestion de projet agile,EXTERNE,30,1569.95
+427,64,2024-08-01,Leadership et management,EXTERNE,29,2370.72
+428,20,2024-08-01,Power BI et analyse de données,EXTERNE,32,2313.99
+429,97,2024-08-02,Négociation commerciale,E_LEARNING,28,175.56
+430,80,2024-08-02,Power BI et analyse de données,INTERNE,8,113.52
+431,73,2024-08-03,Excel avancé pour la finance,E_LEARNING,12,118.76
+432,42,2024-08-03,Leadership et management,INTERNE,24,867.96
+433,88,2024-08-04,Gestion de projet agile,E_LEARNING,12,120.74
+434,40,2024-08-04,Gestion de projet agile,E_LEARNING,18,205.65
+435,13,2024-08-05,Sécurité au travail,E_LEARNING,18,51.92
+436,70,2024-08-05,Gestion de projet agile,E_LEARNING,31,163.42
+437,21,2024-08-06,Leadership et management,E_LEARNING,19,82.47
+438,3,2024-08-06,Négociation commerciale,E_LEARNING,6,283.76
+439,75,2024-08-07,Négociation commerciale,E_LEARNING,14,348.53
+440,110,2024-08-07,Leadership et management,EXTERNE,10,1600.71
+441,71,2024-08-08,Power BI et analyse de données,EXTERNE,32,2026.19
+442,28,2024-08-08,Négociation commerciale,INTERNE,23,472.54
+443,47,2024-08-09,Service client de qualité,EXTERNE,4,1802.07
+444,66,2024-08-09,Leadership et management,INTERNE,13,151.43
+445,49,2024-08-10,Négociation commerciale,E_LEARNING,33,126.22
+446,39,2024-08-10,Leadership et management,E_LEARNING,20,90.08
+447,2,2024-08-11,Leadership et management,EXTERNE,33,1345.34
+448,92,2024-08-11,Gestion de projet agile,E_LEARNING,13,134.36
+449,60,2024-08-12,Gestion de projet agile,EXTERNE,20,2019.81
+450,53,2024-08-12,Sécurité au travail,EXTERNE,14,1382.99
+451,81,2024-08-13,Service client de qualité,INTERNE,27,291.27
+452,106,2024-08-13,Gestion de projet agile,EXTERNE,15,2587.00
+453,9,2024-08-14,Négociation commerciale,E_LEARNING,17,119.94
+454,101,2024-08-14,Négociation commerciale,EXTERNE,15,2980.03
+455,97,2024-08-15,Négociation commerciale,INTERNE,11,553.75
+456,13,2024-08-15,Gestion de projet agile,E_LEARNING,8,215.01
+457,42,2024-08-16,Power BI et analyse de données,INTERNE,19,489.30
+458,110,2024-08-16,Comptabilité analytique,INTERNE,32,195.34
+459,93,2024-08-17,Leadership et management,EXTERNE,23,1822.00
+460,85,2024-08-17,Sécurité au travail,E_LEARNING,24,55.48
+461,120,2024-08-18,Gestion de projet agile,E_LEARNING,18,177.21
+462,83,2024-08-18,Comptabilité analytique,INTERNE,25,114.74
+463,114,2024-08-19,Sécurité au travail,EXTERNE,12,844.19
+464,95,2024-08-19,Power BI et analyse de données,EXTERNE,30,1982.64
+465,33,2024-08-20,Excel avancé pour la finance,EXTERNE,18,1260.80
+466,9,2024-08-20,Négociation commerciale,EXTERNE,19,2391.07
+467,23,2024-08-21,Comptabilité analytique,EXTERNE,28,2452.23
+468,56,2024-08-21,Service client de qualité,E_LEARNING,25,51.29
+469,103,2024-08-22,Gestion de projet agile,INTERNE,26,580.30
+470,95,2024-08-22,Leadership et management,INTERNE,29,508.29
+471,2,2024-08-23,Gestion de projet agile,EXTERNE,20,2744.04
+472,98,2024-08-23,Sécurité au travail,EXTERNE,28,2905.64
+473,42,2024-08-24,Leadership et management,E_LEARNING,14,111.78
+474,120,2024-08-24,Gestion de projet agile,EXTERNE,22,2812.00
+475,91,2024-08-25,Comptabilité analytique,INTERNE,30,128.49
+476,67,2024-08-25,Service client de qualité,EXTERNE,31,2523.14
+477,41,2024-08-26,Power BI et analyse de données,INTERNE,4,897.04
+478,110,2024-08-26,Leadership et management,EXTERNE,6,2747.50
+479,32,2024-08-27,Leadership et management,EXTERNE,13,2801.06
+480,78,2024-08-27,Sécurité au travail,EXTERNE,24,922.92
+481,95,2024-08-28,Comptabilité analytique,EXTERNE,23,2647.62
+482,44,2024-08-28,Excel avancé pour la finance,INTERNE,30,890.69
+483,41,2024-08-29,Service client de qualité,E_LEARNING,20,74.74
+484,97,2024-08-29,Service client de qualité,E_LEARNING,9,186.31
+485,82,2024-08-30,Excel avancé pour la finance,INTERNE,18,204.52
+486,20,2024-08-30,Service client de qualité,EXTERNE,28,1251.13
+487,1,2024-08-31,Gestion de projet agile,INTERNE,30,436.97
+488,57,2024-08-31,Excel avancé pour la finance,INTERNE,30,326.17
+489,96,2024-09-01,Power BI et analyse de données,INTERNE,30,611.58
+490,68,2024-09-01,Gestion de projet agile,E_LEARNING,31,206.47
+491,98,2024-09-02,Excel avancé pour la finance,EXTERNE,21,2779.47
+492,96,2024-09-02,Comptabilité analytique,INTERNE,6,216.57
+493,59,2024-09-03,Service client de qualité,INTERNE,28,391.14
+494,46,2024-09-03,Négociation commerciale,E_LEARNING,11,162.36
+495,20,2024-09-04,Négociation commerciale,E_LEARNING,20,345.58
+496,35,2024-09-04,Sécurité au travail,EXTERNE,32,1184.72
+497,69,2024-09-05,Sécurité au travail,INTERNE,32,548.02
+498,113,2024-09-05,Leadership et management,INTERNE,4,487.38
+499,44,2024-09-06,Gestion de projet agile,EXTERNE,10,881.35
+500,12,2024-09-06,Comptabilité analytique,INTERNE,9,361.73
+501,13,2024-09-07,Sécurité au travail,EXTERNE,13,1722.53
+502,54,2024-09-07,Service client de qualité,E_LEARNING,12,287.75
+503,19,2024-09-08,Service client de qualité,EXTERNE,20,781.51
+504,108,2024-09-08,Excel avancé pour la finance,INTERNE,32,508.52
+505,84,2024-09-09,Gestion de projet agile,E_LEARNING,14,304.72
+506,23,2024-09-09,Sécurité au travail,EXTERNE,31,1196.11
+507,81,2024-09-10,Service client de qualité,EXTERNE,10,1460.61
+508,37,2024-09-10,Négociation commerciale,EXTERNE,21,741.50
+509,89,2024-09-11,Gestion de projet agile,EXTERNE,17,784.86
+510,25,2024-09-11,Gestion de projet agile,EXTERNE,20,1983.02
+511,41,2024-09-12,Service client de qualité,E_LEARNING,10,137.94
+512,98,2024-09-12,Service client de qualité,INTERNE,32,259.56
+513,22,2024-09-13,Comptabilité analytique,INTERNE,19,872.91
+514,35,2024-09-13,Gestion de projet agile,EXTERNE,8,1949.50
+515,50,2024-09-14,Sécurité au travail,INTERNE,31,446.28
+516,52,2024-09-14,Négociation commerciale,E_LEARNING,5,221.52
+517,80,2024-09-15,Excel avancé pour la finance,EXTERNE,17,792.26
+518,26,2024-09-15,Comptabilité analytique,E_LEARNING,10,201.25
+519,104,2024-09-16,Sécurité au travail,E_LEARNING,31,122.24
+520,49,2024-09-16,Power BI et analyse de données,INTERNE,18,620.95
+521,92,2024-09-17,Excel avancé pour la finance,E_LEARNING,22,345.36
+522,7,2024-09-17,Power BI et analyse de données,INTERNE,27,867.37
+523,50,2024-09-18,Gestion de projet agile,INTERNE,32,576.40
+524,20,2024-09-18,Service client de qualité,INTERNE,27,324.61
+525,3,2024-09-19,Leadership et management,INTERNE,16,439.91
+526,100,2024-09-19,Négociation commerciale,E_LEARNING,5,193.48
+527,25,2024-09-20,Power BI et analyse de données,EXTERNE,21,1007.44
+528,27,2024-09-20,Gestion de projet agile,EXTERNE,12,917.49
+529,120,2024-09-21,Sécurité au travail,EXTERNE,23,2997.18
+530,5,2024-09-21,Négociation commerciale,INTERNE,30,704.19
+531,13,2024-09-22,Négociation commerciale,INTERNE,27,293.31
+532,101,2024-09-22,Comptabilité analytique,EXTERNE,24,2751.05
+533,60,2024-09-23,Sécurité au travail,E_LEARNING,32,171.03
+534,16,2024-09-23,Comptabilité analytique,EXTERNE,33,1150.48
+535,47,2024-09-24,Service client de qualité,INTERNE,19,700.61
+536,29,2024-09-24,Excel avancé pour la finance,E_LEARNING,11,95.28
+537,5,2024-09-25,Sécurité au travail,E_LEARNING,14,102.31
+538,105,2024-09-25,Sécurité au travail,E_LEARNING,4,212.38
+539,84,2024-09-26,Leadership et management,E_LEARNING,12,341.00
+540,116,2024-09-26,Service client de qualité,E_LEARNING,16,112.79
+541,96,2024-09-27,Sécurité au travail,EXTERNE,28,554.31
+542,74,2024-09-27,Leadership et management,INTERNE,32,245.88
+543,7,2024-09-28,Sécurité au travail,E_LEARNING,26,256.81
+544,19,2024-09-28,Excel avancé pour la finance,E_LEARNING,14,200.33
+545,51,2024-09-29,Comptabilité analytique,EXTERNE,10,1956.54
+546,37,2024-09-29,Négociation commerciale,E_LEARNING,18,228.32
+547,58,2024-09-30,Service client de qualité,EXTERNE,9,904.05
+548,27,2024-09-30,Service client de qualité,EXTERNE,25,2883.49
+549,78,2024-10-01,Négociation commerciale,EXTERNE,27,2959.62
+550,66,2024-10-01,Leadership et management,E_LEARNING,29,200.07
+551,119,2024-10-02,Leadership et management,EXTERNE,17,2471.19
+552,75,2024-10-02,Comptabilité analytique,E_LEARNING,26,183.08
+553,112,2024-10-03,Comptabilité analytique,INTERNE,4,657.35
+554,53,2024-10-03,Leadership et management,INTERNE,24,763.38
+555,11,2024-10-04,Service client de qualité,E_LEARNING,30,294.42
+556,46,2024-10-04,Excel avancé pour la finance,EXTERNE,6,1070.56
+557,103,2024-10-05,Power BI et analyse de données,EXTERNE,24,2119.69
+558,18,2024-10-05,Service client de qualité,E_LEARNING,14,97.86
+559,85,2024-10-06,Leadership et management,INTERNE,24,808.22
+560,47,2024-10-06,Leadership et management,INTERNE,14,104.37
+561,120,2024-10-07,Négociation commerciale,E_LEARNING,19,332.02
+562,16,2024-10-07,Comptabilité analytique,E_LEARNING,20,124.63
+563,76,2024-10-08,Leadership et management,EXTERNE,22,1757.17
+564,86,2024-10-08,Excel avancé pour la finance,INTERNE,13,321.78
+565,56,2024-10-09,Négociation commerciale,EXTERNE,20,2298.19
+566,118,2024-10-09,Gestion de projet agile,E_LEARNING,14,219.85
+567,100,2024-10-10,Gestion de projet agile,EXTERNE,5,1246.68
+568,37,2024-10-10,Power BI et analyse de données,EXTERNE,21,2911.66
+569,13,2024-10-11,Gestion de projet agile,EXTERNE,31,1254.29
+570,94,2024-10-11,Gestion de projet agile,INTERNE,13,593.83
+571,15,2024-10-12,Power BI et analyse de données,E_LEARNING,17,107.14
+572,78,2024-10-12,Power BI et analyse de données,EXTERNE,28,2855.53
+573,37,2024-10-13,Service client de qualité,E_LEARNING,29,192.95
+574,100,2024-10-13,Leadership et management,E_LEARNING,24,311.11
+575,38,2024-10-14,Comptabilité analytique,E_LEARNING,6,57.14
+576,109,2024-10-14,Sécurité au travail,EXTERNE,33,2016.67
+577,6,2024-10-15,Comptabilité analytique,EXTERNE,7,635.12
+578,106,2024-10-15,Service client de qualité,INTERNE,33,341.64
+579,68,2024-10-16,Comptabilité analytique,E_LEARNING,14,165.91
+580,101,2024-10-16,Gestion de projet agile,INTERNE,6,486.90
+581,23,2024-10-17,Négociation commerciale,EXTERNE,4,1636.32
+582,21,2024-10-17,Excel avancé pour la finance,EXTERNE,21,2779.42
+583,92,2024-10-18,Leadership et management,INTERNE,21,427.69
+584,35,2024-10-18,Leadership et management,INTERNE,17,589.29
+585,84,2024-10-19,Excel avancé pour la finance,EXTERNE,14,1992.20
+586,114,2024-10-19,Négociation commerciale,E_LEARNING,25,283.53
+587,95,2024-10-20,Service client de qualité,EXTERNE,9,867.12
+588,23,2024-10-20,Comptabilité analytique,EXTERNE,27,1599.49
+589,98,2024-10-21,Leadership et management,E_LEARNING,32,53.74
+590,30,2024-10-21,Power BI et analyse de données,INTERNE,23,522.10
+591,81,2024-10-22,Comptabilité analytique,E_LEARNING,32,114.92
+592,26,2024-10-22,Sécurité au travail,EXTERNE,29,2976.56
+593,50,2024-10-23,Leadership et management,INTERNE,22,566.04
+594,7,2024-10-23,Sécurité au travail,EXTERNE,20,1861.84
+595,5,2024-10-24,Gestion de projet agile,EXTERNE,21,2810.33
+596,109,2024-10-24,Excel avancé pour la finance,E_LEARNING,33,267.28
+597,85,2024-10-25,Gestion de projet agile,EXTERNE,7,2373.71
+598,43,2024-10-25,Service client de qualité,EXTERNE,4,1716.23
+599,52,2024-10-26,Excel avancé pour la finance,E_LEARNING,13,185.51
+600,32,2024-10-26,Excel avancé pour la finance,E_LEARNING,17,55.65
+601,90,2024-10-27,Leadership et management,E_LEARNING,31,61.59
+602,50,2024-10-27,Sécurité au travail,E_LEARNING,21,169.22
+603,35,2024-10-28,Power BI et analyse de données,INTERNE,32,713.34
+604,117,2024-10-28,Négociation commerciale,EXTERNE,27,1195.91
+605,2,2024-10-29,Excel avancé pour la finance,INTERNE,25,327.19
+606,39,2024-10-29,Gestion de projet agile,E_LEARNING,18,124.16
+607,91,2024-10-30,Comptabilité analytique,INTERNE,4,597.86
+608,10,2024-10-30,Sécurité au travail,EXTERNE,23,2648.86
+609,45,2024-10-31,Leadership et management,INTERNE,11,581.23
+610,34,2024-10-31,Excel avancé pour la finance,EXTERNE,19,1504.22
+611,59,2024-11-01,Service client de qualité,INTERNE,16,354.02
+612,35,2024-11-01,Gestion de projet agile,EXTERNE,26,2329.10
+613,54,2024-11-02,Négociation commerciale,INTERNE,14,109.18
+614,5,2024-11-02,Service client de qualité,INTERNE,21,212.70
+615,113,2024-11-03,Sécurité au travail,INTERNE,17,896.73
+616,71,2024-11-03,Négociation commerciale,E_LEARNING,31,271.70
+617,114,2024-11-04,Gestion de projet agile,EXTERNE,4,512.08
+618,113,2024-11-04,Gestion de projet agile,E_LEARNING,6,215.95
+619,60,2024-11-05,Service client de qualité,E_LEARNING,19,274.32
+620,28,2024-11-05,Comptabilité analytique,E_LEARNING,15,193.61
+621,29,2024-11-06,Négociation commerciale,E_LEARNING,23,165.88
+622,114,2024-11-06,Excel avancé pour la finance,EXTERNE,19,1600.06
+623,78,2024-11-07,Service client de qualité,E_LEARNING,9,100.90
+624,37,2024-11-07,Leadership et management,INTERNE,33,352.98
+625,73,2024-11-08,Service client de qualité,INTERNE,21,268.67
+626,39,2024-11-08,Comptabilité analytique,E_LEARNING,14,93.03
+627,86,2024-11-09,Service client de qualité,INTERNE,16,380.18
+628,63,2024-11-09,Leadership et management,EXTERNE,11,2304.07
+629,103,2024-11-10,Négociation commerciale,INTERNE,16,339.45
+630,26,2024-11-10,Leadership et management,INTERNE,20,202.80
+631,118,2024-11-11,Gestion de projet agile,EXTERNE,26,2501.88
+632,88,2024-11-11,Négociation commerciale,INTERNE,8,808.28
+633,115,2024-11-12,Service client de qualité,INTERNE,29,352.34
+634,8,2024-11-12,Gestion de projet agile,EXTERNE,10,780.00
+635,107,2024-11-13,Négociation commerciale,INTERNE,11,539.01
+636,115,2024-11-13,Gestion de projet agile,INTERNE,5,263.85
+637,108,2024-11-14,Service client de qualité,E_LEARNING,12,276.11
+638,108,2024-11-14,Power BI et analyse de données,INTERNE,10,850.43
+639,8,2024-11-15,Power BI et analyse de données,EXTERNE,13,1639.90
+640,41,2024-11-15,Service client de qualité,INTERNE,6,577.84
+641,87,2024-11-16,Négociation commerciale,E_LEARNING,17,117.25
+642,98,2024-11-16,Sécurité au travail,EXTERNE,9,1789.44
+643,5,2024-11-17,Excel avancé pour la finance,EXTERNE,12,1243.64
+644,79,2024-11-17,Comptabilité analytique,EXTERNE,9,1529.10
+645,57,2024-11-18,Leadership et management,INTERNE,18,811.14
+646,2,2024-11-18,Excel avancé pour la finance,EXTERNE,29,846.66
+647,23,2024-11-19,Négociation commerciale,EXTERNE,12,1806.89
+648,94,2024-11-19,Power BI et analyse de données,INTERNE,17,394.64
+649,62,2024-11-20,Gestion de projet agile,EXTERNE,12,1012.31
+650,24,2024-11-20,Leadership et management,EXTERNE,29,2415.75
+651,29,2024-11-21,Comptabilité analytique,E_LEARNING,8,198.30
+652,119,2024-11-21,Power BI et analyse de données,EXTERNE,9,2797.09
+653,12,2024-11-22,Power BI et analyse de données,E_LEARNING,9,97.93
+654,28,2024-11-22,Gestion de projet agile,E_LEARNING,12,167.85
+655,18,2024-11-23,Power BI et analyse de données,EXTERNE,8,1990.77
+656,69,2024-11-23,Service client de qualité,INTERNE,20,179.10
+657,105,2024-11-24,Service client de qualité,INTERNE,32,843.36
+658,94,2024-11-24,Leadership et management,INTERNE,15,530.64
+659,64,2024-11-25,Service client de qualité,INTERNE,27,263.53
+660,80,2024-11-25,Sécurité au travail,E_LEARNING,10,260.47
+661,105,2024-11-26,Service client de qualité,INTERNE,9,196.88
+662,12,2024-11-26,Power BI et analyse de données,INTERNE,10,210.96
+663,5,2024-11-27,Comptabilité analytique,E_LEARNING,25,98.86
+664,78,2024-11-27,Comptabilité analytique,E_LEARNING,20,201.83
+665,105,2024-11-28,Service client de qualité,E_LEARNING,13,327.87
+666,79,2024-11-28,Service client de qualité,EXTERNE,8,1081.99
+667,80,2024-11-29,Excel avancé pour la finance,EXTERNE,25,1237.54
+668,34,2024-11-29,Comptabilité analytique,EXTERNE,15,1947.17
+669,86,2024-11-30,Excel avancé pour la finance,E_LEARNING,23,92.25
+670,92,2024-11-30,Gestion de projet agile,EXTERNE,17,606.68
+671,105,2024-12-01,Sécurité au travail,INTERNE,22,678.66
+672,93,2024-12-01,Leadership et management,E_LEARNING,28,212.38
+673,30,2024-12-02,Power BI et analyse de données,EXTERNE,32,2006.68
+674,25,2024-12-02,Sécurité au travail,INTERNE,20,428.82
+675,52,2024-12-03,Leadership et management,E_LEARNING,19,291.97
+676,61,2024-12-03,Excel avancé pour la finance,INTERNE,4,754.15
+677,8,2024-12-04,Leadership et management,E_LEARNING,14,78.29
+678,56,2024-12-04,Comptabilité analytique,INTERNE,33,433.55
+679,19,2024-12-05,Leadership et management,EXTERNE,13,661.55
+680,43,2024-12-05,Comptabilité analytique,EXTERNE,19,2996.65
+681,56,2024-12-06,Leadership et management,INTERNE,26,357.18
+682,46,2024-12-06,Service client de qualité,E_LEARNING,5,198.19
+683,41,2024-12-07,Excel avancé pour la finance,INTERNE,19,492.02
+684,109,2024-12-07,Service client de qualité,INTERNE,24,703.04
+685,83,2024-12-08,Gestion de projet agile,INTERNE,9,728.80
+686,41,2024-12-08,Gestion de projet agile,INTERNE,10,241.57
+687,27,2024-12-09,Leadership et management,EXTERNE,13,565.03
+688,17,2024-12-09,Service client de qualité,EXTERNE,4,1411.50
+689,97,2024-12-10,Leadership et management,E_LEARNING,10,189.55
+690,84,2024-12-10,Power BI et analyse de données,INTERNE,19,498.75
+691,115,2024-12-11,Sécurité au travail,INTERNE,19,228.31
+692,34,2024-12-11,Gestion de projet agile,E_LEARNING,31,183.09
+693,52,2024-12-12,Comptabilité analytique,E_LEARNING,20,169.24
+694,37,2024-12-12,Gestion de projet agile,INTERNE,19,454.81
+695,85,2024-12-13,Comptabilité analytique,INTERNE,22,577.05
+696,14,2024-12-13,Service client de qualité,E_LEARNING,18,283.69
+697,49,2024-12-14,Leadership et management,E_LEARNING,32,75.18
+698,75,2024-12-14,Power BI et analyse de données,E_LEARNING,6,202.51
+699,32,2024-12-15,Leadership et management,E_LEARNING,15,177.31
+700,1,2024-12-15,Gestion de projet agile,E_LEARNING,13,178.58
+701,26,2024-12-16,Leadership et management,E_LEARNING,26,71.05
+702,16,2024-12-16,Comptabilité analytique,EXTERNE,33,1362.93
+703,91,2024-12-17,Power BI et analyse de données,E_LEARNING,22,74.10
+704,61,2024-12-17,Négociation commerciale,INTERNE,23,572.40
+705,117,2024-12-18,Service client de qualité,INTERNE,23,478.74
+706,51,2024-12-18,Excel avancé pour la finance,E_LEARNING,16,293.55
+707,99,2024-12-19,Négociation commerciale,E_LEARNING,23,170.68
+708,10,2024-12-19,Comptabilité analytique,INTERNE,12,152.99
+709,59,2024-12-20,Comptabilité analytique,INTERNE,5,859.87
+710,75,2024-12-20,Sécurité au travail,INTERNE,10,836.09
+711,113,2024-12-21,Comptabilité analytique,E_LEARNING,15,153.75
+712,76,2024-12-21,Service client de qualité,INTERNE,23,533.30
+713,87,2024-12-22,Comptabilité analytique,E_LEARNING,5,305.47
+714,11,2024-12-22,Leadership et management,E_LEARNING,16,185.35
+715,118,2024-12-23,Comptabilité analytique,EXTERNE,15,1822.70
+716,57,2024-12-23,Sécurité au travail,E_LEARNING,5,278.13
+717,83,2024-12-24,Comptabilité analytique,INTERNE,18,154.46
+718,103,2024-12-24,Gestion de projet agile,INTERNE,14,593.88
+719,8,2024-12-25,Excel avancé pour la finance,EXTERNE,28,604.03
+720,88,2024-12-25,Sécurité au travail,EXTERNE,19,1410.88
+721,31,2024-12-26,Excel avancé pour la finance,INTERNE,31,346.63
+722,97,2024-12-26,Leadership et management,INTERNE,13,251.12
+723,120,2024-12-27,Leadership et management,EXTERNE,16,2271.85
+724,32,2024-12-27,Leadership et management,INTERNE,9,490.95
+725,106,2024-12-28,Excel avancé pour la finance,E_LEARNING,14,226.24
+726,113,2024-12-28,Comptabilité analytique,E_LEARNING,10,276.89
+727,11,2024-12-29,Service client de qualité,INTERNE,19,733.25
+728,47,2024-12-29,Service client de qualité,EXTERNE,13,2424.79
+729,111,2024-12-30,Comptabilité analytique,INTERNE,31,323.22
+730,78,2024-12-30,Excel avancé pour la finance,EXTERNE,31,1672.66
+731,77,2024-12-31,Négociation commerciale,E_LEARNING,22,69.82
+732,62,2024-12-31,Leadership et management,EXTERNE,4,1659.26
+733,31,2025-01-01,Gestion de projet agile,E_LEARNING,27,323.07
+734,19,2025-01-01,Gestion de projet agile,INTERNE,15,818.37
+735,36,2025-01-02,Négociation commerciale,E_LEARNING,23,143.61
+736,70,2025-01-02,Excel avancé pour la finance,E_LEARNING,10,66.62
+737,75,2025-01-03,Comptabilité analytique,E_LEARNING,11,314.12
+738,74,2025-01-03,Leadership et management,EXTERNE,26,780.79
+739,43,2025-01-04,Excel avancé pour la finance,EXTERNE,10,2325.09
+740,4,2025-01-04,Gestion de projet agile,E_LEARNING,26,203.96
+741,43,2025-01-05,Excel avancé pour la finance,INTERNE,20,566.03
+742,36,2025-01-05,Gestion de projet agile,E_LEARNING,13,208.95
+743,83,2025-01-06,Excel avancé pour la finance,E_LEARNING,5,327.50
+744,57,2025-01-06,Service client de qualité,EXTERNE,29,2031.99
+745,68,2025-01-07,Leadership et management,E_LEARNING,31,80.19
+746,90,2025-01-07,Comptabilité analytique,EXTERNE,4,1860.00
+747,79,2025-01-08,Power BI et analyse de données,EXTERNE,14,2855.40
+748,83,2025-01-08,Négociation commerciale,EXTERNE,6,1739.11
+749,26,2025-01-09,Leadership et management,EXTERNE,14,824.15
+750,71,2025-01-09,Excel avancé pour la finance,EXTERNE,14,2515.31
+751,113,2025-01-10,Service client de qualité,INTERNE,28,520.71
+752,21,2025-01-10,Comptabilité analytique,INTERNE,18,743.77
+753,72,2025-01-11,Négociation commerciale,EXTERNE,10,882.58
+754,15,2025-01-11,Sécurité au travail,INTERNE,17,243.54
+755,61,2025-01-12,Power BI et analyse de données,E_LEARNING,24,188.79
+756,33,2025-01-12,Excel avancé pour la finance,E_LEARNING,8,284.40
+757,51,2025-01-13,Sécurité au travail,E_LEARNING,6,68.30
+758,4,2025-01-13,Comptabilité analytique,E_LEARNING,7,85.58
+759,32,2025-01-14,Négociation commerciale,E_LEARNING,4,77.74
+760,56,2025-01-14,Gestion de projet agile,INTERNE,20,541.69
+761,16,2025-01-15,Gestion de projet agile,INTERNE,8,813.23
+762,118,2025-01-15,Leadership et management,INTERNE,5,787.35
+763,16,2025-01-16,Négociation commerciale,INTERNE,18,623.03
+764,95,2025-01-16,Service client de qualité,E_LEARNING,29,216.10
+765,28,2025-01-17,Gestion de projet agile,EXTERNE,32,2457.27
+766,4,2025-01-17,Négociation commerciale,E_LEARNING,10,125.51
+767,78,2025-01-18,Sécurité au travail,EXTERNE,30,547.10
+768,54,2025-01-18,Service client de qualité,INTERNE,4,600.75
+769,6,2025-01-19,Service client de qualité,INTERNE,23,643.27
+770,53,2025-01-19,Sécurité au travail,INTERNE,20,540.34
+771,14,2025-01-20,Power BI et analyse de données,E_LEARNING,19,306.34
+772,84,2025-01-20,Service client de qualité,E_LEARNING,28,221.90
+773,47,2025-01-21,Négociation commerciale,INTERNE,6,550.28
+774,68,2025-01-21,Excel avancé pour la finance,INTERNE,21,870.20
+775,4,2025-01-22,Leadership et management,INTERNE,16,325.71
+776,26,2025-01-22,Power BI et analyse de données,INTERNE,11,266.14
+777,30,2025-01-23,Leadership et management,EXTERNE,12,2424.52
+778,2,2025-01-23,Gestion de projet agile,E_LEARNING,17,349.91
+779,80,2025-01-24,Service client de qualité,INTERNE,28,492.33
+780,117,2025-01-24,Négociation commerciale,EXTERNE,23,1597.98
+781,26,2025-01-25,Excel avancé pour la finance,E_LEARNING,9,241.85
+782,81,2025-01-25,Excel avancé pour la finance,EXTERNE,8,1813.56
+783,21,2025-01-26,Comptabilité analytique,INTERNE,9,583.79
+784,52,2025-01-26,Sécurité au travail,INTERNE,30,346.87
+785,106,2025-01-27,Gestion de projet agile,EXTERNE,5,1027.93
+786,107,2025-01-27,Power BI et analyse de données,E_LEARNING,13,197.93
+787,67,2025-01-28,Comptabilité analytique,INTERNE,13,101.04
+788,11,2025-01-28,Négociation commerciale,EXTERNE,15,743.66
+789,40,2025-01-29,Comptabilité analytique,EXTERNE,10,1601.26
+790,70,2025-01-29,Leadership et management,EXTERNE,7,654.08
+791,116,2025-01-30,Leadership et management,EXTERNE,6,2656.40
+792,8,2025-01-30,Sécurité au travail,E_LEARNING,8,140.74
+793,11,2025-01-31,Sécurité au travail,EXTERNE,21,1866.75
+794,2,2025-01-31,Excel avancé pour la finance,EXTERNE,11,2709.04
+795,84,2025-02-01,Excel avancé pour la finance,E_LEARNING,32,195.93
+796,69,2025-02-01,Power BI et analyse de données,EXTERNE,14,2479.20
+797,111,2025-02-02,Power BI et analyse de données,INTERNE,7,514.99
+798,29,2025-02-02,Sécurité au travail,EXTERNE,17,2416.81
+799,64,2025-02-03,Leadership et management,EXTERNE,23,2666.15
+800,44,2025-02-03,Négociation commerciale,INTERNE,14,670.12
+801,65,2025-02-04,Leadership et management,EXTERNE,33,2014.85
+802,5,2025-02-04,Gestion de projet agile,EXTERNE,13,1974.60
+803,117,2025-02-05,Service client de qualité,INTERNE,18,717.10
+804,48,2025-02-05,Leadership et management,E_LEARNING,27,182.96
+805,104,2025-02-06,Power BI et analyse de données,E_LEARNING,30,137.50
+806,98,2025-02-06,Service client de qualité,INTERNE,4,503.45
+807,59,2025-02-07,Leadership et management,E_LEARNING,7,344.54
+808,73,2025-02-07,Sécurité au travail,INTERNE,10,594.50
+809,56,2025-02-08,Négociation commerciale,EXTERNE,16,887.97
+810,66,2025-02-08,Gestion de projet agile,INTERNE,20,660.29
+811,107,2025-02-09,Excel avancé pour la finance,EXTERNE,6,1312.37
+812,49,2025-02-09,Négociation commerciale,INTERNE,21,186.90
+813,97,2025-02-10,Négociation commerciale,E_LEARNING,29,125.92
+814,92,2025-02-10,Excel avancé pour la finance,INTERNE,33,783.55
+815,35,2025-02-11,Service client de qualité,E_LEARNING,6,293.14
+816,94,2025-02-11,Négociation commerciale,EXTERNE,20,2568.66
+817,55,2025-02-12,Service client de qualité,E_LEARNING,24,218.38
+818,92,2025-02-12,Sécurité au travail,INTERNE,22,741.95
+819,25,2025-02-13,Sécurité au travail,EXTERNE,12,1014.57
+820,18,2025-02-13,Excel avancé pour la finance,INTERNE,9,583.62
+821,58,2025-02-14,Sécurité au travail,EXTERNE,22,2145.32
+822,54,2025-02-14,Négociation commerciale,INTERNE,31,771.21
+823,49,2025-02-15,Leadership et management,EXTERNE,23,2026.55
+824,11,2025-02-15,Comptabilité analytique,EXTERNE,4,2465.89
+825,106,2025-02-16,Service client de qualité,INTERNE,22,496.86
+826,72,2025-02-16,Gestion de projet agile,EXTERNE,32,2062.93
+827,39,2025-02-17,Gestion de projet agile,E_LEARNING,7,225.28
+828,71,2025-02-17,Leadership et management,INTERNE,19,808.56
+829,108,2025-02-18,Service client de qualité,E_LEARNING,33,176.02
+830,18,2025-02-18,Négociation commerciale,EXTERNE,10,1388.74
+831,11,2025-02-19,Gestion de projet agile,EXTERNE,5,1209.04
+832,37,2025-02-19,Sécurité au travail,EXTERNE,4,2863.14
+833,76,2025-02-20,Gestion de projet agile,INTERNE,25,366.93
+834,65,2025-02-20,Comptabilité analytique,E_LEARNING,10,184.63
+835,76,2025-02-21,Leadership et management,E_LEARNING,11,299.26
+836,51,2025-02-21,Gestion de projet agile,EXTERNE,32,1669.51
+837,62,2025-02-22,Leadership et management,INTERNE,20,188.04
+838,113,2025-02-22,Négociation commerciale,EXTERNE,18,2123.50
+839,101,2025-02-23,Comptabilité analytique,INTERNE,6,197.91
+840,42,2025-02-23,Comptabilité analytique,EXTERNE,28,2277.51
+841,15,2025-02-24,Excel avancé pour la finance,EXTERNE,29,2982.36
+842,56,2025-02-24,Power BI et analyse de données,EXTERNE,20,2540.99
+843,51,2025-02-25,Excel avancé pour la finance,E_LEARNING,17,320.50
+844,25,2025-02-25,Négociation commerciale,INTERNE,31,574.47
+845,32,2025-02-26,Négociation commerciale,EXTERNE,30,2251.20
+846,104,2025-02-26,Service client de qualité,INTERNE,31,171.31
+847,79,2025-02-27,Excel avancé pour la finance,INTERNE,19,303.33
+848,86,2025-02-27,Négociation commerciale,E_LEARNING,33,117.67
+849,26,2025-02-28,Power BI et analyse de données,EXTERNE,22,2915.42
+850,120,2025-02-28,Sécurité au travail,INTERNE,31,327.96
+851,81,2025-03-01,Service client de qualité,EXTERNE,4,1798.03
+852,70,2025-03-01,Négociation commerciale,EXTERNE,24,1991.44
+853,113,2025-03-02,Gestion de projet agile,E_LEARNING,27,283.83
+854,70,2025-03-02,Négociation commerciale,EXTERNE,14,2288.31
+855,67,2025-03-03,Service client de qualité,EXTERNE,23,2242.40
+856,66,2025-03-03,Service client de qualité,EXTERNE,33,973.80
+857,118,2025-03-04,Gestion de projet agile,EXTERNE,24,958.21
+858,106,2025-03-04,Service client de qualité,E_LEARNING,16,137.71
+859,28,2025-03-05,Service client de qualité,INTERNE,6,675.41
+860,42,2025-03-05,Comptabilité analytique,EXTERNE,18,2640.18
+861,103,2025-03-06,Négociation commerciale,E_LEARNING,20,328.42
+862,2,2025-03-06,Sécurité au travail,INTERNE,10,811.23
+863,91,2025-03-07,Leadership et management,INTERNE,24,742.19
+864,120,2025-03-07,Comptabilité analytique,EXTERNE,19,513.51
+865,62,2025-03-08,Leadership et management,EXTERNE,12,2767.87
+866,80,2025-03-08,Négociation commerciale,EXTERNE,24,2318.85
+867,75,2025-03-09,Comptabilité analytique,E_LEARNING,10,255.92
+868,93,2025-03-09,Gestion de projet agile,E_LEARNING,31,238.82
+869,46,2025-03-10,Négociation commerciale,INTERNE,17,555.52
+870,60,2025-03-10,Sécurité au travail,E_LEARNING,22,324.67
+871,88,2025-03-11,Power BI et analyse de données,E_LEARNING,27,79.56
+872,12,2025-03-11,Gestion de projet agile,INTERNE,27,782.56
+873,114,2025-03-12,Excel avancé pour la finance,INTERNE,26,527.29
+874,54,2025-03-12,Comptabilité analytique,EXTERNE,16,1711.97
+875,21,2025-03-13,Sécurité au travail,EXTERNE,31,1181.66
+876,80,2025-03-13,Sécurité au travail,EXTERNE,33,1438.90
+877,117,2025-03-14,Gestion de projet agile,E_LEARNING,7,258.68
+878,11,2025-03-14,Sécurité au travail,EXTERNE,10,2396.32
+879,16,2025-03-15,Sécurité au travail,EXTERNE,11,2485.76
+880,30,2025-03-15,Sécurité au travail,E_LEARNING,32,132.77
+881,62,2025-03-16,Leadership et management,E_LEARNING,25,334.10
+882,76,2025-03-16,Service client de qualité,INTERNE,7,715.66
+883,61,2025-03-17,Service client de qualité,INTERNE,8,106.79
+884,77,2025-03-17,Négociation commerciale,INTERNE,5,505.40
+885,48,2025-03-18,Excel avancé pour la finance,EXTERNE,8,1467.43
+886,63,2025-03-18,Service client de qualité,EXTERNE,24,2113.42
+887,21,2025-03-19,Excel avancé pour la finance,E_LEARNING,15,314.77
+888,30,2025-03-19,Leadership et management,EXTERNE,6,2861.84
+889,55,2025-03-20,Négociation commerciale,EXTERNE,8,564.72
+890,83,2025-03-20,Comptabilité analytique,EXTERNE,27,2039.78
+891,85,2025-03-21,Power BI et analyse de données,E_LEARNING,16,104.27
+892,81,2025-03-21,Excel avancé pour la finance,E_LEARNING,29,91.95
+893,13,2025-03-22,Leadership et management,INTERNE,20,342.80
+894,100,2025-03-22,Gestion de projet agile,INTERNE,26,640.80
+895,16,2025-03-23,Gestion de projet agile,EXTERNE,24,1373.45
+896,79,2025-03-23,Leadership et management,INTERNE,14,153.33
+897,38,2025-03-24,Négociation commerciale,EXTERNE,23,1571.72
+898,19,2025-03-24,Négociation commerciale,EXTERNE,16,794.11
+899,44,2025-03-25,Leadership et management,EXTERNE,28,1380.66
+900,38,2025-03-25,Service client de qualité,EXTERNE,14,510.93
+901,120,2025-03-26,Comptabilité analytique,E_LEARNING,12,305.28
+902,54,2025-03-26,Excel avancé pour la finance,E_LEARNING,11,64.85
+903,63,2025-03-27,Gestion de projet agile,EXTERNE,28,1079.61
+904,84,2025-03-27,Comptabilité analytique,E_LEARNING,24,333.55
+905,87,2025-03-28,Gestion de projet agile,E_LEARNING,32,279.82
+906,2,2025-03-28,Comptabilité analytique,E_LEARNING,19,128.49
+907,95,2025-03-29,Sécurité au travail,INTERNE,28,699.11
+908,31,2025-03-29,Sécurité au travail,INTERNE,29,121.53
+909,75,2025-03-30,Power BI et analyse de données,INTERNE,20,672.54
+910,114,2025-03-30,Leadership et management,EXTERNE,30,703.45
+911,86,2025-03-31,Sécurité au travail,INTERNE,5,201.54
+912,54,2025-03-31,Négociation commerciale,E_LEARNING,5,181.80
+913,10,2025-04-01,Leadership et management,INTERNE,19,248.32
+914,41,2025-04-01,Gestion de projet agile,INTERNE,9,667.05
+915,2,2025-04-02,Gestion de projet agile,E_LEARNING,18,184.59
+916,94,2025-04-02,Service client de qualité,EXTERNE,27,1683.55
+917,118,2025-04-03,Sécurité au travail,EXTERNE,32,1198.21
+918,68,2025-04-03,Power BI et analyse de données,E_LEARNING,14,321.40
+919,61,2025-04-04,Service client de qualité,E_LEARNING,17,201.28
+920,21,2025-04-04,Leadership et management,EXTERNE,30,2845.70
+921,120,2025-04-05,Négociation commerciale,INTERNE,5,445.62
+922,6,2025-04-05,Service client de qualité,E_LEARNING,10,118.66
+923,61,2025-04-06,Service client de qualité,E_LEARNING,18,231.62
+924,74,2025-04-06,Power BI et analyse de données,INTERNE,6,367.58
+925,51,2025-04-07,Power BI et analyse de données,INTERNE,11,293.06
+926,59,2025-04-07,Excel avancé pour la finance,E_LEARNING,16,254.52
+927,25,2025-04-08,Leadership et management,E_LEARNING,13,318.84
+928,60,2025-04-08,Sécurité au travail,E_LEARNING,30,86.94
+929,112,2025-04-09,Service client de qualité,INTERNE,7,775.15
+930,103,2025-04-09,Excel avancé pour la finance,E_LEARNING,10,315.66
+931,90,2025-04-10,Leadership et management,INTERNE,26,162.97
+932,23,2025-04-10,Comptabilité analytique,E_LEARNING,13,324.25
+933,79,2025-04-11,Gestion de projet agile,EXTERNE,23,1223.41
+934,63,2025-04-11,Excel avancé pour la finance,E_LEARNING,16,249.71
+935,13,2025-04-12,Power BI et analyse de données,EXTERNE,7,2014.52
+936,78,2025-04-12,Excel avancé pour la finance,EXTERNE,10,2496.81
+937,44,2025-04-13,Excel avancé pour la finance,EXTERNE,27,2773.53
+938,23,2025-04-13,Sécurité au travail,INTERNE,19,335.73
+939,114,2025-04-14,Power BI et analyse de données,E_LEARNING,7,242.88
+940,102,2025-04-14,Excel avancé pour la finance,INTERNE,8,695.02
+941,29,2025-04-15,Excel avancé pour la finance,E_LEARNING,15,301.00
+942,119,2025-04-15,Leadership et management,EXTERNE,28,1368.17
+943,39,2025-04-16,Négociation commerciale,EXTERNE,32,2781.50
+944,88,2025-04-16,Power BI et analyse de données,E_LEARNING,25,259.72
+945,46,2025-04-17,Négociation commerciale,E_LEARNING,4,159.21
+946,98,2025-04-17,Sécurité au travail,E_LEARNING,5,72.57
+947,28,2025-04-18,Négociation commerciale,E_LEARNING,6,207.41
+948,42,2025-04-18,Gestion de projet agile,INTERNE,8,612.62
+949,87,2025-04-19,Leadership et management,EXTERNE,28,2084.41
+950,84,2025-04-19,Comptabilité analytique,EXTERNE,13,738.65
+951,68,2025-04-20,Négociation commerciale,EXTERNE,14,2493.45
+952,111,2025-04-20,Power BI et analyse de données,INTERNE,26,852.81
+953,54,2025-04-21,Gestion de projet agile,EXTERNE,11,1082.62
+954,45,2025-04-21,Gestion de projet agile,INTERNE,28,165.21
+955,118,2025-04-22,Sécurité au travail,E_LEARNING,32,228.66
+956,14,2025-04-22,Service client de qualité,E_LEARNING,24,227.65
+957,109,2025-04-23,Négociation commerciale,E_LEARNING,26,266.06
+958,46,2025-04-23,Service client de qualité,E_LEARNING,29,163.96
+959,43,2025-04-24,Excel avancé pour la finance,EXTERNE,12,1200.15
+960,71,2025-04-24,Comptabilité analytique,INTERNE,23,727.37
+961,3,2025-04-25,Gestion de projet agile,E_LEARNING,8,249.81
+962,110,2025-04-25,Excel avancé pour la finance,EXTERNE,28,2543.81
+963,73,2025-04-26,Excel avancé pour la finance,EXTERNE,16,509.89
+964,94,2025-04-26,Excel avancé pour la finance,E_LEARNING,17,102.54
+965,67,2025-04-27,Service client de qualité,INTERNE,11,400.10
+966,21,2025-04-27,Leadership et management,E_LEARNING,23,272.52
+967,91,2025-04-28,Sécurité au travail,EXTERNE,16,2726.18
+968,24,2025-04-28,Négociation commerciale,INTERNE,21,263.98
+969,36,2025-04-29,Sécurité au travail,E_LEARNING,23,338.40
+970,98,2025-04-29,Sécurité au travail,INTERNE,24,209.91
+971,73,2025-04-30,Leadership et management,EXTERNE,14,622.47
+972,23,2025-04-30,Sécurité au travail,E_LEARNING,29,312.21
+973,100,2025-05-01,Leadership et management,EXTERNE,15,1257.91
+974,45,2025-05-01,Gestion de projet agile,E_LEARNING,21,282.36
+975,20,2025-05-02,Négociation commerciale,EXTERNE,13,2367.53
+976,92,2025-05-02,Service client de qualité,EXTERNE,5,2082.07
+977,119,2025-05-03,Power BI et analyse de données,INTERNE,14,817.85
+978,48,2025-05-03,Power BI et analyse de données,INTERNE,19,707.66
+979,29,2025-05-04,Comptabilité analytique,E_LEARNING,14,148.69
+980,70,2025-05-04,Négociation commerciale,E_LEARNING,23,244.30
+981,30,2025-05-05,Comptabilité analytique,INTERNE,32,401.14
+982,9,2025-05-05,Négociation commerciale,INTERNE,31,769.12
+983,51,2025-05-06,Comptabilité analytique,EXTERNE,7,1068.30
+984,93,2025-05-06,Gestion de projet agile,INTERNE,21,140.99
+985,59,2025-05-07,Négociation commerciale,INTERNE,28,370.43
+986,26,2025-05-07,Service client de qualité,INTERNE,20,229.11
+987,20,2025-05-08,Excel avancé pour la finance,INTERNE,16,815.87
+988,26,2025-05-08,Leadership et management,EXTERNE,6,2193.89
+989,18,2025-05-09,Excel avancé pour la finance,E_LEARNING,10,334.02
+990,6,2025-05-09,Comptabilité analytique,EXTERNE,29,2506.50
+991,59,2025-05-10,Gestion de projet agile,INTERNE,22,720.34
+992,9,2025-05-10,Comptabilité analytique,INTERNE,11,675.46
+993,99,2025-05-11,Leadership et management,E_LEARNING,11,225.23
+994,24,2025-05-11,Service client de qualité,INTERNE,6,691.79
+995,56,2025-05-12,Excel avancé pour la finance,INTERNE,29,242.82
+996,43,2025-05-12,Leadership et management,INTERNE,4,557.17
+997,103,2025-05-13,Leadership et management,EXTERNE,10,1799.88
+998,119,2025-05-13,Négociation commerciale,EXTERNE,14,657.05
+999,33,2025-05-14,Excel avancé pour la finance,INTERNE,24,350.94
+1000,61,2025-05-14,Sécurité au travail,EXTERNE,20,1505.41
+1001,39,2025-05-15,Négociation commerciale,EXTERNE,27,2919.20
+1002,57,2025-05-15,Négociation commerciale,EXTERNE,5,2000.11
+1003,102,2025-05-16,Service client de qualité,EXTERNE,19,2802.38
+1004,7,2025-05-16,Sécurité au travail,EXTERNE,21,1988.71
+1005,31,2025-05-17,Service client de qualité,EXTERNE,24,1873.41
+1006,84,2025-05-17,Excel avancé pour la finance,E_LEARNING,33,232.20
+1007,12,2025-05-18,Négociation commerciale,EXTERNE,29,1283.78
+1008,8,2025-05-18,Service client de qualité,EXTERNE,31,2617.73
+1009,54,2025-05-19,Leadership et management,E_LEARNING,26,132.56
+1010,12,2025-05-19,Négociation commerciale,EXTERNE,4,704.06
+1011,44,2025-05-20,Comptabilité analytique,EXTERNE,9,1800.02
+1012,11,2025-05-20,Excel avancé pour la finance,E_LEARNING,30,103.07
+1013,24,2025-05-21,Service client de qualité,EXTERNE,24,1923.39
+1014,101,2025-05-21,Comptabilité analytique,EXTERNE,23,2525.04
+1015,14,2025-05-22,Power BI et analyse de données,INTERNE,12,436.71
+1016,30,2025-05-22,Excel avancé pour la finance,E_LEARNING,10,342.90
+1017,34,2025-05-23,Service client de qualité,EXTERNE,12,2524.88
+1018,23,2025-05-23,Négociation commerciale,EXTERNE,4,1584.65
+1019,11,2025-05-24,Sécurité au travail,INTERNE,31,200.30
+1020,109,2025-05-24,Excel avancé pour la finance,INTERNE,25,504.38
+1021,44,2025-05-25,Sécurité au travail,INTERNE,5,180.22
+1022,42,2025-05-25,Excel avancé pour la finance,EXTERNE,5,680.77
+1023,25,2025-05-26,Sécurité au travail,E_LEARNING,32,136.64
+1024,73,2025-05-26,Négociation commerciale,INTERNE,11,422.60
+1025,35,2025-05-27,Leadership et management,INTERNE,17,592.52
+1026,86,2025-05-27,Sécurité au travail,E_LEARNING,6,76.18
+1027,22,2025-05-28,Service client de qualité,EXTERNE,9,748.40
+1028,112,2025-05-28,Négociation commerciale,EXTERNE,22,1380.40
+1029,105,2025-05-29,Négociation commerciale,INTERNE,21,331.39
+1030,78,2025-05-29,Négociation commerciale,EXTERNE,21,633.28
+1031,65,2025-05-30,Excel avancé pour la finance,EXTERNE,25,1380.18
+1032,77,2025-05-30,Gestion de projet agile,INTERNE,6,379.01
+1033,60,2025-05-31,Gestion de projet agile,EXTERNE,9,2696.00
+1034,97,2025-05-31,Sécurité au travail,EXTERNE,4,2721.11
+1035,42,2025-06-01,Leadership et management,INTERNE,31,104.51
+1036,29,2025-06-01,Leadership et management,INTERNE,8,440.68
+1037,76,2025-06-02,Sécurité au travail,E_LEARNING,29,276.22
+1038,27,2025-06-02,Service client de qualité,E_LEARNING,19,286.96
+1039,43,2025-06-03,Excel avancé pour la finance,EXTERNE,26,2501.32
+1040,87,2025-06-03,Comptabilité analytique,INTERNE,24,773.07
+1041,19,2025-06-04,Comptabilité analytique,INTERNE,8,448.77
+1042,86,2025-06-04,Leadership et management,INTERNE,4,587.64
+1043,120,2025-06-05,Gestion de projet agile,INTERNE,12,218.49
+1044,110,2025-06-05,Négociation commerciale,INTERNE,10,375.17
+1045,6,2025-06-06,Négociation commerciale,INTERNE,27,378.72
+1046,42,2025-06-06,Power BI et analyse de données,E_LEARNING,23,143.42
+1047,68,2025-06-07,Gestion de projet agile,E_LEARNING,33,250.46
+1048,53,2025-06-07,Gestion de projet agile,INTERNE,20,846.31
+1049,118,2025-06-08,Service client de qualité,INTERNE,17,603.53
+1050,94,2025-06-08,Gestion de projet agile,INTERNE,21,657.08
+1051,92,2025-06-09,Power BI et analyse de données,E_LEARNING,23,101.21
+1052,106,2025-06-09,Comptabilité analytique,E_LEARNING,23,224.46
+1053,120,2025-06-10,Excel avancé pour la finance,INTERNE,31,341.58
+1054,87,2025-06-10,Leadership et management,E_LEARNING,8,81.20
+1055,4,2025-06-11,Excel avancé pour la finance,E_LEARNING,22,62.76
+1056,44,2025-06-11,Power BI et analyse de données,E_LEARNING,18,187.03
+1057,105,2025-06-12,Power BI et analyse de données,E_LEARNING,17,164.42
+1058,71,2025-06-12,Leadership et management,E_LEARNING,15,216.03
+1059,69,2025-06-13,Leadership et management,INTERNE,17,611.54
+1060,103,2025-06-13,Power BI et analyse de données,EXTERNE,13,2185.94
+1061,55,2025-06-14,Négociation commerciale,INTERNE,28,357.09
+1062,20,2025-06-14,Comptabilité analytique,E_LEARNING,12,90.68
+1063,98,2025-06-15,Comptabilité analytique,EXTERNE,13,2837.98
+1064,94,2025-06-15,Excel avancé pour la finance,INTERNE,31,462.44
+1065,67,2025-06-16,Power BI et analyse de données,EXTERNE,22,504.87
+1066,18,2025-06-16,Leadership et management,E_LEARNING,30,284.74
+1067,31,2025-06-17,Comptabilité analytique,E_LEARNING,17,246.78
+1068,118,2025-06-17,Gestion de projet agile,E_LEARNING,17,157.34
+1069,51,2025-06-18,Négociation commerciale,INTERNE,23,408.49
+1070,117,2025-06-18,Service client de qualité,E_LEARNING,31,297.27
+1071,40,2025-06-19,Négociation commerciale,INTERNE,32,130.88
+1072,44,2025-06-19,Power BI et analyse de données,E_LEARNING,19,242.46
+1073,81,2025-06-20,Excel avancé pour la finance,EXTERNE,4,2679.41
+1074,43,2025-06-20,Gestion de projet agile,INTERNE,4,869.61
+1075,95,2025-06-21,Négociation commerciale,INTERNE,15,202.31
+1076,64,2025-06-21,Comptabilité analytique,INTERNE,5,794.74
+1077,28,2025-06-22,Excel avancé pour la finance,EXTERNE,28,2614.22
+1078,89,2025-06-22,Service client de qualité,INTERNE,9,389.09
+1079,30,2025-06-23,Négociation commerciale,INTERNE,11,502.63
+1080,89,2025-06-23,Gestion de projet agile,INTERNE,31,535.27
+1081,114,2025-06-24,Service client de qualité,INTERNE,28,280.00
+1082,82,2025-06-24,Service client de qualité,E_LEARNING,24,251.00
+1083,40,2025-06-25,Leadership et management,EXTERNE,27,1985.26
+1084,69,2025-06-25,Gestion de projet agile,INTERNE,13,490.81
+1085,55,2025-06-26,Gestion de projet agile,E_LEARNING,5,105.11
+1086,90,2025-06-26,Gestion de projet agile,INTERNE,6,288.35
+1087,110,2025-06-27,Service client de qualité,E_LEARNING,5,237.56
+1088,3,2025-06-27,Excel avancé pour la finance,INTERNE,22,849.31
+1089,98,2025-06-28,Négociation commerciale,INTERNE,23,591.79
+1090,12,2025-06-28,Négociation commerciale,EXTERNE,27,848.93
+1091,37,2025-06-29,Gestion de projet agile,INTERNE,30,488.99
+1092,94,2025-06-29,Comptabilité analytique,EXTERNE,33,1207.20
+1093,61,2025-06-30,Comptabilité analytique,EXTERNE,30,730.24
+1094,99,2025-06-30,Gestion de projet agile,E_LEARNING,5,80.23
+1095,44,2025-07-01,Service client de qualité,EXTERNE,32,1087.17
+1096,40,2025-07-01,Comptabilité analytique,E_LEARNING,5,333.59
+1097,66,2025-07-02,Comptabilité analytique,E_LEARNING,13,121.55
+1098,26,2025-07-02,Leadership et management,EXTERNE,25,689.74
+1099,30,2025-07-03,Power BI et analyse de données,INTERNE,21,894.78
+1100,22,2025-07-03,Excel avancé pour la finance,E_LEARNING,23,330.21
+1101,92,2025-07-04,Gestion de projet agile,INTERNE,25,330.83
+1102,40,2025-07-04,Négociation commerciale,E_LEARNING,12,234.55
+1103,29,2025-07-05,Excel avancé pour la finance,EXTERNE,12,1130.48
+1104,45,2025-07-05,Sécurité au travail,INTERNE,33,499.86
+1105,68,2025-07-06,Comptabilité analytique,INTERNE,5,866.22
+1106,72,2025-07-06,Gestion de projet agile,INTERNE,12,309.89
+1107,56,2025-07-07,Power BI et analyse de données,EXTERNE,28,1121.56
+1108,94,2025-07-07,Sécurité au travail,INTERNE,23,873.27
+1109,108,2025-07-08,Leadership et management,EXTERNE,15,1250.58
+1110,37,2025-07-08,Leadership et management,EXTERNE,14,2908.05
+1111,95,2025-07-09,Négociation commerciale,INTERNE,19,734.58
+1112,48,2025-07-09,Comptabilité analytique,EXTERNE,5,2845.30
+1113,67,2025-07-10,Leadership et management,E_LEARNING,30,342.88
+1114,26,2025-07-10,Excel avancé pour la finance,INTERNE,29,125.45
+1115,78,2025-07-11,Comptabilité analytique,INTERNE,22,657.97
+1116,72,2025-07-11,Gestion de projet agile,E_LEARNING,21,58.83
+1117,43,2025-07-12,Power BI et analyse de données,E_LEARNING,28,322.89
+1118,16,2025-07-12,Leadership et management,E_LEARNING,10,213.17
+1119,6,2025-07-13,Comptabilité analytique,EXTERNE,6,994.84
+1120,83,2025-07-13,Leadership et management,E_LEARNING,18,287.92
+1121,62,2025-07-14,Power BI et analyse de données,INTERNE,7,625.17
+1122,108,2025-07-14,Négociation commerciale,EXTERNE,29,1928.37
+1123,41,2025-07-15,Comptabilité analytique,E_LEARNING,14,115.89
+1124,4,2025-07-15,Power BI et analyse de données,EXTERNE,33,768.13
+1125,68,2025-07-16,Comptabilité analytique,EXTERNE,24,2576.47
+1126,18,2025-07-16,Comptabilité analytique,INTERNE,5,145.39
+1127,11,2025-07-17,Excel avancé pour la finance,INTERNE,22,784.11
+1128,49,2025-07-17,Excel avancé pour la finance,EXTERNE,9,1868.83
+1129,25,2025-07-18,Leadership et management,EXTERNE,30,2519.44
+1130,50,2025-07-18,Négociation commerciale,EXTERNE,29,1545.48
+1131,63,2025-07-19,Leadership et management,EXTERNE,5,1858.42
+1132,71,2025-07-19,Comptabilité analytique,INTERNE,5,779.53
+1133,13,2025-07-20,Service client de qualité,E_LEARNING,24,305.99
+1134,28,2025-07-20,Leadership et management,EXTERNE,15,1001.33
+1135,106,2025-07-21,Power BI et analyse de données,E_LEARNING,12,181.15
+1136,39,2025-07-21,Service client de qualité,INTERNE,25,164.70
+1137,26,2025-07-22,Sécurité au travail,E_LEARNING,23,67.59
+1138,37,2025-07-22,Comptabilité analytique,EXTERNE,5,2519.81
+1139,106,2025-07-23,Power BI et analyse de données,E_LEARNING,17,182.44
+1140,100,2025-07-23,Gestion de projet agile,E_LEARNING,33,299.98
+1141,25,2025-07-24,Négociation commerciale,EXTERNE,14,2466.11
+1142,108,2025-07-24,Négociation commerciale,INTERNE,11,515.76
+1143,99,2025-07-25,Power BI et analyse de données,EXTERNE,23,1631.03
+1144,40,2025-07-25,Service client de qualité,INTERNE,25,114.44
+1145,112,2025-07-26,Leadership et management,EXTERNE,11,2198.00
+1146,73,2025-07-26,Excel avancé pour la finance,E_LEARNING,20,180.19
+1147,64,2025-07-27,Leadership et management,EXTERNE,31,626.84
+1148,56,2025-07-27,Power BI et analyse de données,INTERNE,12,408.00
+1149,10,2025-07-28,Négociation commerciale,INTERNE,29,535.46
+1150,20,2025-07-28,Sécurité au travail,INTERNE,19,352.68
+1151,7,2025-07-29,Sécurité au travail,INTERNE,9,587.46
+1152,62,2025-07-29,Leadership et management,E_LEARNING,25,51.00
+1153,105,2025-07-30,Excel avancé pour la finance,EXTERNE,16,2579.76
+1154,109,2025-07-30,Sécurité au travail,INTERNE,30,302.33
+1155,74,2025-07-31,Gestion de projet agile,INTERNE,22,810.33
+1156,77,2025-07-31,Gestion de projet agile,EXTERNE,29,1028.59
+1157,61,2025-08-01,Négociation commerciale,E_LEARNING,33,82.15
+1158,72,2025-08-01,Service client de qualité,E_LEARNING,30,262.45
+1159,104,2025-08-02,Sécurité au travail,INTERNE,13,484.41
+1160,52,2025-08-02,Leadership et management,E_LEARNING,29,253.51
+1161,103,2025-08-03,Service client de qualité,INTERNE,7,776.33
+1162,111,2025-08-03,Gestion de projet agile,INTERNE,4,214.20
+1163,78,2025-08-04,Excel avancé pour la finance,E_LEARNING,6,86.80
+1164,43,2025-08-04,Négociation commerciale,EXTERNE,23,1152.17
+1165,48,2025-08-05,Comptabilité analytique,INTERNE,25,873.44
+1166,83,2025-08-05,Service client de qualité,EXTERNE,12,2082.56
+1167,44,2025-08-06,Sécurité au travail,E_LEARNING,23,284.33
+1168,118,2025-08-06,Comptabilité analytique,EXTERNE,20,1183.53
+1169,82,2025-08-07,Comptabilité analytique,EXTERNE,15,1695.33
+1170,28,2025-08-07,Comptabilité analytique,E_LEARNING,5,292.51
+1171,103,2025-08-08,Gestion de projet agile,E_LEARNING,28,91.36
+1172,23,2025-08-08,Leadership et management,EXTERNE,6,2832.20
+1173,55,2025-08-09,Négociation commerciale,EXTERNE,18,1735.71
+1174,2,2025-08-09,Négociation commerciale,EXTERNE,28,1453.33
+1175,51,2025-08-10,Sécurité au travail,E_LEARNING,20,156.08
+1176,12,2025-08-10,Gestion de projet agile,EXTERNE,16,2771.86
+1177,36,2025-08-11,Négociation commerciale,E_LEARNING,11,191.36
+1178,78,2025-08-11,Leadership et management,E_LEARNING,20,105.38
+1179,28,2025-08-12,Power BI et analyse de données,EXTERNE,26,2430.64
+1180,78,2025-08-12,Service client de qualité,E_LEARNING,9,116.78
+1181,65,2025-08-13,Sécurité au travail,INTERNE,10,643.83
+1182,95,2025-08-13,Excel avancé pour la finance,E_LEARNING,27,226.41
+1183,76,2025-08-14,Excel avancé pour la finance,EXTERNE,5,848.21
+1184,65,2025-08-14,Gestion de projet agile,INTERNE,25,542.87
+1185,69,2025-08-15,Leadership et management,INTERNE,17,656.51
+1186,12,2025-08-15,Comptabilité analytique,EXTERNE,20,1850.75
+1187,2,2025-08-16,Excel avancé pour la finance,EXTERNE,11,2764.86
+1188,96,2025-08-16,Négociation commerciale,INTERNE,33,878.86
+1189,116,2025-08-17,Service client de qualité,E_LEARNING,14,312.24
+1190,43,2025-08-17,Gestion de projet agile,INTERNE,26,729.15
+1191,88,2025-08-18,Leadership et management,INTERNE,11,561.18
+1192,18,2025-08-18,Service client de qualité,E_LEARNING,27,108.06
+1193,79,2025-08-19,Service client de qualité,E_LEARNING,21,159.31
+1194,4,2025-08-19,Leadership et management,INTERNE,28,434.59
+1195,83,2025-08-20,Négociation commerciale,INTERNE,4,385.36
+1196,85,2025-08-20,Leadership et management,EXTERNE,15,1749.57
+1197,40,2025-08-21,Comptabilité analytique,INTERNE,15,556.06
+1198,88,2025-08-21,Service client de qualité,E_LEARNING,27,168.78
+1199,72,2025-08-22,Leadership et management,E_LEARNING,22,189.80
+1200,59,2025-08-22,Gestion de projet agile,INTERNE,17,221.48
+1201,47,2025-08-23,Leadership et management,EXTERNE,24,2332.54
+1202,76,2025-08-23,Comptabilité analytique,E_LEARNING,7,140.47
+1203,14,2025-08-24,Négociation commerciale,EXTERNE,24,2219.98
+1204,43,2025-08-24,Sécurité au travail,E_LEARNING,32,202.03
+1205,85,2025-08-25,Négociation commerciale,E_LEARNING,15,140.20
+1206,42,2025-08-25,Leadership et management,E_LEARNING,8,153.99
+1207,35,2025-08-26,Leadership et management,EXTERNE,27,1077.29
+1208,103,2025-08-26,Power BI et analyse de données,EXTERNE,22,1419.35
+1209,113,2025-08-27,Leadership et management,EXTERNE,9,1252.70
+1210,117,2025-08-27,Comptabilité analytique,E_LEARNING,4,269.99
+1211,80,2025-08-28,Sécurité au travail,INTERNE,9,480.76
+1212,97,2025-08-28,Service client de qualité,EXTERNE,30,2584.24
+1213,62,2025-08-29,Comptabilité analytique,INTERNE,31,133.96
+1214,61,2025-08-29,Sécurité au travail,EXTERNE,29,565.73
+1215,73,2025-08-30,Comptabilité analytique,E_LEARNING,15,189.12
+1216,17,2025-08-30,Excel avancé pour la finance,INTERNE,14,605.25
+1217,12,2025-08-31,Gestion de projet agile,EXTERNE,21,2640.29
+1218,68,2025-08-31,Sécurité au travail,INTERNE,26,343.20
+1219,31,2025-09-01,Négociation commerciale,EXTERNE,29,1399.50
+1220,27,2025-09-01,Sécurité au travail,INTERNE,4,764.99
+1221,15,2025-09-02,Leadership et management,INTERNE,16,618.88
+1222,120,2025-09-02,Leadership et management,INTERNE,29,649.84
+1223,106,2025-09-03,Excel avancé pour la finance,INTERNE,4,220.22
+1224,79,2025-09-03,Leadership et management,E_LEARNING,17,242.39
+1225,107,2025-09-04,Comptabilité analytique,EXTERNE,27,1496.14
+1226,73,2025-09-04,Power BI et analyse de données,E_LEARNING,32,316.51
+1227,73,2025-09-05,Négociation commerciale,EXTERNE,31,1783.98
+1228,104,2025-09-05,Power BI et analyse de données,E_LEARNING,7,252.80
+1229,8,2025-09-06,Leadership et management,INTERNE,32,340.17
+1230,79,2025-09-06,Comptabilité analytique,EXTERNE,10,1850.71
+1231,3,2025-09-07,Sécurité au travail,EXTERNE,16,2921.63
+1232,70,2025-09-07,Power BI et analyse de données,INTERNE,18,476.60
+1233,112,2025-09-08,Sécurité au travail,INTERNE,10,880.12
+1234,24,2025-09-08,Gestion de projet agile,INTERNE,9,866.72
+1235,26,2025-09-09,Power BI et analyse de données,INTERNE,31,646.97
+1236,82,2025-09-09,Gestion de projet agile,EXTERNE,13,1969.98
+1237,119,2025-09-10,Comptabilité analytique,INTERNE,26,216.02
+1238,63,2025-09-10,Power BI et analyse de données,INTERNE,33,123.97
+1239,23,2025-09-11,Gestion de projet agile,E_LEARNING,4,336.39
+1240,85,2025-09-11,Leadership et management,E_LEARNING,6,292.11
+1241,91,2025-09-12,Service client de qualité,EXTERNE,22,1504.17
+1242,25,2025-09-12,Sécurité au travail,E_LEARNING,18,155.37
+1243,33,2025-09-13,Service client de qualité,INTERNE,11,455.74
+1244,53,2025-09-13,Comptabilité analytique,E_LEARNING,28,213.64
+1245,30,2025-09-14,Leadership et management,EXTERNE,33,1799.96
+1246,76,2025-09-14,Excel avancé pour la finance,EXTERNE,26,1560.29
+1247,104,2025-09-15,Gestion de projet agile,INTERNE,11,274.21
+1248,40,2025-09-15,Négociation commerciale,E_LEARNING,20,89.38
+1249,116,2025-09-16,Leadership et management,EXTERNE,23,2282.23
+1250,75,2025-09-16,Négociation commerciale,E_LEARNING,23,235.18
+1251,11,2025-09-17,Gestion de projet agile,EXTERNE,23,1134.41
+1252,34,2025-09-17,Power BI et analyse de données,EXTERNE,30,1255.13
+1253,106,2025-09-18,Négociation commerciale,EXTERNE,31,2660.37
+1254,74,2025-09-18,Sécurité au travail,EXTERNE,31,1048.66
+1255,41,2025-09-19,Leadership et management,INTERNE,29,675.70
+1256,1,2025-09-19,Sécurité au travail,E_LEARNING,11,86.97
+1257,104,2025-09-20,Excel avancé pour la finance,E_LEARNING,22,317.34
+1258,68,2025-09-20,Excel avancé pour la finance,INTERNE,32,473.92
+1259,62,2025-09-21,Leadership et management,INTERNE,18,798.09
+1260,110,2025-09-21,Négociation commerciale,E_LEARNING,6,207.13
+1261,40,2025-09-22,Sécurité au travail,INTERNE,26,521.86
+1262,50,2025-09-22,Excel avancé pour la finance,EXTERNE,9,1807.84
+1263,12,2025-09-23,Leadership et management,E_LEARNING,10,196.36
+1264,100,2025-09-23,Négociation commerciale,E_LEARNING,30,194.54
+1265,87,2025-09-24,Gestion de projet agile,INTERNE,28,165.16
+1266,116,2025-09-24,Excel avancé pour la finance,EXTERNE,17,641.32
+1267,118,2025-09-25,Gestion de projet agile,E_LEARNING,7,226.01
+1268,74,2025-09-25,Service client de qualité,INTERNE,6,621.78
+1269,2,2025-09-26,Service client de qualité,INTERNE,16,464.49
+1270,1,2025-09-26,Leadership et management,EXTERNE,4,1869.63
+1271,81,2025-09-27,Service client de qualité,E_LEARNING,29,159.17
+1272,39,2025-09-27,Service client de qualité,EXTERNE,11,2055.44
+1273,42,2025-09-28,Leadership et management,E_LEARNING,21,133.93
+1274,74,2025-09-28,Power BI et analyse de données,INTERNE,7,473.13
+1275,119,2025-09-29,Gestion de projet agile,EXTERNE,5,2952.77
+1276,97,2025-09-29,Négociation commerciale,INTERNE,19,738.47
+1277,49,2025-09-30,Négociation commerciale,EXTERNE,25,2419.98
+1278,88,2025-09-30,Service client de qualité,EXTERNE,24,2633.92
+1279,21,2025-10-01,Négociation commerciale,INTERNE,22,411.00
+1280,14,2025-10-01,Service client de qualité,EXTERNE,26,2989.59
+1281,89,2025-10-02,Power BI et analyse de données,E_LEARNING,25,167.26
+1282,103,2025-10-02,Comptabilité analytique,INTERNE,4,541.91
+1283,84,2025-10-03,Excel avancé pour la finance,E_LEARNING,20,287.10
+1284,33,2025-10-03,Leadership et management,E_LEARNING,27,202.80
+1285,20,2025-10-04,Négociation commerciale,INTERNE,20,263.84
+1286,39,2025-10-04,Excel avancé pour la finance,INTERNE,13,348.83
+1287,79,2025-10-05,Gestion de projet agile,INTERNE,16,108.75
+1288,100,2025-10-05,Excel avancé pour la finance,INTERNE,32,546.21
+1289,116,2025-10-06,Gestion de projet agile,INTERNE,11,139.67
+1290,63,2025-10-06,Comptabilité analytique,EXTERNE,15,2000.34
+1291,107,2025-10-07,Sécurité au travail,EXTERNE,19,879.69
+1292,25,2025-10-07,Leadership et management,EXTERNE,14,960.48
+1293,100,2025-10-08,Sécurité au travail,EXTERNE,23,2440.00
+1294,113,2025-10-08,Excel avancé pour la finance,EXTERNE,33,2596.77
+1295,32,2025-10-09,Leadership et management,E_LEARNING,22,208.08
+1296,90,2025-10-09,Service client de qualité,INTERNE,17,441.12
+1297,99,2025-10-10,Service client de qualité,E_LEARNING,19,316.62
+1298,102,2025-10-10,Power BI et analyse de données,EXTERNE,22,1155.36
+1299,60,2025-10-11,Négociation commerciale,E_LEARNING,18,260.67
+1300,8,2025-10-11,Négociation commerciale,INTERNE,33,178.65
+1301,67,2025-10-12,Comptabilité analytique,EXTERNE,13,1435.65
+1302,107,2025-10-12,Comptabilité analytique,INTERNE,14,215.45
+1303,86,2025-10-13,Sécurité au travail,INTERNE,29,828.31
+1304,3,2025-10-13,Comptabilité analytique,EXTERNE,28,2378.03
+1305,35,2025-10-14,Leadership et management,INTERNE,5,749.22
+1306,113,2025-10-14,Service client de qualité,INTERNE,28,464.69
+1307,104,2025-10-15,Leadership et management,E_LEARNING,8,107.18
+1308,56,2025-10-15,Power BI et analyse de données,E_LEARNING,11,155.10
+1309,3,2025-10-16,Leadership et management,INTERNE,27,428.03
+1310,80,2025-10-16,Sécurité au travail,INTERNE,4,635.76
+1311,40,2025-10-17,Leadership et management,EXTERNE,31,911.96
+1312,4,2025-10-17,Leadership et management,EXTERNE,33,1304.19
+1313,82,2025-10-18,Excel avancé pour la finance,EXTERNE,31,1570.84
+1314,53,2025-10-18,Leadership et management,E_LEARNING,11,238.88
+1315,52,2025-10-19,Excel avancé pour la finance,INTERNE,20,572.85
+1316,32,2025-10-19,Comptabilité analytique,EXTERNE,24,2563.12
+1317,12,2025-10-20,Comptabilité analytique,INTERNE,4,587.86
+1318,2,2025-10-20,Leadership et management,INTERNE,6,866.19
+1319,63,2025-10-21,Excel avancé pour la finance,E_LEARNING,14,193.78
+1320,37,2025-10-21,Sécurité au travail,INTERNE,7,265.02
+1321,80,2025-10-22,Sécurité au travail,E_LEARNING,11,289.75
+1322,35,2025-10-22,Power BI et analyse de données,INTERNE,19,621.63
+1323,82,2025-10-23,Leadership et management,EXTERNE,15,1902.59
+1324,74,2025-10-23,Leadership et management,EXTERNE,18,706.37
+1325,110,2025-10-24,Négociation commerciale,INTERNE,16,439.96
+1326,108,2025-10-24,Power BI et analyse de données,INTERNE,24,695.76
+1327,75,2025-10-25,Service client de qualité,E_LEARNING,9,101.14
+1328,40,2025-10-25,Gestion de projet agile,INTERNE,30,471.09
+1329,80,2025-10-26,Gestion de projet agile,E_LEARNING,20,281.21
+1330,22,2025-10-26,Sécurité au travail,EXTERNE,18,690.16
+1331,110,2025-10-27,Comptabilité analytique,INTERNE,12,830.19
+1332,84,2025-10-27,Service client de qualité,E_LEARNING,18,293.43
+1333,75,2025-10-28,Sécurité au travail,EXTERNE,12,672.22
+1334,59,2025-10-28,Service client de qualité,INTERNE,17,447.03
+1335,95,2025-10-29,Négociation commerciale,EXTERNE,20,741.39
+1336,96,2025-10-29,Excel avancé pour la finance,E_LEARNING,4,52.51
+1337,3,2025-10-30,Power BI et analyse de données,INTERNE,21,794.87
+1338,67,2025-10-30,Excel avancé pour la finance,INTERNE,6,212.20
+1339,51,2025-10-31,Excel avancé pour la finance,E_LEARNING,16,291.16
+1340,95,2025-10-31,Power BI et analyse de données,EXTERNE,31,2045.12
+1341,46,2025-11-01,Excel avancé pour la finance,INTERNE,6,325.02
+1342,21,2025-11-01,Service client de qualité,INTERNE,30,660.89
+1343,99,2025-11-02,Sécurité au travail,E_LEARNING,17,288.79
+1344,77,2025-11-02,Excel avancé pour la finance,E_LEARNING,26,258.11
+1345,26,2025-11-03,Power BI et analyse de données,E_LEARNING,20,286.91
+1346,40,2025-11-03,Sécurité au travail,INTERNE,20,277.07
+1347,61,2025-11-04,Gestion de projet agile,E_LEARNING,31,223.31
+1348,13,2025-11-04,Service client de qualité,E_LEARNING,22,152.47
+1349,101,2025-11-05,Power BI et analyse de données,INTERNE,29,440.96
+1350,73,2025-11-05,Négociation commerciale,E_LEARNING,19,242.90
+1351,86,2025-11-06,Excel avancé pour la finance,EXTERNE,16,2674.61
+1352,13,2025-11-06,Leadership et management,E_LEARNING,19,280.18
+1353,40,2025-11-07,Comptabilité analytique,EXTERNE,25,1392.63
+1354,74,2025-11-07,Leadership et management,E_LEARNING,25,110.70
+1355,100,2025-11-08,Power BI et analyse de données,EXTERNE,24,2199.77
+1356,37,2025-11-08,Sécurité au travail,EXTERNE,28,2247.78
+1357,10,2025-11-09,Leadership et management,INTERNE,14,878.49
+1358,101,2025-11-09,Comptabilité analytique,INTERNE,15,471.73
+1359,16,2025-11-10,Comptabilité analytique,INTERNE,18,826.30
+1360,9,2025-11-10,Négociation commerciale,EXTERNE,5,996.06
+1361,107,2025-11-11,Service client de qualité,E_LEARNING,7,68.17
+1362,110,2025-11-11,Leadership et management,EXTERNE,32,828.80
+1363,92,2025-11-12,Comptabilité analytique,EXTERNE,32,1174.41
+1364,55,2025-11-12,Excel avancé pour la finance,EXTERNE,21,2855.61
+1365,113,2025-11-13,Service client de qualité,E_LEARNING,9,126.87
+1366,86,2025-11-13,Comptabilité analytique,E_LEARNING,24,344.47
+1367,104,2025-11-14,Leadership et management,EXTERNE,5,1840.74
+1368,67,2025-11-14,Leadership et management,INTERNE,9,516.17
+1369,7,2025-11-15,Power BI et analyse de données,E_LEARNING,22,349.82
+1370,23,2025-11-15,Excel avancé pour la finance,E_LEARNING,21,257.86
+1371,87,2025-11-16,Sécurité au travail,EXTERNE,24,805.92
+1372,63,2025-11-16,Gestion de projet agile,INTERNE,22,203.17
+1373,91,2025-11-17,Service client de qualité,EXTERNE,29,1724.58
+1374,107,2025-11-17,Leadership et management,E_LEARNING,8,98.60
+1375,39,2025-11-18,Service client de qualité,INTERNE,19,832.30
+1376,1,2025-11-18,Sécurité au travail,INTERNE,10,753.53
+1377,54,2025-11-19,Service client de qualité,E_LEARNING,23,200.50
+1378,62,2025-11-19,Comptabilité analytique,INTERNE,26,453.84
+1379,111,2025-11-20,Service client de qualité,INTERNE,5,496.50
+1380,44,2025-11-20,Service client de qualité,INTERNE,22,556.74
+1381,118,2025-11-21,Excel avancé pour la finance,INTERNE,20,634.18
+1382,83,2025-11-21,Leadership et management,EXTERNE,20,909.80
+1383,25,2025-11-22,Négociation commerciale,EXTERNE,12,1810.58
+1384,93,2025-11-22,Excel avancé pour la finance,INTERNE,19,429.01
+1385,58,2025-11-23,Sécurité au travail,INTERNE,25,283.36
+1386,120,2025-11-23,Sécurité au travail,INTERNE,19,203.19
+1387,13,2025-11-24,Sécurité au travail,INTERNE,20,547.77
+1388,19,2025-11-24,Négociation commerciale,INTERNE,16,290.28
+1389,118,2025-11-25,Négociation commerciale,INTERNE,14,753.65
+1390,4,2025-11-25,Sécurité au travail,E_LEARNING,31,161.87
+1391,15,2025-11-26,Négociation commerciale,EXTERNE,18,1697.73
+1392,115,2025-11-26,Comptabilité analytique,INTERNE,30,138.53
+1393,76,2025-11-27,Excel avancé pour la finance,E_LEARNING,14,237.88
+1394,5,2025-11-27,Sécurité au travail,INTERNE,5,119.06
+1395,2,2025-11-28,Comptabilité analytique,E_LEARNING,12,336.84
+1396,107,2025-11-28,Leadership et management,EXTERNE,10,1770.57
+1397,109,2025-11-29,Power BI et analyse de données,INTERNE,16,337.21
+1398,23,2025-11-29,Gestion de projet agile,INTERNE,15,782.71
+1399,9,2025-11-30,Comptabilité analytique,E_LEARNING,15,260.66
+1400,40,2025-11-30,Comptabilité analytique,EXTERNE,7,1482.57
+1401,69,2025-12-01,Service client de qualité,EXTERNE,33,693.94
+1402,58,2025-12-01,Sécurité au travail,INTERNE,23,834.53
+1403,79,2025-12-02,Gestion de projet agile,EXTERNE,31,1604.40
+1404,58,2025-12-02,Négociation commerciale,INTERNE,10,484.34
+1405,87,2025-12-03,Gestion de projet agile,INTERNE,6,317.47
+1406,11,2025-12-03,Négociation commerciale,EXTERNE,21,1045.01
+1407,42,2025-12-04,Power BI et analyse de données,INTERNE,19,499.29
+1408,117,2025-12-04,Comptabilité analytique,EXTERNE,8,1052.90
+1409,80,2025-12-05,Power BI et analyse de données,EXTERNE,14,2815.86
+1410,74,2025-12-05,Service client de qualité,INTERNE,6,591.66
+1411,102,2025-12-06,Sécurité au travail,EXTERNE,8,1493.23
+1412,59,2025-12-06,Comptabilité analytique,INTERNE,17,631.84
+1413,1,2025-12-07,Excel avancé pour la finance,INTERNE,11,126.96
+1414,54,2025-12-07,Sécurité au travail,INTERNE,17,231.88
+1415,54,2025-12-08,Power BI et analyse de données,E_LEARNING,8,341.78
+1416,50,2025-12-08,Sécurité au travail,INTERNE,26,527.42
+1417,45,2025-12-09,Leadership et management,INTERNE,5,672.94
+1418,56,2025-12-09,Sécurité au travail,INTERNE,20,525.98
+1419,2,2025-12-10,Power BI et analyse de données,EXTERNE,12,1404.94
+1420,118,2025-12-10,Excel avancé pour la finance,E_LEARNING,32,206.77
+1421,93,2025-12-11,Leadership et management,INTERNE,6,757.43
+1422,103,2025-12-11,Service client de qualité,E_LEARNING,8,96.09
+1423,41,2025-12-12,Leadership et management,INTERNE,13,836.75
+1424,81,2025-12-12,Excel avancé pour la finance,EXTERNE,10,604.27
+1425,69,2025-12-13,Négociation commerciale,E_LEARNING,26,269.65
+1426,52,2025-12-13,Service client de qualité,E_LEARNING,24,299.50
+1427,17,2025-12-14,Service client de qualité,INTERNE,13,741.57
+1428,10,2025-12-14,Comptabilité analytique,INTERNE,28,735.37
+1429,63,2025-12-15,Sécurité au travail,INTERNE,28,566.87
+1430,60,2025-12-15,Excel avancé pour la finance,E_LEARNING,9,291.42
+1431,51,2025-12-16,Power BI et analyse de données,E_LEARNING,9,93.71
+1432,21,2025-12-16,Service client de qualité,EXTERNE,22,1360.75
+1433,107,2025-12-17,Power BI et analyse de données,EXTERNE,11,1601.31
+1434,52,2025-12-17,Comptabilité analytique,E_LEARNING,18,82.04
+1435,7,2025-12-18,Service client de qualité,E_LEARNING,5,198.19
+1436,41,2025-12-18,Négociation commerciale,INTERNE,6,622.75
+1437,1,2025-12-19,Power BI et analyse de données,INTERNE,7,726.32
+1438,71,2025-12-19,Leadership et management,EXTERNE,14,2991.14
+1439,118,2025-12-20,Service client de qualité,E_LEARNING,4,207.80
+1440,65,2025-12-20,Négociation commerciale,INTERNE,13,686.03
+1441,92,2025-12-21,Gestion de projet agile,EXTERNE,26,2193.55
+1442,13,2025-12-21,Excel avancé pour la finance,EXTERNE,30,964.14
+1443,38,2025-12-22,Excel avancé pour la finance,INTERNE,19,282.71
+1444,74,2025-12-22,Excel avancé pour la finance,EXTERNE,32,2416.17
+1445,114,2025-12-23,Power BI et analyse de données,EXTERNE,16,608.19
+1446,117,2025-12-23,Gestion de projet agile,E_LEARNING,7,224.05
+1447,71,2025-12-24,Leadership et management,INTERNE,21,275.74
+1448,41,2025-12-24,Leadership et management,INTERNE,25,138.10
+1449,14,2025-12-25,Comptabilité analytique,EXTERNE,30,2640.23
+1450,80,2025-12-25,Gestion de projet agile,E_LEARNING,11,99.86
+1451,11,2025-12-26,Sécurité au travail,E_LEARNING,18,78.31
+1452,117,2025-12-26,Négociation commerciale,EXTERNE,8,2552.98
+1453,79,2025-12-27,Excel avancé pour la finance,E_LEARNING,31,146.84
+1454,109,2025-12-27,Excel avancé pour la finance,EXTERNE,27,1970.35
+1455,75,2025-12-28,Négociation commerciale,EXTERNE,14,669.02
+1456,39,2025-12-28,Négociation commerciale,EXTERNE,26,2506.47
+1457,92,2025-12-29,Comptabilité analytique,EXTERNE,19,1468.40
+1458,43,2025-12-29,Négociation commerciale,EXTERNE,5,1320.33
+1459,59,2025-12-30,Comptabilité analytique,EXTERNE,30,2659.47
+1460,80,2025-12-30,Service client de qualité,E_LEARNING,21,156.03
+1461,118,2025-12-31,Power BI et analyse de données,E_LEARNING,29,179.88
+1462,73,2025-12-31,Comptabilité analytique,E_LEARNING,5,255.23
+1463,34,2026-01-01,Négociation commerciale,EXTERNE,19,2621.51
+1464,83,2026-01-01,Sécurité au travail,E_LEARNING,13,185.50
+1465,32,2026-01-02,Excel avancé pour la finance,E_LEARNING,10,50.62
+1466,45,2026-01-02,Leadership et management,E_LEARNING,15,143.88
+1467,52,2026-01-03,Gestion de projet agile,INTERNE,5,162.53
+1468,27,2026-01-03,Comptabilité analytique,E_LEARNING,7,125.67
+1469,115,2026-01-04,Power BI et analyse de données,INTERNE,15,122.97
+1470,119,2026-01-04,Power BI et analyse de données,E_LEARNING,10,68.00
+1471,73,2026-01-05,Power BI et analyse de données,E_LEARNING,13,200.37
+1472,66,2026-01-05,Service client de qualité,INTERNE,6,674.95
+1473,43,2026-01-06,Négociation commerciale,EXTERNE,5,1182.73
+1474,31,2026-01-06,Sécurité au travail,EXTERNE,7,915.45
+1475,53,2026-01-07,Excel avancé pour la finance,E_LEARNING,16,277.12
+1476,69,2026-01-07,Leadership et management,EXTERNE,15,1201.05
+1477,26,2026-01-08,Service client de qualité,INTERNE,28,621.80
+1478,92,2026-01-08,Négociation commerciale,E_LEARNING,15,327.27
+1479,59,2026-01-09,Comptabilité analytique,EXTERNE,11,2350.70
+1480,112,2026-01-09,Power BI et analyse de données,EXTERNE,18,1310.40
+1481,24,2026-01-10,Power BI et analyse de données,E_LEARNING,30,124.32
+1482,76,2026-01-10,Excel avancé pour la finance,EXTERNE,15,2041.56
+1483,108,2026-01-11,Sécurité au travail,EXTERNE,20,1305.60
+1484,112,2026-01-11,Service client de qualité,E_LEARNING,29,189.81
+1485,100,2026-01-12,Leadership et management,E_LEARNING,25,71.70
+1486,23,2026-01-12,Excel avancé pour la finance,E_LEARNING,30,183.60
+1487,66,2026-01-13,Sécurité au travail,EXTERNE,24,1171.55
+1488,36,2026-01-13,Service client de qualité,E_LEARNING,26,50.23
+1489,95,2026-01-14,Power BI et analyse de données,E_LEARNING,33,301.54
+1490,28,2026-01-14,Service client de qualité,EXTERNE,22,1902.30
+1491,115,2026-01-15,Service client de qualité,INTERNE,24,584.93
+1492,1,2026-01-15,Excel avancé pour la finance,INTERNE,21,726.80
+1493,21,2026-01-16,Négociation commerciale,EXTERNE,11,1404.74
+1494,12,2026-01-16,Comptabilité analytique,EXTERNE,19,1518.87
+1495,53,2026-01-17,Service client de qualité,E_LEARNING,26,108.22
+1496,84,2026-01-17,Power BI et analyse de données,E_LEARNING,5,108.16
+1497,102,2026-01-18,Gestion de projet agile,EXTERNE,14,2539.67
+1498,2,2026-01-18,Excel avancé pour la finance,EXTERNE,19,1228.54
+1499,114,2026-01-19,Sécurité au travail,E_LEARNING,28,224.87
+1500,61,2026-01-19,Power BI et analyse de données,E_LEARNING,8,339.72
+1501,40,2026-01-20,Comptabilité analytique,E_LEARNING,22,294.31
+1502,22,2026-01-20,Comptabilité analytique,EXTERNE,21,1790.65
+1503,101,2026-01-21,Gestion de projet agile,EXTERNE,13,1975.52
+1504,6,2026-01-21,Leadership et management,EXTERNE,26,760.33
+1505,28,2026-01-22,Sécurité au travail,E_LEARNING,24,102.63
+1506,96,2026-01-22,Comptabilité analytique,EXTERNE,27,1676.83
+1507,120,2026-01-23,Comptabilité analytique,EXTERNE,10,2240.66
+1508,106,2026-01-23,Comptabilité analytique,INTERNE,17,582.51
+1509,83,2026-01-24,Leadership et management,EXTERNE,27,1605.60
+1510,108,2026-01-24,Excel avancé pour la finance,INTERNE,27,694.54
+1511,48,2026-01-25,Service client de qualité,E_LEARNING,18,267.16
+1512,26,2026-01-25,Comptabilité analytique,E_LEARNING,12,76.94
+1513,70,2026-01-26,Power BI et analyse de données,EXTERNE,24,1957.92
+1514,99,2026-01-26,Power BI et analyse de données,EXTERNE,17,1374.46
+1515,48,2026-01-27,Sécurité au travail,E_LEARNING,19,117.09
+1516,67,2026-01-27,Comptabilité analytique,INTERNE,23,782.69
+1517,43,2026-01-28,Négociation commerciale,INTERNE,4,391.35
+1518,90,2026-01-28,Comptabilité analytique,EXTERNE,18,2529.02
+1519,74,2026-01-29,Leadership et management,EXTERNE,11,2053.47
+1520,42,2026-01-29,Power BI et analyse de données,E_LEARNING,29,148.88
+1521,17,2026-01-30,Excel avancé pour la finance,E_LEARNING,5,93.39
+1522,73,2026-01-30,Excel avancé pour la finance,EXTERNE,25,1097.52
+1523,12,2026-01-31,Sécurité au travail,E_LEARNING,9,166.70
+1524,53,2026-01-31,Comptabilité analytique,INTERNE,28,661.19
+1525,13,2026-02-01,Gestion de projet agile,EXTERNE,11,933.37
+1526,15,2026-02-01,Excel avancé pour la finance,INTERNE,13,282.15
+1527,22,2026-02-02,Service client de qualité,INTERNE,6,674.26
+1528,46,2026-02-02,Service client de qualité,E_LEARNING,23,191.74
+1529,54,2026-02-03,Comptabilité analytique,E_LEARNING,14,191.04
+1530,36,2026-02-03,Sécurité au travail,INTERNE,33,615.31
+1531,30,2026-02-04,Comptabilité analytique,INTERNE,5,793.99
+1532,23,2026-02-04,Excel avancé pour la finance,INTERNE,17,114.46
+1533,87,2026-02-05,Service client de qualité,EXTERNE,7,2669.55
+1534,5,2026-02-05,Comptabilité analytique,EXTERNE,17,2110.24
+1535,111,2026-02-06,Service client de qualité,EXTERNE,26,897.74
+1536,62,2026-02-06,Négociation commerciale,INTERNE,8,219.20
+1537,33,2026-02-07,Gestion de projet agile,E_LEARNING,22,82.76
+1538,84,2026-02-07,Gestion de projet agile,INTERNE,26,803.38
+1539,15,2026-02-08,Sécurité au travail,E_LEARNING,13,146.53
+1540,75,2026-02-08,Comptabilité analytique,INTERNE,24,849.87
+1541,79,2026-02-09,Power BI et analyse de données,EXTERNE,12,1448.10
+1542,10,2026-02-09,Négociation commerciale,INTERNE,6,587.16
+1543,90,2026-02-10,Power BI et analyse de données,E_LEARNING,27,65.75
+1544,107,2026-02-10,Gestion de projet agile,INTERNE,18,483.62
+1545,112,2026-02-11,Power BI et analyse de données,INTERNE,30,530.48
+1546,1,2026-02-11,Excel avancé pour la finance,EXTERNE,6,931.01
+1547,78,2026-02-12,Service client de qualité,E_LEARNING,22,210.88
+1548,94,2026-02-12,Leadership et management,INTERNE,31,189.14
+1549,96,2026-02-13,Gestion de projet agile,EXTERNE,29,608.56
+1550,78,2026-02-13,Service client de qualité,INTERNE,27,879.29
+1551,69,2026-02-14,Comptabilité analytique,E_LEARNING,21,130.22
+1552,76,2026-02-14,Comptabilité analytique,INTERNE,27,650.57
+1553,9,2026-02-15,Power BI et analyse de données,INTERNE,15,206.05
+1554,64,2026-02-15,Gestion de projet agile,INTERNE,24,335.87
+1555,56,2026-02-16,Gestion de projet agile,EXTERNE,8,2192.20
+1556,116,2026-02-16,Excel avancé pour la finance,E_LEARNING,33,274.75
+1557,92,2026-02-17,Sécurité au travail,EXTERNE,28,1860.36
+1558,37,2026-02-17,Service client de qualité,E_LEARNING,5,219.43
+1559,86,2026-02-18,Excel avancé pour la finance,E_LEARNING,4,289.01
+1560,108,2026-02-18,Comptabilité analytique,INTERNE,30,812.54
+1561,97,2026-02-19,Power BI et analyse de données,EXTERNE,22,880.23
+1562,104,2026-02-19,Gestion de projet agile,E_LEARNING,4,320.14
+1563,57,2026-02-20,Comptabilité analytique,EXTERNE,31,1136.55
+1564,67,2026-02-20,Power BI et analyse de données,E_LEARNING,19,274.01
+1565,18,2026-02-21,Négociation commerciale,EXTERNE,18,1779.40
+1566,9,2026-02-21,Comptabilité analytique,E_LEARNING,27,169.02
+1567,76,2026-02-22,Comptabilité analytique,E_LEARNING,18,302.56
+1568,89,2026-02-22,Gestion de projet agile,INTERNE,30,378.92
+1569,13,2026-02-23,Négociation commerciale,EXTERNE,19,2209.08
+1570,102,2026-02-23,Sécurité au travail,INTERNE,14,606.78
+1571,12,2026-02-24,Gestion de projet agile,EXTERNE,24,1141.94
+1572,35,2026-02-24,Sécurité au travail,EXTERNE,33,2527.73
+1573,9,2026-02-25,Sécurité au travail,E_LEARNING,10,338.32
+1574,14,2026-02-25,Négociation commerciale,EXTERNE,30,1739.31
+1575,100,2026-02-26,Comptabilité analytique,E_LEARNING,11,246.14
+1576,66,2026-02-26,Power BI et analyse de données,E_LEARNING,31,319.10
+1577,83,2026-02-27,Gestion de projet agile,E_LEARNING,12,115.14
+1578,35,2026-02-27,Négociation commerciale,E_LEARNING,23,139.34
+1579,63,2026-02-28,Excel avancé pour la finance,E_LEARNING,7,193.26
+1580,119,2026-02-28,Service client de qualité,EXTERNE,14,2965.93
+1581,110,2026-03-01,Leadership et management,EXTERNE,13,2657.71
+1582,50,2026-03-01,Leadership et management,EXTERNE,15,1393.13
+1583,82,2026-03-02,Service client de qualité,INTERNE,4,275.26
+1584,11,2026-03-02,Gestion de projet agile,E_LEARNING,6,146.72
+1585,45,2026-03-03,Sécurité au travail,E_LEARNING,13,137.46
+1586,67,2026-03-03,Négociation commerciale,E_LEARNING,23,249.42
+1587,42,2026-03-04,Service client de qualité,E_LEARNING,30,238.27
+1588,54,2026-03-04,Sécurité au travail,EXTERNE,13,838.77
+1589,88,2026-03-05,Négociation commerciale,INTERNE,5,398.69
+1590,90,2026-03-05,Comptabilité analytique,EXTERNE,11,2443.31
+1591,19,2026-03-06,Gestion de projet agile,EXTERNE,9,2565.56
+1592,71,2026-03-06,Sécurité au travail,EXTERNE,5,2470.69
+1593,98,2026-03-07,Excel avancé pour la finance,E_LEARNING,33,331.36
+1594,85,2026-03-07,Sécurité au travail,E_LEARNING,4,297.52
+1595,7,2026-03-08,Comptabilité analytique,E_LEARNING,32,71.45
+1596,66,2026-03-08,Négociation commerciale,EXTERNE,31,2920.16
+1597,8,2026-03-09,Comptabilité analytique,EXTERNE,4,1805.03
+1598,69,2026-03-09,Comptabilité analytique,INTERNE,4,682.73
+1599,72,2026-03-10,Leadership et management,E_LEARNING,16,220.15
+1600,75,2026-03-10,Excel avancé pour la finance,EXTERNE,15,1895.52
+1601,79,2026-03-11,Excel avancé pour la finance,EXTERNE,13,1842.79
+1602,87,2026-03-11,Comptabilité analytique,INTERNE,10,580.58
+1603,39,2026-03-12,Négociation commerciale,E_LEARNING,18,217.37
+1604,38,2026-03-12,Sécurité au travail,E_LEARNING,23,333.57
+1605,88,2026-03-13,Négociation commerciale,E_LEARNING,6,239.59
+1606,115,2026-03-13,Sécurité au travail,E_LEARNING,20,189.66
+1607,83,2026-03-14,Leadership et management,INTERNE,25,170.54
+1608,34,2026-03-14,Comptabilité analytique,INTERNE,17,841.77
+1609,38,2026-03-15,Excel avancé pour la finance,E_LEARNING,23,111.46
+1610,12,2026-03-15,Excel avancé pour la finance,E_LEARNING,29,317.47
+1611,115,2026-03-16,Service client de qualité,INTERNE,28,319.01
+1612,106,2026-03-16,Power BI et analyse de données,EXTERNE,21,867.95
+1613,117,2026-03-17,Excel avancé pour la finance,EXTERNE,8,1920.68
+1614,46,2026-03-17,Comptabilité analytique,INTERNE,21,448.02
+1615,50,2026-03-18,Service client de qualité,E_LEARNING,17,221.34
+1616,65,2026-03-18,Power BI et analyse de données,E_LEARNING,19,257.18
+1617,110,2026-03-19,Gestion de projet agile,EXTERNE,10,2684.84
+1618,86,2026-03-19,Service client de qualité,E_LEARNING,26,120.30
+1619,111,2026-03-20,Gestion de projet agile,E_LEARNING,30,130.69
+1620,85,2026-03-20,Power BI et analyse de données,E_LEARNING,27,281.23
+1621,63,2026-03-21,Négociation commerciale,INTERNE,23,536.46
+1622,93,2026-03-21,Gestion de projet agile,INTERNE,31,441.31
+1623,50,2026-03-22,Gestion de projet agile,E_LEARNING,8,262.93
+1624,7,2026-03-22,Sécurité au travail,INTERNE,31,306.25
+1625,62,2026-03-23,Power BI et analyse de données,E_LEARNING,14,286.58
+1626,104,2026-03-23,Leadership et management,E_LEARNING,11,218.20
+1627,7,2026-03-24,Comptabilité analytique,EXTERNE,8,1423.61
+1628,51,2026-03-24,Gestion de projet agile,E_LEARNING,13,255.39
+1629,52,2026-03-25,Power BI et analyse de données,INTERNE,32,140.82
+1630,43,2026-03-25,Excel avancé pour la finance,EXTERNE,16,2741.54
+1631,29,2026-03-26,Comptabilité analytique,EXTERNE,26,778.59
+1632,42,2026-03-26,Négociation commerciale,EXTERNE,24,1728.22
+1633,48,2026-03-27,Sécurité au travail,EXTERNE,14,1933.85
+1634,102,2026-03-27,Excel avancé pour la finance,EXTERNE,19,1968.97
+1635,44,2026-03-28,Leadership et management,INTERNE,4,357.51
+1636,70,2026-03-28,Négociation commerciale,E_LEARNING,26,50.82
+1637,94,2026-03-29,Leadership et management,E_LEARNING,5,287.68
+1638,99,2026-03-29,Excel avancé pour la finance,E_LEARNING,17,335.98
+1639,45,2026-03-30,Négociation commerciale,INTERNE,24,552.95
+1640,96,2026-03-30,Négociation commerciale,INTERNE,29,487.00
+1641,104,2026-03-31,Gestion de projet agile,E_LEARNING,27,331.76
+1642,40,2026-03-31,Leadership et management,E_LEARNING,18,283.17
+1643,56,2026-04-01,Service client de qualité,E_LEARNING,26,101.22
+1644,69,2026-04-01,Excel avancé pour la finance,EXTERNE,4,2961.68
+1645,111,2026-04-02,Sécurité au travail,EXTERNE,18,2753.16
+1646,12,2026-04-02,Service client de qualité,E_LEARNING,20,77.06
+1647,92,2026-04-03,Power BI et analyse de données,EXTERNE,10,640.71
+1648,72,2026-04-03,Leadership et management,E_LEARNING,26,78.81
+1649,25,2026-04-04,Négociation commerciale,E_LEARNING,27,344.04
+1650,64,2026-04-04,Excel avancé pour la finance,E_LEARNING,30,163.30
+1651,30,2026-04-05,Gestion de projet agile,INTERNE,16,809.39
+1652,20,2026-04-05,Power BI et analyse de données,INTERNE,11,231.90
+1653,12,2026-04-06,Service client de qualité,E_LEARNING,7,263.96
+1654,30,2026-04-06,Gestion de projet agile,INTERNE,32,820.08
+1655,74,2026-04-07,Excel avancé pour la finance,EXTERNE,6,1367.28
+1656,54,2026-04-07,Service client de qualité,INTERNE,7,875.57
+1657,63,2026-04-08,Négociation commerciale,E_LEARNING,25,248.94
+1658,22,2026-04-08,Négociation commerciale,E_LEARNING,6,211.65
+1659,55,2026-04-09,Négociation commerciale,EXTERNE,17,2134.61
+1660,108,2026-04-09,Comptabilité analytique,EXTERNE,21,1708.17
+1661,79,2026-04-10,Leadership et management,E_LEARNING,19,330.28
+1662,18,2026-04-10,Leadership et management,E_LEARNING,11,236.73
+1663,44,2026-04-11,Gestion de projet agile,E_LEARNING,23,70.52
+1664,53,2026-04-11,Service client de qualité,E_LEARNING,29,237.90
+1665,67,2026-04-12,Comptabilité analytique,E_LEARNING,20,117.70
+1666,55,2026-04-12,Service client de qualité,EXTERNE,13,2167.23
+1667,51,2026-04-13,Leadership et management,INTERNE,31,761.83
+1668,49,2026-04-13,Sécurité au travail,EXTERNE,25,980.46
+1669,98,2026-04-14,Négociation commerciale,EXTERNE,11,1606.77
+1670,57,2026-04-14,Gestion de projet agile,INTERNE,11,335.22
+1671,86,2026-04-15,Leadership et management,EXTERNE,31,785.45
+1672,93,2026-04-15,Power BI et analyse de données,EXTERNE,26,2920.51
+1673,72,2026-04-16,Service client de qualité,INTERNE,22,384.40
+1674,114,2026-04-16,Service client de qualité,E_LEARNING,26,77.20
+1675,23,2026-04-17,Comptabilité analytique,E_LEARNING,9,152.20
+1676,22,2026-04-17,Comptabilité analytique,E_LEARNING,14,186.23
+1677,21,2026-04-18,Négociation commerciale,EXTERNE,15,514.71
+1678,105,2026-04-18,Excel avancé pour la finance,INTERNE,6,368.99
+1679,56,2026-04-19,Leadership et management,INTERNE,4,515.74
+1680,65,2026-04-19,Négociation commerciale,INTERNE,20,751.41
+1681,51,2026-04-20,Négociation commerciale,EXTERNE,32,2394.95
+1682,118,2026-04-20,Leadership et management,EXTERNE,8,886.46
+1683,37,2026-04-21,Power BI et analyse de données,INTERNE,21,757.70
+1684,48,2026-04-21,Sécurité au travail,EXTERNE,17,667.01
+1685,117,2026-04-22,Power BI et analyse de données,EXTERNE,26,2404.77
+1686,65,2026-04-22,Sécurité au travail,EXTERNE,26,1953.74
+1687,79,2026-04-23,Gestion de projet agile,EXTERNE,32,1904.08
+1688,120,2026-04-23,Sécurité au travail,INTERNE,19,184.00
+1689,1,2026-04-24,Sécurité au travail,E_LEARNING,15,171.56
+1690,107,2026-04-24,Sécurité au travail,INTERNE,25,212.45
+1691,67,2026-04-25,Excel avancé pour la finance,EXTERNE,9,2656.57
+1692,86,2026-04-25,Comptabilité analytique,E_LEARNING,8,116.11
+1693,83,2026-04-26,Comptabilité analytique,E_LEARNING,20,170.18
+1694,46,2026-04-26,Sécurité au travail,E_LEARNING,31,146.89
+1695,107,2026-04-27,Gestion de projet agile,EXTERNE,27,575.58
+1696,96,2026-04-27,Excel avancé pour la finance,E_LEARNING,23,84.37
+1697,70,2026-04-28,Excel avancé pour la finance,EXTERNE,27,2134.21
+1698,108,2026-04-28,Négociation commerciale,EXTERNE,4,1348.50
+1699,78,2026-04-29,Excel avancé pour la finance,INTERNE,28,717.53
+1700,54,2026-04-29,Power BI et analyse de données,E_LEARNING,21,79.46
+1701,90,2026-04-30,Négociation commerciale,EXTERNE,16,1212.71
+1702,18,2026-04-30,Négociation commerciale,E_LEARNING,13,239.31
+1703,22,2026-05-01,Sécurité au travail,INTERNE,15,502.65
+1704,43,2026-05-01,Leadership et management,INTERNE,7,130.69
+1705,104,2026-05-02,Sécurité au travail,INTERNE,26,317.98
+1706,17,2026-05-02,Négociation commerciale,E_LEARNING,13,222.44
+1707,114,2026-05-03,Leadership et management,E_LEARNING,28,240.77
+1708,85,2026-05-03,Comptabilité analytique,EXTERNE,21,1126.83
+1709,65,2026-05-04,Excel avancé pour la finance,E_LEARNING,11,142.41
+1710,90,2026-05-04,Gestion de projet agile,E_LEARNING,14,182.60
+1711,25,2026-05-05,Négociation commerciale,E_LEARNING,14,72.07
+1712,39,2026-05-05,Négociation commerciale,EXTERNE,21,752.00
+1713,89,2026-05-06,Comptabilité analytique,EXTERNE,22,2515.35
+1714,22,2026-05-06,Comptabilité analytique,EXTERNE,21,1908.77
+1715,6,2026-05-07,Service client de qualité,EXTERNE,32,1210.31
+1716,64,2026-05-07,Sécurité au travail,E_LEARNING,31,94.82
+1717,2,2026-05-08,Négociation commerciale,EXTERNE,5,1316.77
+1718,60,2026-05-08,Négociation commerciale,EXTERNE,12,1972.42
+1719,11,2026-05-09,Excel avancé pour la finance,EXTERNE,6,1339.41
+1720,57,2026-05-09,Power BI et analyse de données,EXTERNE,15,839.87
+1721,59,2026-05-10,Comptabilité analytique,INTERNE,23,846.68
+1722,90,2026-05-10,Sécurité au travail,E_LEARNING,15,249.22
+1723,16,2026-05-11,Comptabilité analytique,EXTERNE,10,2174.13
+1724,78,2026-05-11,Leadership et management,INTERNE,16,398.92
+1725,78,2026-05-12,Service client de qualité,INTERNE,23,432.06
+1726,20,2026-05-12,Power BI et analyse de données,EXTERNE,7,1575.18
+1727,101,2026-05-13,Excel avancé pour la finance,E_LEARNING,13,198.91
+1728,70,2026-05-13,Power BI et analyse de données,EXTERNE,13,2140.57
+1729,40,2026-05-14,Sécurité au travail,E_LEARNING,7,144.95
+1730,25,2026-05-14,Comptabilité analytique,INTERNE,26,386.28
+1731,64,2026-05-15,Power BI et analyse de données,EXTERNE,33,2800.71
+1732,74,2026-05-15,Gestion de projet agile,INTERNE,19,468.15
+1733,96,2026-05-16,Service client de qualité,EXTERNE,9,884.09
+1734,25,2026-05-16,Leadership et management,EXTERNE,12,2464.60
+1735,14,2026-05-17,Gestion de projet agile,INTERNE,33,726.68
+1736,113,2026-05-17,Négociation commerciale,EXTERNE,16,1703.91
+1737,14,2026-05-18,Power BI et analyse de données,INTERNE,9,863.74
+1738,28,2026-05-18,Comptabilité analytique,INTERNE,7,203.59
+1739,40,2026-05-19,Power BI et analyse de données,INTERNE,20,104.95
+1740,43,2026-05-19,Comptabilité analytique,E_LEARNING,22,250.99
+1741,65,2026-05-20,Comptabilité analytique,E_LEARNING,28,265.33
+1742,22,2026-05-20,Leadership et management,E_LEARNING,24,326.42
+1743,63,2026-05-21,Service client de qualité,E_LEARNING,18,241.03
+1744,88,2026-05-21,Service client de qualité,E_LEARNING,15,150.56
+1745,65,2026-05-22,Comptabilité analytique,E_LEARNING,28,262.03
+1746,16,2026-05-22,Power BI et analyse de données,EXTERNE,4,610.66
+1747,25,2026-05-23,Comptabilité analytique,E_LEARNING,15,213.02
+1748,65,2026-05-23,Service client de qualité,INTERNE,31,715.71
+1749,11,2026-05-24,Sécurité au travail,INTERNE,24,234.00
+1750,94,2026-05-24,Gestion de projet agile,EXTERNE,10,606.21
+1751,66,2026-05-25,Sécurité au travail,EXTERNE,11,2900.60
+1752,10,2026-05-25,Power BI et analyse de données,EXTERNE,33,572.53
+1753,23,2026-05-26,Gestion de projet agile,E_LEARNING,24,185.57
+1754,29,2026-05-26,Service client de qualité,E_LEARNING,4,194.51
+1755,49,2026-05-27,Gestion de projet agile,EXTERNE,26,2263.68
+1756,29,2026-05-27,Gestion de projet agile,INTERNE,7,512.59
+1757,33,2026-05-28,Leadership et management,E_LEARNING,21,133.23
+1758,81,2026-05-28,Service client de qualité,EXTERNE,13,2716.43
+1759,57,2026-05-29,Négociation commerciale,E_LEARNING,29,133.21
+1760,105,2026-05-29,Négociation commerciale,EXTERNE,13,2228.75
+1761,59,2026-05-30,Power BI et analyse de données,EXTERNE,25,1899.91
+1762,73,2026-05-30,Négociation commerciale,EXTERNE,19,2780.11
+1763,117,2026-05-31,Gestion de projet agile,INTERNE,28,253.99
+1764,63,2026-05-31,Service client de qualité,INTERNE,21,340.04
+1765,94,2026-06-01,Service client de qualité,E_LEARNING,31,292.03
+1766,40,2026-06-01,Excel avancé pour la finance,INTERNE,30,145.63
+1767,80,2026-06-02,Gestion de projet agile,INTERNE,4,172.28
+1768,44,2026-06-02,Service client de qualité,EXTERNE,17,1507.66
+1769,81,2026-06-03,Gestion de projet agile,INTERNE,31,550.90
+1770,11,2026-06-03,Sécurité au travail,E_LEARNING,9,170.69
+1771,60,2026-06-04,Négociation commerciale,INTERNE,29,433.70
+1772,65,2026-06-04,Service client de qualité,EXTERNE,23,1746.47
+1773,63,2026-06-05,Négociation commerciale,INTERNE,15,146.08
+1774,21,2026-06-05,Négociation commerciale,E_LEARNING,26,289.14
+1775,93,2026-06-06,Négociation commerciale,EXTERNE,13,2390.60
+1776,103,2026-06-06,Sécurité au travail,INTERNE,10,701.40
+1777,14,2026-06-07,Excel avancé pour la finance,INTERNE,24,157.04
+1778,39,2026-06-07,Négociation commerciale,EXTERNE,24,1748.86
+1779,55,2026-06-08,Service client de qualité,E_LEARNING,17,199.20
+1780,22,2026-06-08,Service client de qualité,EXTERNE,21,966.07
+1781,24,2026-06-09,Sécurité au travail,EXTERNE,7,812.91
+1782,38,2026-06-09,Négociation commerciale,INTERNE,11,353.85
+1783,106,2026-06-10,Service client de qualité,EXTERNE,24,2039.01
+1784,2,2026-06-10,Excel avancé pour la finance,INTERNE,29,825.86
+1785,120,2026-06-11,Power BI et analyse de données,INTERNE,32,668.22
+1786,83,2026-06-11,Service client de qualité,INTERNE,26,242.00
+1787,72,2026-06-12,Sécurité au travail,EXTERNE,31,1049.79
+1788,43,2026-06-12,Sécurité au travail,INTERNE,8,292.65
+1789,92,2026-06-13,Leadership et management,INTERNE,30,702.96
+1790,10,2026-06-13,Power BI et analyse de données,INTERNE,17,253.26
+1791,72,2026-06-14,Leadership et management,EXTERNE,21,1555.17
+1792,48,2026-06-14,Sécurité au travail,E_LEARNING,29,348.79
+1793,56,2026-06-15,Power BI et analyse de données,EXTERNE,18,1751.50
+1794,8,2026-06-15,Négociation commerciale,E_LEARNING,4,159.66
+1795,97,2026-06-16,Leadership et management,E_LEARNING,10,207.94
+1796,116,2026-06-16,Leadership et management,INTERNE,18,663.69
+1797,11,2026-06-17,Sécurité au travail,INTERNE,31,398.34
+1798,20,2026-06-17,Négociation commerciale,E_LEARNING,26,305.73
+1799,2,2026-06-18,Service client de qualité,EXTERNE,12,2232.15
+1800,75,2026-06-18,Power BI et analyse de données,INTERNE,14,764.87
+1801,18,2026-06-19,Gestion de projet agile,INTERNE,25,494.71
+1802,44,2026-06-19,Service client de qualité,INTERNE,24,739.67
+1803,117,2026-06-20,Power BI et analyse de données,EXTERNE,5,1757.17
+1804,39,2026-06-20,Sécurité au travail,INTERNE,9,444.01
+1805,74,2026-06-21,Négociation commerciale,E_LEARNING,21,69.73
+1806,64,2026-06-21,Gestion de projet agile,EXTERNE,7,1834.50
+1807,35,2026-06-22,Power BI et analyse de données,E_LEARNING,5,161.99
+1808,82,2026-06-22,Power BI et analyse de données,INTERNE,26,804.63
+1809,14,2026-06-23,Leadership et management,E_LEARNING,9,185.59
+1810,80,2026-06-23,Comptabilité analytique,E_LEARNING,10,239.29
+1811,60,2026-06-24,Sécurité au travail,EXTERNE,23,2589.08
+1812,24,2026-06-24,Gestion de projet agile,EXTERNE,12,1089.09
+1813,38,2026-06-25,Power BI et analyse de données,E_LEARNING,7,202.11
+1814,28,2026-06-25,Service client de qualité,EXTERNE,22,1995.90
+1815,14,2026-06-26,Service client de qualité,E_LEARNING,16,161.99
+1816,79,2026-06-26,Comptabilité analytique,INTERNE,26,290.78
+1817,111,2026-06-27,Gestion de projet agile,E_LEARNING,21,62.74
+1818,51,2026-06-27,Service client de qualité,E_LEARNING,7,258.65
+1819,21,2026-06-28,Power BI et analyse de données,E_LEARNING,20,217.52
+1820,22,2026-06-28,Gestion de projet agile,INTERNE,19,599.64
+1821,71,2026-06-29,Service client de qualité,INTERNE,16,510.85
+1822,40,2026-06-29,Service client de qualité,INTERNE,25,689.60
+1823,64,2026-06-30,Gestion de projet agile,EXTERNE,29,1186.95
+1824,105,2026-06-30,Négociation commerciale,EXTERNE,10,1021.66
+1825,50,2026-07-01,Négociation commerciale,EXTERNE,14,515.01
+1826,114,2026-07-01,Comptabilité analytique,E_LEARNING,24,95.28
+1827,81,2026-07-02,Service client de qualité,E_LEARNING,32,104.09
+1828,3,2026-07-02,Comptabilité analytique,EXTERNE,14,1215.82
+1829,47,2026-07-03,Power BI et analyse de données,INTERNE,12,512.94
+1830,84,2026-07-03,Gestion de projet agile,E_LEARNING,14,284.55
+1831,108,2026-07-04,Négociation commerciale,INTERNE,20,722.47
+1832,29,2026-07-04,Service client de qualité,E_LEARNING,12,259.46
+1833,78,2026-07-05,Gestion de projet agile,INTERNE,9,698.86
+1834,26,2026-07-05,Sécurité au travail,E_LEARNING,19,195.53
+1835,101,2026-07-06,Excel avancé pour la finance,E_LEARNING,15,230.36
+1836,102,2026-07-06,Service client de qualité,EXTERNE,19,2691.93
+1837,104,2026-07-07,Négociation commerciale,E_LEARNING,14,94.85
+1838,79,2026-07-07,Excel avancé pour la finance,E_LEARNING,8,186.74
+1839,95,2026-07-08,Sécurité au travail,EXTERNE,17,2910.62
+1840,58,2026-07-08,Leadership et management,EXTERNE,9,1771.94
+1841,117,2026-07-09,Gestion de projet agile,INTERNE,16,205.19
+1842,44,2026-07-09,Négociation commerciale,EXTERNE,23,1263.60
+1843,71,2026-07-10,Power BI et analyse de données,INTERNE,18,560.99
+1844,46,2026-07-10,Gestion de projet agile,INTERNE,9,685.29
+1845,10,2026-07-11,Gestion de projet agile,INTERNE,5,179.09
+1846,40,2026-07-11,Gestion de projet agile,EXTERNE,23,603.94
+1847,31,2026-07-12,Excel avancé pour la finance,INTERNE,24,342.99
+1848,58,2026-07-12,Négociation commerciale,EXTERNE,14,2765.36
+1849,56,2026-07-13,Service client de qualité,EXTERNE,6,2380.01
+1850,58,2026-07-13,Leadership et management,INTERNE,19,112.32
+1851,67,2026-07-14,Négociation commerciale,E_LEARNING,27,345.54
+1852,65,2026-07-14,Excel avancé pour la finance,E_LEARNING,30,147.68
+1853,3,2026-07-15,Service client de qualité,INTERNE,12,806.75
+1854,65,2026-07-15,Service client de qualité,INTERNE,18,856.64
+1855,29,2026-07-16,Excel avancé pour la finance,EXTERNE,6,1456.48
+1856,77,2026-07-16,Leadership et management,INTERNE,4,494.61
+1857,45,2026-07-17,Comptabilité analytique,EXTERNE,27,1990.33
+1858,73,2026-07-17,Sécurité au travail,INTERNE,14,446.15
+1859,19,2026-07-18,Négociation commerciale,EXTERNE,10,1367.61
+1860,6,2026-07-18,Comptabilité analytique,INTERNE,16,697.84
+1861,55,2026-07-19,Gestion de projet agile,INTERNE,22,844.22
+1862,93,2026-07-19,Négociation commerciale,INTERNE,17,548.68
+1863,50,2026-07-20,Gestion de projet agile,EXTERNE,11,993.43
+1864,30,2026-07-20,Sécurité au travail,EXTERNE,10,2595.59
+1865,64,2026-07-21,Excel avancé pour la finance,INTERNE,24,448.07
+1866,12,2026-07-21,Gestion de projet agile,INTERNE,21,155.07
+1867,69,2026-07-22,Service client de qualité,EXTERNE,24,2508.76
+1868,120,2026-07-22,Comptabilité analytique,EXTERNE,15,1603.22
+1869,11,2026-07-23,Leadership et management,INTERNE,30,619.67
+1870,77,2026-07-23,Power BI et analyse de données,INTERNE,33,829.69
+1871,70,2026-07-24,Excel avancé pour la finance,INTERNE,32,516.59
+1872,88,2026-07-24,Leadership et management,INTERNE,21,451.84
+1873,55,2026-07-25,Sécurité au travail,E_LEARNING,5,100.52
+1874,79,2026-07-25,Comptabilité analytique,E_LEARNING,4,212.59
+1875,76,2026-07-26,Gestion de projet agile,EXTERNE,31,1705.78
+1876,82,2026-07-26,Gestion de projet agile,E_LEARNING,20,263.98
+1877,111,2026-07-27,Gestion de projet agile,EXTERNE,26,2607.15
+1878,115,2026-07-27,Sécurité au travail,INTERNE,10,818.06
+1879,101,2026-07-28,Négociation commerciale,EXTERNE,16,771.90
+1880,38,2026-07-28,Leadership et management,INTERNE,15,348.96
+1881,46,2026-07-29,Gestion de projet agile,E_LEARNING,19,228.71
+1882,47,2026-07-29,Service client de qualité,INTERNE,20,108.50
+1883,43,2026-07-30,Gestion de projet agile,E_LEARNING,10,328.15
+1884,5,2026-07-30,Comptabilité analytique,EXTERNE,7,2917.14
+1885,62,2026-07-31,Comptabilité analytique,EXTERNE,28,2535.11
+1886,74,2026-07-31,Power BI et analyse de données,EXTERNE,26,2429.54
+1887,72,2026-08-01,Service client de qualité,E_LEARNING,30,234.42
+1888,56,2026-08-01,Négociation commerciale,EXTERNE,16,961.26
+1889,81,2026-08-02,Excel avancé pour la finance,E_LEARNING,27,278.41
+1890,57,2026-08-02,Négociation commerciale,INTERNE,22,241.28
+1891,4,2026-08-03,Excel avancé pour la finance,EXTERNE,13,1681.75
+1892,50,2026-08-03,Négociation commerciale,EXTERNE,22,1297.14
+1893,96,2026-08-04,Gestion de projet agile,INTERNE,12,454.95
+1894,44,2026-08-04,Power BI et analyse de données,EXTERNE,32,2874.94
+1895,107,2026-08-05,Power BI et analyse de données,EXTERNE,23,1504.27
+1896,7,2026-08-05,Leadership et management,INTERNE,30,642.16
+1897,95,2026-08-06,Excel avancé pour la finance,E_LEARNING,29,347.54
+1898,45,2026-08-06,Leadership et management,E_LEARNING,21,110.49
+1899,32,2026-08-07,Gestion de projet agile,E_LEARNING,12,178.73
+1900,34,2026-08-07,Gestion de projet agile,INTERNE,10,820.91
+1901,108,2026-08-08,Leadership et management,E_LEARNING,18,323.20
+1902,16,2026-08-08,Leadership et management,E_LEARNING,31,122.39
+1903,53,2026-08-09,Négociation commerciale,EXTERNE,19,2105.24
+1904,80,2026-08-09,Excel avancé pour la finance,EXTERNE,31,1639.49
+1905,68,2026-08-10,Service client de qualité,EXTERNE,15,1173.39
+1906,25,2026-08-10,Sécurité au travail,INTERNE,28,534.71
+1907,37,2026-08-11,Sécurité au travail,E_LEARNING,24,60.30
+1908,15,2026-08-11,Leadership et management,EXTERNE,17,2056.06
+1909,95,2026-08-12,Négociation commerciale,INTERNE,19,680.91
+1910,14,2026-08-12,Service client de qualité,EXTERNE,18,2517.62
+1911,75,2026-08-13,Service client de qualité,E_LEARNING,32,333.82
+1912,105,2026-08-13,Négociation commerciale,EXTERNE,4,1379.73
+1913,87,2026-08-14,Service client de qualité,EXTERNE,15,855.24
+1914,63,2026-08-14,Power BI et analyse de données,INTERNE,10,164.50
+1915,86,2026-08-15,Sécurité au travail,INTERNE,14,419.19
+1916,111,2026-08-15,Power BI et analyse de données,EXTERNE,8,2793.55
+1917,18,2026-08-16,Sécurité au travail,E_LEARNING,6,122.58
+1918,115,2026-08-16,Power BI et analyse de données,INTERNE,14,823.79
+1919,56,2026-08-17,Service client de qualité,EXTERNE,13,2237.14
+1920,64,2026-08-17,Power BI et analyse de données,EXTERNE,27,662.51
+1921,112,2026-08-18,Sécurité au travail,EXTERNE,7,576.45
+1922,102,2026-08-18,Excel avancé pour la finance,INTERNE,7,348.15
+1923,23,2026-08-19,Sécurité au travail,E_LEARNING,5,80.11
+1924,37,2026-08-19,Leadership et management,INTERNE,18,637.24
+1925,113,2026-08-20,Service client de qualité,EXTERNE,19,871.53
+1926,18,2026-08-20,Excel avancé pour la finance,INTERNE,10,114.38
+1927,54,2026-08-21,Service client de qualité,INTERNE,10,414.23
+1928,42,2026-08-21,Gestion de projet agile,EXTERNE,21,2964.99
+1929,24,2026-08-22,Service client de qualité,INTERNE,18,819.63
+1930,6,2026-08-22,Sécurité au travail,EXTERNE,25,1049.20
+1931,115,2026-08-23,Gestion de projet agile,INTERNE,30,453.60
+1932,73,2026-08-23,Gestion de projet agile,E_LEARNING,20,219.81
+1933,20,2026-08-24,Excel avancé pour la finance,INTERNE,31,505.01
+1934,89,2026-08-24,Service client de qualité,INTERNE,22,248.91
+1935,12,2026-08-25,Sécurité au travail,E_LEARNING,8,208.58
+1936,27,2026-08-25,Négociation commerciale,EXTERNE,12,1664.06
+1937,60,2026-08-26,Négociation commerciale,INTERNE,23,375.22
+1938,88,2026-08-26,Négociation commerciale,EXTERNE,21,1217.29
+1939,80,2026-08-27,Power BI et analyse de données,EXTERNE,13,2013.93
+1940,5,2026-08-27,Comptabilité analytique,EXTERNE,27,1741.23
+1941,22,2026-08-28,Sécurité au travail,EXTERNE,7,936.61
+1942,65,2026-08-28,Leadership et management,INTERNE,19,861.54
+1943,28,2026-08-29,Comptabilité analytique,INTERNE,33,625.44
+1944,36,2026-08-29,Gestion de projet agile,EXTERNE,24,1666.64
+1945,37,2026-08-30,Gestion de projet agile,INTERNE,9,671.97
+1946,9,2026-08-30,Comptabilité analytique,INTERNE,20,241.29
+1947,34,2026-08-31,Sécurité au travail,E_LEARNING,29,278.16
+1948,33,2026-08-31,Sécurité au travail,INTERNE,12,795.13
+1949,66,2026-09-01,Négociation commerciale,INTERNE,13,763.66
+1950,21,2026-09-01,Power BI et analyse de données,EXTERNE,18,1715.55
+1951,117,2026-09-02,Excel avancé pour la finance,EXTERNE,31,1963.93
+1952,18,2026-09-02,Sécurité au travail,E_LEARNING,15,220.34
+1953,79,2026-09-03,Négociation commerciale,EXTERNE,27,1074.35
+1954,95,2026-09-03,Négociation commerciale,INTERNE,25,808.31
+1955,35,2026-09-04,Excel avancé pour la finance,E_LEARNING,29,88.50
+1956,12,2026-09-04,Leadership et management,INTERNE,26,230.47
+1957,65,2026-09-05,Power BI et analyse de données,INTERNE,6,388.06
+1958,72,2026-09-05,Comptabilité analytique,E_LEARNING,8,192.16
+1959,106,2026-09-06,Leadership et management,E_LEARNING,4,191.78
+1960,44,2026-09-06,Comptabilité analytique,EXTERNE,6,2807.70
+1961,40,2026-09-07,Sécurité au travail,E_LEARNING,15,261.20
+1962,45,2026-09-07,Service client de qualité,E_LEARNING,27,76.61
+1963,13,2026-09-08,Excel avancé pour la finance,INTERNE,15,698.10
+1964,75,2026-09-08,Sécurité au travail,E_LEARNING,25,109.68
+1965,102,2026-09-09,Service client de qualité,EXTERNE,30,2388.20
+1966,18,2026-09-09,Comptabilité analytique,EXTERNE,29,2246.41
+1967,115,2026-09-10,Service client de qualité,E_LEARNING,31,303.95
+1968,53,2026-09-10,Négociation commerciale,EXTERNE,25,2639.53
+1969,10,2026-09-11,Négociation commerciale,E_LEARNING,6,236.74
+1970,108,2026-09-11,Sécurité au travail,EXTERNE,6,970.01
+1971,89,2026-09-12,Sécurité au travail,INTERNE,30,135.24
+1972,69,2026-09-12,Comptabilité analytique,E_LEARNING,9,135.25
+1973,108,2026-09-13,Sécurité au travail,EXTERNE,14,1667.44
+1974,30,2026-09-13,Sécurité au travail,E_LEARNING,21,269.57
+1975,105,2026-09-14,Excel avancé pour la finance,INTERNE,6,169.75
+1976,25,2026-09-14,Leadership et management,E_LEARNING,23,271.83
+1977,86,2026-09-15,Gestion de projet agile,EXTERNE,6,1719.83
+1978,27,2026-09-15,Sécurité au travail,EXTERNE,18,537.85
+1979,74,2026-09-16,Power BI et analyse de données,INTERNE,20,712.90
+1980,21,2026-09-16,Power BI et analyse de données,EXTERNE,29,1377.13
+1981,23,2026-09-17,Comptabilité analytique,E_LEARNING,14,151.08
+1982,80,2026-09-17,Service client de qualité,INTERNE,23,686.26
+1983,85,2026-09-18,Service client de qualité,INTERNE,26,125.37
+1984,115,2026-09-18,Service client de qualité,E_LEARNING,24,262.85
+1985,66,2026-09-19,Power BI et analyse de données,EXTERNE,33,2460.42
+1986,2,2026-09-19,Service client de qualité,E_LEARNING,28,123.43
+1987,96,2026-09-20,Négociation commerciale,INTERNE,22,491.85
+1988,70,2026-09-20,Power BI et analyse de données,EXTERNE,15,2965.45
+1989,91,2026-09-21,Comptabilité analytique,E_LEARNING,22,227.35
+1990,18,2026-09-21,Power BI et analyse de données,E_LEARNING,23,143.14
+1991,77,2026-09-22,Power BI et analyse de données,INTERNE,29,311.93
+1992,96,2026-09-22,Service client de qualité,INTERNE,16,350.76
+1993,35,2026-09-23,Gestion de projet agile,EXTERNE,27,2923.28
+1994,57,2026-09-23,Négociation commerciale,EXTERNE,5,1921.41
+1995,85,2026-09-24,Excel avancé pour la finance,E_LEARNING,22,76.43
+1996,66,2026-09-24,Gestion de projet agile,EXTERNE,32,2505.73
+1997,16,2026-09-25,Gestion de projet agile,INTERNE,5,873.63
+1998,87,2026-09-25,Power BI et analyse de données,E_LEARNING,18,179.47
+1999,89,2026-09-26,Comptabilité analytique,EXTERNE,27,1910.49
+2000,53,2026-09-26,Leadership et management,EXTERNE,21,1302.08
+2001,97,2026-09-27,Négociation commerciale,INTERNE,15,203.90
+2002,63,2026-09-27,Service client de qualité,INTERNE,12,578.76
+2003,20,2026-09-28,Service client de qualité,INTERNE,26,220.63
+2004,56,2026-09-28,Comptabilité analytique,E_LEARNING,25,349.04
+2005,103,2026-09-29,Négociation commerciale,INTERNE,24,594.66
+2006,10,2026-09-29,Sécurité au travail,EXTERNE,22,2524.95
+2007,19,2026-09-30,Power BI et analyse de données,EXTERNE,18,1667.43
+2008,108,2026-09-30,Gestion de projet agile,INTERNE,17,865.37
+2009,58,2026-10-01,Leadership et management,EXTERNE,17,2194.33
+2010,1,2026-10-01,Négociation commerciale,E_LEARNING,21,102.64
+2011,18,2026-10-02,Sécurité au travail,INTERNE,31,207.52
+2012,108,2026-10-02,Comptabilité analytique,INTERNE,21,573.63
+2013,26,2026-10-03,Comptabilité analytique,INTERNE,10,572.09
+2014,40,2026-10-03,Power BI et analyse de données,E_LEARNING,7,214.22
+2015,48,2026-10-04,Sécurité au travail,INTERNE,12,120.07
+2016,36,2026-10-04,Leadership et management,EXTERNE,25,2948.94
+2017,92,2026-10-05,Excel avancé pour la finance,E_LEARNING,28,283.54
+2018,57,2026-10-05,Gestion de projet agile,INTERNE,10,250.44
+2019,31,2026-10-06,Gestion de projet agile,E_LEARNING,18,115.22
+2020,82,2026-10-06,Gestion de projet agile,E_LEARNING,10,344.42
+2021,34,2026-10-07,Sécurité au travail,EXTERNE,21,2304.73
+2022,108,2026-10-07,Comptabilité analytique,INTERNE,8,352.45
+2023,17,2026-10-08,Leadership et management,E_LEARNING,32,58.92
+2024,40,2026-10-08,Comptabilité analytique,EXTERNE,13,915.21
+2025,108,2026-10-09,Power BI et analyse de données,E_LEARNING,13,275.11
+2026,102,2026-10-09,Power BI et analyse de données,E_LEARNING,24,182.58
+2027,21,2026-10-10,Leadership et management,EXTERNE,9,1769.83
+2028,114,2026-10-10,Leadership et management,INTERNE,12,749.61
+2029,32,2026-10-11,Service client de qualité,E_LEARNING,32,134.83
+2030,65,2026-10-11,Service client de qualité,E_LEARNING,5,280.34
+2031,81,2026-10-12,Power BI et analyse de données,INTERNE,7,721.89
+2032,68,2026-10-12,Gestion de projet agile,EXTERNE,11,572.18
+2033,47,2026-10-13,Leadership et management,E_LEARNING,11,257.00
+2034,88,2026-10-13,Comptabilité analytique,EXTERNE,4,2391.93
+2035,93,2026-10-14,Service client de qualité,EXTERNE,12,1917.19
+2036,1,2026-10-14,Service client de qualité,INTERNE,4,297.44
+2037,27,2026-10-15,Excel avancé pour la finance,EXTERNE,12,1219.94
+2038,66,2026-10-15,Comptabilité analytique,E_LEARNING,10,286.70
+2039,34,2026-10-16,Leadership et management,INTERNE,6,739.99
+2040,86,2026-10-16,Gestion de projet agile,INTERNE,6,299.00
+2041,120,2026-10-17,Leadership et management,INTERNE,17,510.91
+2042,29,2026-10-17,Sécurité au travail,EXTERNE,12,911.30
+2043,113,2026-10-18,Leadership et management,INTERNE,19,785.01
+2044,91,2026-10-18,Comptabilité analytique,INTERNE,19,106.82
+2045,65,2026-10-19,Gestion de projet agile,EXTERNE,19,1762.18
+2046,115,2026-10-19,Sécurité au travail,INTERNE,22,591.74
+2047,28,2026-10-20,Comptabilité analytique,INTERNE,12,870.41
+2048,111,2026-10-20,Comptabilité analytique,E_LEARNING,24,73.15
+2049,46,2026-10-21,Leadership et management,E_LEARNING,6,292.76
+2050,92,2026-10-21,Service client de qualité,EXTERNE,25,2597.39
+2051,10,2026-10-22,Leadership et management,E_LEARNING,12,296.93
+2052,35,2026-10-22,Négociation commerciale,E_LEARNING,27,104.88
+2053,63,2026-10-23,Comptabilité analytique,INTERNE,22,763.61
+2054,33,2026-10-23,Service client de qualité,E_LEARNING,8,74.15
+2055,115,2026-10-24,Comptabilité analytique,EXTERNE,20,941.01
+2056,34,2026-10-24,Service client de qualité,E_LEARNING,5,240.12
+2057,4,2026-10-25,Excel avancé pour la finance,INTERNE,22,793.34
+2058,62,2026-10-25,Leadership et management,E_LEARNING,9,155.91
+2059,22,2026-10-26,Gestion de projet agile,E_LEARNING,28,90.62
+2060,23,2026-10-26,Excel avancé pour la finance,EXTERNE,28,2776.92
+2061,7,2026-10-27,Service client de qualité,EXTERNE,11,1704.77
+2062,82,2026-10-27,Gestion de projet agile,E_LEARNING,25,198.61
+2063,35,2026-10-28,Négociation commerciale,E_LEARNING,30,223.64
+2064,27,2026-10-28,Leadership et management,EXTERNE,4,1371.92
+2065,87,2026-10-29,Gestion de projet agile,EXTERNE,20,2458.27
+2066,34,2026-10-29,Sécurité au travail,INTERNE,10,605.22
+2067,62,2026-10-30,Gestion de projet agile,EXTERNE,23,888.37
+2068,94,2026-10-30,Négociation commerciale,EXTERNE,5,2198.39
+2069,25,2026-10-31,Power BI et analyse de données,E_LEARNING,23,140.95
+2070,67,2026-10-31,Service client de qualité,E_LEARNING,15,79.42
+2071,47,2026-11-01,Négociation commerciale,EXTERNE,33,2886.51
+2072,103,2026-11-01,Service client de qualité,EXTERNE,14,1028.96
+2073,119,2026-11-02,Gestion de projet agile,INTERNE,10,195.91
+2074,119,2026-11-02,Négociation commerciale,EXTERNE,28,1528.95
+2075,69,2026-11-03,Sécurité au travail,EXTERNE,11,2878.70
+2076,3,2026-11-03,Leadership et management,INTERNE,32,436.85
+2077,25,2026-11-04,Leadership et management,E_LEARNING,31,309.69
+2078,68,2026-11-04,Power BI et analyse de données,INTERNE,7,482.45
+2079,11,2026-11-05,Gestion de projet agile,E_LEARNING,21,289.17
+2080,27,2026-11-05,Négociation commerciale,E_LEARNING,19,280.23
+2081,36,2026-11-06,Négociation commerciale,INTERNE,10,300.26
+2082,73,2026-11-06,Service client de qualité,INTERNE,7,697.10
+2083,51,2026-11-07,Excel avancé pour la finance,E_LEARNING,30,72.31
+2084,90,2026-11-07,Power BI et analyse de données,EXTERNE,12,1310.99
+2085,91,2026-11-08,Comptabilité analytique,E_LEARNING,20,173.84
+2086,45,2026-11-08,Excel avancé pour la finance,EXTERNE,10,668.60
+2087,79,2026-11-09,Sécurité au travail,INTERNE,30,231.10
+2088,19,2026-11-09,Négociation commerciale,INTERNE,5,367.19
+2089,60,2026-11-10,Comptabilité analytique,EXTERNE,30,2528.54
+2090,52,2026-11-10,Power BI et analyse de données,E_LEARNING,13,253.92
+2091,56,2026-11-11,Excel avancé pour la finance,INTERNE,13,443.28
+2092,28,2026-11-11,Service client de qualité,E_LEARNING,19,277.04
+2093,26,2026-11-12,Power BI et analyse de données,E_LEARNING,32,53.57
+2094,23,2026-11-12,Négociation commerciale,E_LEARNING,7,242.43
+2095,107,2026-11-13,Comptabilité analytique,EXTERNE,26,1016.03
+2096,94,2026-11-13,Négociation commerciale,INTERNE,7,573.89
+2097,78,2026-11-14,Power BI et analyse de données,EXTERNE,13,1961.24
+2098,116,2026-11-14,Sécurité au travail,INTERNE,7,250.04
+2099,71,2026-11-15,Excel avancé pour la finance,EXTERNE,8,1996.11
+2100,67,2026-11-15,Leadership et management,E_LEARNING,31,88.87
+2101,106,2026-11-16,Power BI et analyse de données,E_LEARNING,26,251.59
+2102,17,2026-11-16,Négociation commerciale,EXTERNE,17,2143.58
+2103,108,2026-11-17,Comptabilité analytique,EXTERNE,21,1567.75
+2104,50,2026-11-17,Gestion de projet agile,E_LEARNING,5,115.22
+2105,112,2026-11-18,Leadership et management,INTERNE,7,803.34
+2106,8,2026-11-18,Leadership et management,E_LEARNING,8,336.53
+2107,45,2026-11-19,Comptabilité analytique,E_LEARNING,14,90.55
+2108,76,2026-11-19,Négociation commerciale,E_LEARNING,9,135.73
+2109,102,2026-11-20,Sécurité au travail,EXTERNE,27,2203.03
+2110,13,2026-11-20,Excel avancé pour la finance,EXTERNE,31,1353.70
+2111,118,2026-11-21,Sécurité au travail,E_LEARNING,25,94.53
+2112,73,2026-11-21,Excel avancé pour la finance,EXTERNE,16,2887.41
+2113,68,2026-11-22,Leadership et management,E_LEARNING,27,200.25
+2114,19,2026-11-22,Négociation commerciale,INTERNE,31,621.94
+2115,68,2026-11-23,Service client de qualité,E_LEARNING,4,236.51
+2116,3,2026-11-23,Leadership et management,INTERNE,33,463.08
+2117,42,2026-11-24,Comptabilité analytique,EXTERNE,32,1391.98
+2118,109,2026-11-24,Service client de qualité,EXTERNE,13,2959.79
+2119,117,2026-11-25,Service client de qualité,E_LEARNING,12,223.15
+2120,9,2026-11-25,Comptabilité analytique,EXTERNE,14,1090.53
+2121,17,2026-11-26,Sécurité au travail,E_LEARNING,19,98.00
+2122,26,2026-11-26,Power BI et analyse de données,EXTERNE,24,1986.01
+2123,108,2026-11-27,Gestion de projet agile,E_LEARNING,22,309.80
+2124,60,2026-11-27,Comptabilité analytique,E_LEARNING,24,323.05
+2125,55,2026-11-28,Sécurité au travail,EXTERNE,10,593.41
+2126,59,2026-11-28,Leadership et management,INTERNE,30,853.92
+2127,4,2026-11-29,Service client de qualité,INTERNE,25,872.20
+2128,82,2026-11-29,Sécurité au travail,EXTERNE,21,2363.48
+2129,113,2026-11-30,Sécurité au travail,EXTERNE,29,2735.93
+2130,114,2026-11-30,Sécurité au travail,INTERNE,29,154.94
+2131,95,2026-12-01,Leadership et management,E_LEARNING,31,338.72
+2132,7,2026-12-01,Comptabilité analytique,EXTERNE,22,2655.08
+2133,53,2026-12-02,Service client de qualité,EXTERNE,12,2083.70
+2134,36,2026-12-02,Négociation commerciale,EXTERNE,9,2766.63
+2135,4,2026-12-03,Excel avancé pour la finance,EXTERNE,7,1440.44
+2136,60,2026-12-03,Power BI et analyse de données,EXTERNE,18,1861.82
+2137,28,2026-12-04,Comptabilité analytique,EXTERNE,18,649.99
+2138,101,2026-12-04,Sécurité au travail,E_LEARNING,12,87.97
+2139,89,2026-12-05,Power BI et analyse de données,INTERNE,29,188.34
+2140,6,2026-12-05,Power BI et analyse de données,E_LEARNING,4,86.15
+2141,62,2026-12-06,Sécurité au travail,INTERNE,23,827.29
+2142,72,2026-12-06,Sécurité au travail,INTERNE,15,624.45
+2143,16,2026-12-07,Négociation commerciale,E_LEARNING,27,62.79
+2144,104,2026-12-07,Sécurité au travail,INTERNE,14,580.66
+2145,114,2026-12-08,Comptabilité analytique,E_LEARNING,4,306.30
+2146,24,2026-12-08,Service client de qualité,EXTERNE,21,861.08
+2147,120,2026-12-09,Comptabilité analytique,EXTERNE,15,1582.21
+2148,6,2026-12-09,Sécurité au travail,E_LEARNING,20,172.08
+2149,43,2026-12-10,Comptabilité analytique,EXTERNE,5,601.42
+2150,4,2026-12-10,Excel avancé pour la finance,INTERNE,33,862.48
+2151,93,2026-12-11,Gestion de projet agile,INTERNE,22,871.23
+2152,111,2026-12-11,Comptabilité analytique,E_LEARNING,32,156.82
+2153,107,2026-12-12,Excel avancé pour la finance,EXTERNE,17,2836.56
+2154,41,2026-12-12,Power BI et analyse de données,E_LEARNING,4,64.76
+2155,30,2026-12-13,Service client de qualité,INTERNE,29,483.59
+2156,97,2026-12-13,Service client de qualité,EXTERNE,26,1205.17
+2157,17,2026-12-14,Comptabilité analytique,E_LEARNING,22,209.86
+2158,102,2026-12-14,Gestion de projet agile,EXTERNE,18,1553.54
+2159,74,2026-12-15,Leadership et management,E_LEARNING,27,81.90
+2160,28,2026-12-15,Sécurité au travail,E_LEARNING,19,180.43
+2161,73,2026-12-16,Comptabilité analytique,E_LEARNING,26,176.91
+2162,103,2026-12-16,Sécurité au travail,E_LEARNING,7,142.49
+2163,24,2026-12-17,Comptabilité analytique,INTERNE,23,846.58
+2164,86,2026-12-17,Gestion de projet agile,E_LEARNING,30,227.64
+2165,33,2026-12-18,Excel avancé pour la finance,EXTERNE,20,2083.40
+2166,59,2026-12-18,Leadership et management,EXTERNE,15,1284.02
+2167,52,2026-12-19,Comptabilité analytique,INTERNE,9,632.08
+2168,90,2026-12-19,Service client de qualité,E_LEARNING,11,295.25
+2169,35,2026-12-20,Leadership et management,INTERNE,25,264.98
+2170,101,2026-12-20,Power BI et analyse de données,EXTERNE,7,1815.79
+2171,30,2026-12-21,Sécurité au travail,EXTERNE,20,1007.37
+2172,49,2026-12-21,Comptabilité analytique,EXTERNE,26,1634.62
+2173,117,2026-12-22,Service client de qualité,EXTERNE,7,779.89
+2174,20,2026-12-22,Comptabilité analytique,EXTERNE,30,2626.06
+2175,72,2026-12-23,Sécurité au travail,EXTERNE,24,925.28
+2176,100,2026-12-23,Comptabilité analytique,EXTERNE,31,1151.54
+2177,66,2026-12-24,Leadership et management,E_LEARNING,31,71.20
+2178,76,2026-12-24,Gestion de projet agile,E_LEARNING,28,326.27
+2179,21,2026-12-25,Négociation commerciale,INTERNE,8,236.10
+2180,45,2026-12-25,Service client de qualité,INTERNE,26,223.78
+2181,59,2026-12-26,Sécurité au travail,E_LEARNING,11,312.87
+2182,81,2026-12-26,Service client de qualité,E_LEARNING,32,299.01
+2183,40,2026-12-27,Comptabilité analytique,INTERNE,13,396.03
+2184,105,2026-12-27,Gestion de projet agile,INTERNE,15,186.44
+2185,42,2026-12-28,Négociation commerciale,EXTERNE,17,1657.60
+2186,117,2026-12-28,Service client de qualité,EXTERNE,5,2321.31
+2187,61,2026-12-29,Leadership et management,EXTERNE,31,636.14
+2188,60,2026-12-29,Leadership et management,INTERNE,26,335.17
+2189,28,2026-12-30,Gestion de projet agile,INTERNE,17,382.60
+2190,46,2026-12-30,Excel avancé pour la finance,E_LEARNING,19,233.45
+2191,59,2026-12-31,Service client de qualité,EXTERNE,9,775.76
+2192,120,2026-12-31,Leadership et management,EXTERNE,8,767.08
+2193,11,2027-01-01,Power BI et analyse de données,INTERNE,7,719.04
+2194,58,2027-01-01,Négociation commerciale,INTERNE,17,411.75
+2195,77,2027-01-02,Leadership et management,INTERNE,29,705.67
+2196,24,2027-01-02,Excel avancé pour la finance,E_LEARNING,4,51.09
+2197,113,2027-01-03,Service client de qualité,E_LEARNING,5,164.78
+2198,92,2027-01-03,Excel avancé pour la finance,EXTERNE,6,1615.25
+2199,113,2027-01-04,Comptabilité analytique,EXTERNE,13,572.01
+2200,21,2027-01-04,Power BI et analyse de données,E_LEARNING,9,75.06
+2201,101,2027-01-05,Leadership et management,E_LEARNING,31,117.13
+2202,39,2027-01-05,Comptabilité analytique,E_LEARNING,4,282.88
+2203,99,2027-01-06,Sécurité au travail,E_LEARNING,4,241.13
+2204,18,2027-01-06,Gestion de projet agile,E_LEARNING,28,78.32
+2205,5,2027-01-07,Sécurité au travail,E_LEARNING,20,169.67
+2206,40,2027-01-07,Leadership et management,EXTERNE,21,1593.66
+2207,49,2027-01-08,Power BI et analyse de données,E_LEARNING,24,147.69
+2208,69,2027-01-08,Gestion de projet agile,E_LEARNING,28,53.87
+2209,74,2027-01-09,Leadership et management,INTERNE,7,803.96
+2210,7,2027-01-09,Excel avancé pour la finance,EXTERNE,16,2508.67
+2211,98,2027-01-10,Comptabilité analytique,EXTERNE,31,1221.74
+2212,83,2027-01-10,Comptabilité analytique,EXTERNE,16,1960.70
+2213,82,2027-01-11,Excel avancé pour la finance,EXTERNE,21,2151.38
+2214,66,2027-01-11,Excel avancé pour la finance,E_LEARNING,30,149.64
+2215,5,2027-01-12,Négociation commerciale,INTERNE,5,397.15
+2216,91,2027-01-12,Négociation commerciale,EXTERNE,4,906.26
+2217,87,2027-01-13,Sécurité au travail,INTERNE,26,445.90
+2218,115,2027-01-13,Sécurité au travail,EXTERNE,31,1152.41
+2219,62,2027-01-14,Power BI et analyse de données,E_LEARNING,15,305.96
+2220,18,2027-01-14,Power BI et analyse de données,INTERNE,10,149.95
+2221,81,2027-01-15,Négociation commerciale,INTERNE,30,718.99
+2222,26,2027-01-15,Négociation commerciale,E_LEARNING,28,76.32
+2223,119,2027-01-16,Sécurité au travail,E_LEARNING,8,165.89
+2224,62,2027-01-16,Service client de qualité,EXTERNE,16,1715.97
+2225,22,2027-01-17,Gestion de projet agile,EXTERNE,7,1869.40
+2226,44,2027-01-17,Gestion de projet agile,INTERNE,9,704.94
+2227,24,2027-01-18,Excel avancé pour la finance,E_LEARNING,6,124.78
+2228,120,2027-01-18,Leadership et management,INTERNE,13,845.32
+2229,88,2027-01-19,Excel avancé pour la finance,E_LEARNING,26,231.29
+2230,90,2027-01-19,Sécurité au travail,E_LEARNING,10,333.54
+2231,4,2027-01-20,Sécurité au travail,INTERNE,20,268.14
+2232,52,2027-01-20,Leadership et management,EXTERNE,22,1376.68
+2233,114,2027-01-21,Service client de qualité,E_LEARNING,27,99.85
+2234,63,2027-01-21,Négociation commerciale,INTERNE,13,801.61
+2235,48,2027-01-22,Service client de qualité,EXTERNE,27,1039.55
+2236,88,2027-01-22,Comptabilité analytique,E_LEARNING,31,115.79
+2237,44,2027-01-23,Comptabilité analytique,INTERNE,11,126.60
+2238,47,2027-01-23,Excel avancé pour la finance,E_LEARNING,27,277.03
+2239,50,2027-01-24,Gestion de projet agile,E_LEARNING,5,96.54
+2240,80,2027-01-24,Power BI et analyse de données,E_LEARNING,33,324.50
+2241,81,2027-01-25,Négociation commerciale,EXTERNE,32,2843.41
+2242,99,2027-01-25,Excel avancé pour la finance,INTERNE,19,310.85
+2243,96,2027-01-26,Gestion de projet agile,INTERNE,21,875.95
+2244,14,2027-01-26,Négociation commerciale,EXTERNE,31,2042.82
+2245,42,2027-01-27,Sécurité au travail,E_LEARNING,14,219.92
+2246,92,2027-01-27,Power BI et analyse de données,INTERNE,6,500.87
+2247,36,2027-01-28,Excel avancé pour la finance,E_LEARNING,6,189.48
+2248,4,2027-01-28,Comptabilité analytique,E_LEARNING,17,54.21
+2249,85,2027-01-29,Power BI et analyse de données,EXTERNE,8,2331.61
+2250,30,2027-01-29,Sécurité au travail,INTERNE,7,290.85
+2251,102,2027-01-30,Excel avancé pour la finance,EXTERNE,28,2604.35
+2252,92,2027-01-30,Leadership et management,INTERNE,4,575.33
+2253,107,2027-01-31,Service client de qualité,EXTERNE,31,2634.47
+2254,64,2027-01-31,Négociation commerciale,INTERNE,7,863.35
+2255,50,2027-02-01,Comptabilité analytique,INTERNE,11,870.24
+2256,6,2027-02-01,Service client de qualité,EXTERNE,27,1164.04
+2257,115,2027-02-02,Excel avancé pour la finance,E_LEARNING,16,296.38
+2258,106,2027-02-02,Négociation commerciale,E_LEARNING,8,296.04
+2259,77,2027-02-03,Gestion de projet agile,E_LEARNING,10,90.39
+2260,117,2027-02-03,Sécurité au travail,EXTERNE,25,1256.54
+2261,44,2027-02-04,Service client de qualité,E_LEARNING,29,241.71
+2262,81,2027-02-04,Leadership et management,EXTERNE,19,554.71
+2263,73,2027-02-05,Excel avancé pour la finance,E_LEARNING,10,348.33
+2264,40,2027-02-05,Sécurité au travail,E_LEARNING,31,193.24
+2265,72,2027-02-06,Négociation commerciale,EXTERNE,29,2036.18
+2266,60,2027-02-06,Gestion de projet agile,EXTERNE,24,1299.27
+2267,60,2027-02-07,Leadership et management,EXTERNE,15,1127.79
+2268,18,2027-02-07,Service client de qualité,E_LEARNING,23,261.99
+2269,67,2027-02-08,Gestion de projet agile,EXTERNE,11,1096.62
+2270,59,2027-02-08,Leadership et management,E_LEARNING,27,139.06
+2271,19,2027-02-09,Négociation commerciale,E_LEARNING,8,310.97
+2272,108,2027-02-09,Gestion de projet agile,E_LEARNING,28,336.92
+2273,45,2027-02-10,Négociation commerciale,INTERNE,15,364.30
+2274,57,2027-02-10,Sécurité au travail,EXTERNE,5,2751.49
+2275,47,2027-02-11,Excel avancé pour la finance,INTERNE,24,175.65
+2276,56,2027-02-11,Comptabilité analytique,INTERNE,27,600.87
+2277,91,2027-02-12,Leadership et management,E_LEARNING,10,202.04
+2278,111,2027-02-12,Service client de qualité,INTERNE,29,419.46
+2279,55,2027-02-13,Négociation commerciale,INTERNE,20,783.95
+2280,80,2027-02-13,Comptabilité analytique,E_LEARNING,24,50.90
+2281,120,2027-02-14,Comptabilité analytique,E_LEARNING,10,253.76
+2282,85,2027-02-14,Sécurité au travail,EXTERNE,17,674.15
+2283,1,2027-02-15,Négociation commerciale,E_LEARNING,19,261.53
+2284,112,2027-02-15,Comptabilité analytique,EXTERNE,26,778.64
+2285,40,2027-02-16,Service client de qualité,INTERNE,32,146.79
+2286,50,2027-02-16,Leadership et management,E_LEARNING,14,107.58
+2287,105,2027-02-17,Power BI et analyse de données,E_LEARNING,15,315.27
+2288,31,2027-02-17,Power BI et analyse de données,EXTERNE,18,1998.88
+2289,70,2027-02-18,Gestion de projet agile,INTERNE,13,475.48
+2290,45,2027-02-18,Excel avancé pour la finance,EXTERNE,9,2012.76
+2291,58,2027-02-19,Sécurité au travail,EXTERNE,21,1693.54
+2292,81,2027-02-19,Service client de qualité,E_LEARNING,32,94.84
+2293,108,2027-02-20,Sécurité au travail,INTERNE,8,455.95
+2294,91,2027-02-20,Négociation commerciale,EXTERNE,7,2890.37
+2295,51,2027-02-21,Négociation commerciale,INTERNE,4,257.53
+2296,116,2027-02-21,Leadership et management,INTERNE,14,182.80
+2297,60,2027-02-22,Sécurité au travail,INTERNE,22,745.91
+2298,20,2027-02-22,Service client de qualité,EXTERNE,18,2368.41
+2299,39,2027-02-23,Comptabilité analytique,EXTERNE,31,911.35
+2300,13,2027-02-23,Gestion de projet agile,INTERNE,23,171.05
+2301,56,2027-02-24,Négociation commerciale,INTERNE,14,104.89
+2302,120,2027-02-24,Comptabilité analytique,E_LEARNING,16,181.69
+2303,118,2027-02-25,Négociation commerciale,EXTERNE,25,512.59
+2304,100,2027-02-25,Leadership et management,INTERNE,24,705.05
+2305,88,2027-02-26,Service client de qualité,EXTERNE,5,1322.08
+2306,63,2027-02-26,Service client de qualité,EXTERNE,33,1118.27
+2307,31,2027-02-27,Comptabilité analytique,EXTERNE,17,2677.66
+2308,120,2027-02-27,Négociation commerciale,EXTERNE,19,2310.78
+2309,13,2027-02-28,Service client de qualité,EXTERNE,17,2228.30
+2310,16,2027-02-28,Sécurité au travail,EXTERNE,15,2222.41
+2311,35,2027-03-01,Excel avancé pour la finance,EXTERNE,6,1081.90
+2312,114,2027-03-01,Power BI et analyse de données,INTERNE,14,822.82
+2313,56,2027-03-02,Gestion de projet agile,EXTERNE,16,848.42
+2314,54,2027-03-02,Gestion de projet agile,E_LEARNING,11,53.34
+2315,39,2027-03-03,Comptabilité analytique,EXTERNE,22,1919.12
+2316,113,2027-03-03,Leadership et management,E_LEARNING,28,221.45
+2317,52,2027-03-04,Comptabilité analytique,EXTERNE,31,576.05
+2318,52,2027-03-04,Négociation commerciale,INTERNE,27,894.91
+2319,71,2027-03-05,Négociation commerciale,E_LEARNING,4,119.16
+2320,8,2027-03-05,Négociation commerciale,EXTERNE,23,1958.47
+2321,114,2027-03-06,Négociation commerciale,E_LEARNING,6,193.65
+2322,14,2027-03-06,Leadership et management,INTERNE,29,513.32
+2323,6,2027-03-07,Power BI et analyse de données,E_LEARNING,13,258.26
+2324,69,2027-03-07,Leadership et management,E_LEARNING,14,172.23
+2325,115,2027-03-08,Comptabilité analytique,EXTERNE,20,1205.61
+2326,89,2027-03-08,Excel avancé pour la finance,E_LEARNING,24,141.00
+2327,54,2027-03-09,Leadership et management,INTERNE,6,752.20
+2328,100,2027-03-09,Négociation commerciale,E_LEARNING,25,283.20
+2329,84,2027-03-10,Service client de qualité,INTERNE,23,471.30
+2330,40,2027-03-10,Power BI et analyse de données,INTERNE,32,659.80
+2331,78,2027-03-11,Gestion de projet agile,INTERNE,6,374.59
+2332,56,2027-03-11,Excel avancé pour la finance,INTERNE,18,284.63
+2333,82,2027-03-12,Service client de qualité,E_LEARNING,19,50.74
+2334,55,2027-03-12,Comptabilité analytique,INTERNE,23,545.11
+2335,105,2027-03-13,Négociation commerciale,E_LEARNING,14,71.05
+2336,37,2027-03-13,Gestion de projet agile,INTERNE,11,346.75
+2337,98,2027-03-14,Power BI et analyse de données,INTERNE,9,810.04
+2338,110,2027-03-14,Comptabilité analytique,E_LEARNING,13,105.23
+2339,114,2027-03-15,Leadership et management,INTERNE,5,782.75
+2340,16,2027-03-15,Excel avancé pour la finance,INTERNE,28,177.18
+2341,1,2027-03-16,Service client de qualité,E_LEARNING,25,325.71
+2342,50,2027-03-16,Leadership et management,INTERNE,8,191.01
+2343,17,2027-03-17,Sécurité au travail,EXTERNE,32,1687.04
+2344,67,2027-03-17,Excel avancé pour la finance,EXTERNE,15,2268.05
+2345,43,2027-03-18,Excel avancé pour la finance,EXTERNE,22,2419.61
+2346,120,2027-03-18,Sécurité au travail,E_LEARNING,33,264.03
+2347,74,2027-03-19,Comptabilité analytique,E_LEARNING,4,275.19
+2348,91,2027-03-19,Power BI et analyse de données,EXTERNE,32,2597.70
+2349,44,2027-03-20,Power BI et analyse de données,INTERNE,29,285.95
+2350,74,2027-03-20,Négociation commerciale,EXTERNE,20,2891.75
+2351,19,2027-03-21,Excel avancé pour la finance,E_LEARNING,27,245.00
+2352,104,2027-03-21,Power BI et analyse de données,EXTERNE,10,1172.78
+2353,85,2027-03-22,Sécurité au travail,E_LEARNING,12,346.61
+2354,8,2027-03-22,Service client de qualité,EXTERNE,32,2825.21
+2355,97,2027-03-23,Gestion de projet agile,INTERNE,25,598.98
+2356,112,2027-03-23,Excel avancé pour la finance,E_LEARNING,5,346.00
+2357,98,2027-03-24,Excel avancé pour la finance,INTERNE,10,718.33
+2358,25,2027-03-24,Comptabilité analytique,E_LEARNING,8,135.07
+2359,111,2027-03-25,Excel avancé pour la finance,E_LEARNING,31,178.36
+2360,50,2027-03-25,Gestion de projet agile,E_LEARNING,5,111.66
+2361,106,2027-03-26,Power BI et analyse de données,E_LEARNING,4,108.09
+2362,117,2027-03-26,Sécurité au travail,INTERNE,9,638.47
+2363,104,2027-03-27,Comptabilité analytique,INTERNE,18,704.25
+2364,44,2027-03-27,Service client de qualité,EXTERNE,11,1832.35
+2365,112,2027-03-28,Power BI et analyse de données,INTERNE,25,535.12
+2366,66,2027-03-28,Comptabilité analytique,INTERNE,22,699.32
+2367,110,2027-03-29,Comptabilité analytique,INTERNE,5,757.53
+2368,120,2027-03-29,Service client de qualité,EXTERNE,9,1219.06
+2369,108,2027-03-30,Sécurité au travail,EXTERNE,8,1803.87
+2370,22,2027-03-30,Excel avancé pour la finance,INTERNE,13,414.10
+2371,5,2027-03-31,Négociation commerciale,E_LEARNING,16,168.29
+2372,91,2027-03-31,Gestion de projet agile,EXTERNE,16,926.47
+2373,75,2027-04-01,Excel avancé pour la finance,EXTERNE,22,2516.19
+2374,27,2027-04-01,Gestion de projet agile,E_LEARNING,16,79.55
+2375,24,2027-04-02,Comptabilité analytique,E_LEARNING,9,139.97
+2376,120,2027-04-02,Sécurité au travail,INTERNE,32,447.98
+2377,39,2027-04-03,Sécurité au travail,INTERNE,16,673.65
+2378,42,2027-04-03,Comptabilité analytique,EXTERNE,12,2900.78
+2379,120,2027-04-04,Service client de qualité,INTERNE,21,272.69
+2380,35,2027-04-04,Excel avancé pour la finance,E_LEARNING,5,60.93
+2381,1,2027-04-05,Service client de qualité,E_LEARNING,10,129.31
+2382,83,2027-04-05,Leadership et management,EXTERNE,8,760.95
+2383,7,2027-04-06,Service client de qualité,E_LEARNING,29,264.62
+2384,119,2027-04-06,Négociation commerciale,E_LEARNING,13,302.86
+2385,28,2027-04-07,Sécurité au travail,EXTERNE,14,1488.73
+2386,113,2027-04-07,Gestion de projet agile,EXTERNE,31,1835.01
+2387,111,2027-04-08,Power BI et analyse de données,INTERNE,11,539.43
+2388,116,2027-04-08,Comptabilité analytique,INTERNE,27,445.32
+2389,94,2027-04-09,Gestion de projet agile,EXTERNE,16,1027.88
+2390,93,2027-04-09,Comptabilité analytique,INTERNE,16,544.00
+2391,69,2027-04-10,Power BI et analyse de données,INTERNE,29,355.61
+2392,11,2027-04-10,Excel avancé pour la finance,EXTERNE,8,1546.12
+2393,76,2027-04-11,Gestion de projet agile,E_LEARNING,19,220.81
+2394,42,2027-04-11,Excel avancé pour la finance,INTERNE,4,189.21
+2395,57,2027-04-12,Gestion de projet agile,INTERNE,17,198.94
+2396,34,2027-04-12,Power BI et analyse de données,INTERNE,10,353.88
+2397,113,2027-04-13,Négociation commerciale,E_LEARNING,14,60.98
+2398,13,2027-04-13,Gestion de projet agile,EXTERNE,16,2669.92
+2399,14,2027-04-14,Sécurité au travail,E_LEARNING,14,157.03
+2400,94,2027-04-14,Comptabilité analytique,E_LEARNING,13,145.99
+2401,79,2027-04-15,Service client de qualité,INTERNE,27,302.43
+2402,115,2027-04-15,Leadership et management,INTERNE,4,483.56
+2403,39,2027-04-16,Négociation commerciale,INTERNE,6,656.57
+2404,24,2027-04-16,Comptabilité analytique,E_LEARNING,16,250.56
+2405,10,2027-04-17,Comptabilité analytique,EXTERNE,24,569.28
+2406,15,2027-04-17,Power BI et analyse de données,EXTERNE,29,1547.95
+2407,63,2027-04-18,Leadership et management,EXTERNE,28,1887.42
+2408,41,2027-04-18,Excel avancé pour la finance,INTERNE,8,671.98
+2409,10,2027-04-19,Négociation commerciale,INTERNE,7,682.24
+2410,31,2027-04-19,Gestion de projet agile,INTERNE,15,718.69
+2411,81,2027-04-20,Excel avancé pour la finance,INTERNE,16,776.29
+2412,114,2027-04-20,Excel avancé pour la finance,INTERNE,29,885.71
+2413,46,2027-04-21,Gestion de projet agile,E_LEARNING,17,116.47
+2414,94,2027-04-21,Gestion de projet agile,INTERNE,6,222.16
+2415,64,2027-04-22,Sécurité au travail,INTERNE,20,409.19
+2416,40,2027-04-22,Power BI et analyse de données,EXTERNE,16,2913.92
+2417,72,2027-04-23,Service client de qualité,INTERNE,28,338.07
+2418,1,2027-04-23,Gestion de projet agile,INTERNE,29,345.36
+2419,118,2027-04-24,Négociation commerciale,E_LEARNING,27,71.72
+2420,3,2027-04-24,Sécurité au travail,E_LEARNING,19,123.32
+2421,81,2027-04-25,Leadership et management,EXTERNE,30,2767.98
+2422,110,2027-04-25,Sécurité au travail,E_LEARNING,21,264.50
+2423,96,2027-04-26,Comptabilité analytique,E_LEARNING,19,100.61
+2424,35,2027-04-26,Comptabilité analytique,E_LEARNING,13,69.61
+2425,49,2027-04-27,Négociation commerciale,E_LEARNING,4,184.77
+2426,19,2027-04-27,Gestion de projet agile,EXTERNE,15,2316.89
+2427,55,2027-04-28,Leadership et management,INTERNE,17,740.95
+2428,78,2027-04-28,Power BI et analyse de données,E_LEARNING,27,92.41
+2429,42,2027-04-29,Service client de qualité,INTERNE,31,775.20
+2430,57,2027-04-29,Gestion de projet agile,E_LEARNING,8,214.13
+2431,37,2027-04-30,Sécurité au travail,E_LEARNING,16,309.74
+2432,12,2027-04-30,Excel avancé pour la finance,E_LEARNING,23,90.50
+2433,85,2027-05-01,Sécurité au travail,INTERNE,28,695.99
+2434,38,2027-05-01,Gestion de projet agile,EXTERNE,23,630.90
+2435,38,2027-05-02,Leadership et management,EXTERNE,20,990.57
+2436,46,2027-05-02,Power BI et analyse de données,INTERNE,26,668.50
+2437,42,2027-05-03,Excel avancé pour la finance,EXTERNE,13,1712.06
+2438,57,2027-05-03,Leadership et management,E_LEARNING,33,180.48
+2439,32,2027-05-04,Leadership et management,E_LEARNING,29,268.24
+2440,14,2027-05-04,Service client de qualité,EXTERNE,21,1333.66
+2441,107,2027-05-05,Service client de qualité,EXTERNE,14,705.04
+2442,49,2027-05-05,Gestion de projet agile,E_LEARNING,10,333.20
+2443,8,2027-05-06,Power BI et analyse de données,EXTERNE,29,1626.37
+2444,85,2027-05-06,Comptabilité analytique,INTERNE,12,237.51
+2445,118,2027-05-07,Négociation commerciale,EXTERNE,28,622.35
+2446,100,2027-05-07,Sécurité au travail,E_LEARNING,14,176.22
+2447,2,2027-05-08,Négociation commerciale,E_LEARNING,12,254.85
+2448,63,2027-05-08,Leadership et management,EXTERNE,13,2866.58
+2449,99,2027-05-09,Négociation commerciale,INTERNE,22,384.65
+2450,118,2027-05-09,Leadership et management,E_LEARNING,18,285.10
+2451,61,2027-05-10,Sécurité au travail,INTERNE,20,476.98
+2452,86,2027-05-10,Service client de qualité,INTERNE,18,602.45
+2453,87,2027-05-11,Sécurité au travail,E_LEARNING,28,313.27
+2454,116,2027-05-11,Excel avancé pour la finance,INTERNE,28,741.02
+2455,71,2027-05-12,Comptabilité analytique,EXTERNE,22,2089.95
+2456,36,2027-05-12,Négociation commerciale,EXTERNE,28,1403.21
+2457,46,2027-05-13,Négociation commerciale,E_LEARNING,10,154.31
+2458,6,2027-05-13,Comptabilité analytique,INTERNE,19,163.55
+2459,106,2027-05-14,Leadership et management,INTERNE,17,639.16
+2460,3,2027-05-14,Sécurité au travail,INTERNE,28,726.04
+2461,59,2027-05-15,Négociation commerciale,INTERNE,17,486.74
+2462,5,2027-05-15,Service client de qualité,E_LEARNING,18,315.90
+2463,112,2027-05-16,Leadership et management,INTERNE,7,803.17
+2464,8,2027-05-16,Leadership et management,E_LEARNING,31,74.12
+2465,74,2027-05-17,Leadership et management,E_LEARNING,19,343.83
+2466,46,2027-05-17,Gestion de projet agile,E_LEARNING,23,94.97
+2467,93,2027-05-18,Gestion de projet agile,EXTERNE,17,702.73
+2468,4,2027-05-18,Sécurité au travail,E_LEARNING,12,105.93
+2469,14,2027-05-19,Comptabilité analytique,INTERNE,25,315.92
+2470,28,2027-05-19,Excel avancé pour la finance,EXTERNE,9,2490.35
+2471,51,2027-05-20,Power BI et analyse de données,E_LEARNING,13,266.00
+2472,78,2027-05-20,Sécurité au travail,INTERNE,33,519.87
+2473,87,2027-05-21,Négociation commerciale,INTERNE,21,247.07
+2474,17,2027-05-21,Power BI et analyse de données,INTERNE,30,599.45
+2475,59,2027-05-22,Power BI et analyse de données,EXTERNE,5,961.53
+2476,95,2027-05-22,Service client de qualité,EXTERNE,30,1992.71
+2477,39,2027-05-23,Excel avancé pour la finance,E_LEARNING,27,300.69
+2478,98,2027-05-23,Power BI et analyse de données,EXTERNE,30,1723.16
+2479,97,2027-05-24,Power BI et analyse de données,EXTERNE,8,2004.11
+2480,72,2027-05-24,Leadership et management,INTERNE,9,525.00
+2481,8,2027-05-25,Power BI et analyse de données,E_LEARNING,24,166.04
+2482,102,2027-05-25,Comptabilité analytique,INTERNE,26,452.15
+2483,110,2027-05-26,Sécurité au travail,INTERNE,19,321.17
+2484,98,2027-05-26,Gestion de projet agile,INTERNE,4,752.03
+2485,6,2027-05-27,Comptabilité analytique,E_LEARNING,24,349.21
+2486,112,2027-05-27,Sécurité au travail,EXTERNE,12,713.94
+2487,70,2027-05-28,Sécurité au travail,EXTERNE,10,2649.06
+2488,75,2027-05-28,Gestion de projet agile,EXTERNE,5,880.39
+2489,69,2027-05-29,Leadership et management,EXTERNE,5,1849.22
+2490,64,2027-05-29,Service client de qualité,INTERNE,33,150.64
+2491,43,2027-05-30,Comptabilité analytique,EXTERNE,20,1069.11
+2492,54,2027-05-30,Sécurité au travail,EXTERNE,13,1484.36
+2493,4,2027-05-31,Comptabilité analytique,E_LEARNING,32,185.68
+2494,48,2027-05-31,Négociation commerciale,EXTERNE,22,1525.31
+2495,24,2027-06-01,Leadership et management,E_LEARNING,25,60.66
+2496,120,2027-06-01,Power BI et analyse de données,E_LEARNING,8,272.65
+2497,28,2027-06-02,Négociation commerciale,E_LEARNING,33,75.34
+2498,55,2027-06-02,Gestion de projet agile,E_LEARNING,11,118.94
+2499,54,2027-06-03,Sécurité au travail,EXTERNE,13,1578.39
+2500,23,2027-06-03,Gestion de projet agile,EXTERNE,25,1526.18
+2501,105,2027-06-04,Négociation commerciale,INTERNE,12,601.79
+2502,38,2027-06-04,Sécurité au travail,EXTERNE,31,1568.71
+2503,48,2027-06-05,Power BI et analyse de données,E_LEARNING,23,86.96
+2504,85,2027-06-05,Gestion de projet agile,INTERNE,33,771.68
+2505,30,2027-06-06,Comptabilité analytique,E_LEARNING,26,192.35
+2506,12,2027-06-06,Excel avancé pour la finance,INTERNE,4,809.68
+2507,52,2027-06-07,Leadership et management,EXTERNE,13,893.28
+2508,97,2027-06-07,Power BI et analyse de données,EXTERNE,7,1673.66
+2509,4,2027-06-08,Service client de qualité,E_LEARNING,28,120.46
+2510,90,2027-06-08,Comptabilité analytique,INTERNE,9,367.72
+2511,19,2027-06-09,Power BI et analyse de données,E_LEARNING,19,212.39
+2512,16,2027-06-09,Gestion de projet agile,INTERNE,10,192.60
+2513,114,2027-06-10,Leadership et management,EXTERNE,19,985.36
+2514,48,2027-06-10,Comptabilité analytique,EXTERNE,25,1093.85
+2515,6,2027-06-11,Sécurité au travail,EXTERNE,18,979.98
+2516,64,2027-06-11,Gestion de projet agile,INTERNE,13,475.38
+2517,50,2027-06-12,Excel avancé pour la finance,EXTERNE,13,1625.27
+2518,33,2027-06-12,Leadership et management,E_LEARNING,30,316.71
+2519,96,2027-06-13,Leadership et management,INTERNE,7,848.50
+2520,40,2027-06-13,Leadership et management,E_LEARNING,12,56.18
+2521,26,2027-06-14,Power BI et analyse de données,E_LEARNING,21,52.32
+2522,34,2027-06-14,Négociation commerciale,EXTERNE,23,1522.74
+2523,13,2027-06-15,Leadership et management,INTERNE,4,529.94
+2524,77,2027-06-15,Négociation commerciale,EXTERNE,27,1236.72
+2525,11,2027-06-16,Sécurité au travail,EXTERNE,24,680.48
+2526,34,2027-06-16,Excel avancé pour la finance,INTERNE,28,799.38
+2527,110,2027-06-17,Excel avancé pour la finance,E_LEARNING,9,332.54
+2528,16,2027-06-17,Gestion de projet agile,E_LEARNING,32,259.90
+2529,80,2027-06-18,Excel avancé pour la finance,INTERNE,23,218.65
+2530,90,2027-06-18,Leadership et management,INTERNE,12,688.14
+2531,98,2027-06-19,Comptabilité analytique,E_LEARNING,20,153.76
+2532,5,2027-06-19,Gestion de projet agile,INTERNE,31,509.41
+2533,100,2027-06-20,Gestion de projet agile,EXTERNE,14,2484.99
+2534,112,2027-06-20,Service client de qualité,INTERNE,30,728.54
+2535,36,2027-06-21,Gestion de projet agile,INTERNE,10,845.29
+2536,2,2027-06-21,Power BI et analyse de données,INTERNE,22,261.86
+2537,23,2027-06-22,Excel avancé pour la finance,INTERNE,17,141.21
+2538,104,2027-06-22,Leadership et management,INTERNE,18,749.73
+2539,77,2027-06-23,Comptabilité analytique,E_LEARNING,26,178.31
+2540,102,2027-06-23,Leadership et management,E_LEARNING,10,203.06
+2541,103,2027-06-24,Excel avancé pour la finance,E_LEARNING,15,239.51
+2542,116,2027-06-24,Gestion de projet agile,E_LEARNING,20,280.15
+2543,24,2027-06-25,Négociation commerciale,E_LEARNING,14,71.63
+2544,39,2027-06-25,Négociation commerciale,EXTERNE,20,2808.70
+2545,118,2027-06-26,Gestion de projet agile,INTERNE,31,589.66
+2546,39,2027-06-26,Comptabilité analytique,E_LEARNING,26,169.82
+2547,86,2027-06-27,Gestion de projet agile,EXTERNE,12,1469.24
+2548,12,2027-06-27,Leadership et management,INTERNE,13,738.81
+2549,9,2027-06-28,Gestion de projet agile,E_LEARNING,13,231.40
+2550,12,2027-06-28,Excel avancé pour la finance,E_LEARNING,16,303.37
+2551,115,2027-06-29,Power BI et analyse de données,INTERNE,25,744.48
+2552,101,2027-06-29,Power BI et analyse de données,E_LEARNING,9,56.46
+2553,69,2027-06-30,Leadership et management,E_LEARNING,26,56.51
+2554,109,2027-06-30,Service client de qualité,EXTERNE,11,2408.16
+2555,3,2027-07-01,Excel avancé pour la finance,E_LEARNING,25,213.52
+2556,64,2027-07-01,Sécurité au travail,INTERNE,8,513.40
+2557,11,2027-07-02,Leadership et management,E_LEARNING,18,277.29
+2558,37,2027-07-02,Leadership et management,INTERNE,19,836.94
+2559,2,2027-07-03,Service client de qualité,INTERNE,22,600.07
+2560,28,2027-07-03,Service client de qualité,INTERNE,9,223.31
+2561,27,2027-07-04,Sécurité au travail,EXTERNE,21,1633.96
+2562,61,2027-07-04,Power BI et analyse de données,INTERNE,30,565.03
+2563,33,2027-07-05,Power BI et analyse de données,EXTERNE,22,928.07
+2564,3,2027-07-05,Comptabilité analytique,EXTERNE,21,1269.25
+2565,96,2027-07-06,Comptabilité analytique,INTERNE,32,301.25
+2566,54,2027-07-06,Excel avancé pour la finance,EXTERNE,7,1216.81
+2567,5,2027-07-07,Service client de qualité,EXTERNE,31,2461.89
+2568,24,2027-07-07,Service client de qualité,EXTERNE,31,2599.93
+2569,59,2027-07-08,Leadership et management,E_LEARNING,9,129.77
+2570,99,2027-07-08,Excel avancé pour la finance,INTERNE,18,178.74
+2571,12,2027-07-09,Service client de qualité,INTERNE,11,549.26
+2572,11,2027-07-09,Sécurité au travail,E_LEARNING,9,169.81
+2573,59,2027-07-10,Gestion de projet agile,INTERNE,32,571.95
+2574,9,2027-07-10,Gestion de projet agile,EXTERNE,29,792.36
+2575,2,2027-07-11,Sécurité au travail,E_LEARNING,13,90.94
+2576,88,2027-07-11,Négociation commerciale,INTERNE,31,782.51
+2577,61,2027-07-12,Power BI et analyse de données,E_LEARNING,29,115.15
+2578,62,2027-07-12,Excel avancé pour la finance,E_LEARNING,16,51.93
+2579,93,2027-07-13,Comptabilité analytique,E_LEARNING,23,260.52
+2580,73,2027-07-13,Comptabilité analytique,E_LEARNING,15,193.90
+2581,24,2027-07-14,Leadership et management,EXTERNE,13,2915.34
+2582,108,2027-07-14,Leadership et management,EXTERNE,10,1742.75
+2583,103,2027-07-15,Power BI et analyse de données,E_LEARNING,5,185.67
+2584,13,2027-07-15,Service client de qualité,INTERNE,9,312.82
+2585,97,2027-07-16,Gestion de projet agile,INTERNE,25,499.54
+2586,48,2027-07-16,Leadership et management,EXTERNE,12,518.42
+2587,24,2027-07-17,Excel avancé pour la finance,E_LEARNING,27,202.99
+2588,28,2027-07-17,Sécurité au travail,EXTERNE,14,1490.70
+2589,113,2027-07-18,Gestion de projet agile,EXTERNE,8,1976.62
+2590,57,2027-07-18,Sécurité au travail,EXTERNE,17,2781.31
+2591,30,2027-07-19,Gestion de projet agile,EXTERNE,7,1609.91
+2592,104,2027-07-19,Power BI et analyse de données,E_LEARNING,15,80.75
+2593,48,2027-07-20,Excel avancé pour la finance,EXTERNE,19,1269.30
+2594,118,2027-07-20,Négociation commerciale,E_LEARNING,26,343.10
+2595,74,2027-07-21,Comptabilité analytique,INTERNE,26,358.14
+2596,39,2027-07-21,Leadership et management,EXTERNE,4,1806.64
+2597,70,2027-07-22,Négociation commerciale,INTERNE,16,508.47
+2598,32,2027-07-22,Leadership et management,E_LEARNING,13,86.02
+2599,84,2027-07-23,Sécurité au travail,INTERNE,29,117.30
+2600,62,2027-07-23,Négociation commerciale,EXTERNE,13,2297.89
+2601,76,2027-07-24,Excel avancé pour la finance,E_LEARNING,7,199.38
+2602,22,2027-07-24,Sécurité au travail,EXTERNE,33,2183.45
+2603,46,2027-07-25,Leadership et management,E_LEARNING,21,122.14
+2604,51,2027-07-25,Service client de qualité,EXTERNE,26,586.83
+2605,112,2027-07-26,Négociation commerciale,EXTERNE,8,2499.12
+2606,72,2027-07-26,Leadership et management,EXTERNE,30,596.03
+2607,65,2027-07-27,Power BI et analyse de données,EXTERNE,29,1362.68
+2608,16,2027-07-27,Gestion de projet agile,EXTERNE,20,2120.57
+2609,77,2027-07-28,Power BI et analyse de données,INTERNE,29,327.39
+2610,106,2027-07-28,Excel avancé pour la finance,EXTERNE,27,2341.21
+2611,35,2027-07-29,Leadership et management,INTERNE,15,296.51
+2612,15,2027-07-29,Négociation commerciale,E_LEARNING,11,153.40
+2613,117,2027-07-30,Leadership et management,E_LEARNING,17,256.74
+2614,13,2027-07-30,Excel avancé pour la finance,EXTERNE,27,2347.66
+2615,47,2027-07-31,Power BI et analyse de données,E_LEARNING,26,246.53
+2616,1,2027-07-31,Power BI et analyse de données,INTERNE,20,630.97
+2617,82,2027-08-01,Excel avancé pour la finance,EXTERNE,33,2464.30
+2618,117,2027-08-01,Service client de qualité,EXTERNE,11,2132.02
+2619,59,2027-08-02,Négociation commerciale,EXTERNE,15,2902.96
+2620,83,2027-08-02,Comptabilité analytique,EXTERNE,6,779.86
+2621,41,2027-08-03,Gestion de projet agile,EXTERNE,20,1882.03
+2622,18,2027-08-03,Négociation commerciale,INTERNE,15,254.12
+2623,95,2027-08-04,Sécurité au travail,EXTERNE,11,2584.96
+2624,51,2027-08-04,Comptabilité analytique,EXTERNE,8,1275.74
+2625,16,2027-08-05,Power BI et analyse de données,E_LEARNING,9,58.38
+2626,76,2027-08-05,Sécurité au travail,INTERNE,27,744.24
+2627,77,2027-08-06,Négociation commerciale,E_LEARNING,15,60.65
+2628,9,2027-08-06,Excel avancé pour la finance,INTERNE,21,644.90
+2629,81,2027-08-07,Service client de qualité,INTERNE,25,132.41
+2630,3,2027-08-07,Négociation commerciale,E_LEARNING,22,123.73
+2631,52,2027-08-08,Gestion de projet agile,EXTERNE,14,2164.98
+2632,31,2027-08-08,Service client de qualité,INTERNE,29,591.42
+2633,69,2027-08-09,Power BI et analyse de données,E_LEARNING,16,113.71
+2634,100,2027-08-09,Excel avancé pour la finance,EXTERNE,29,2933.80
+2635,42,2027-08-10,Excel avancé pour la finance,E_LEARNING,24,150.25
+2636,76,2027-08-10,Comptabilité analytique,INTERNE,20,363.25
+2637,4,2027-08-11,Gestion de projet agile,INTERNE,5,236.33
+2638,82,2027-08-11,Power BI et analyse de données,E_LEARNING,6,166.59
+2639,84,2027-08-12,Sécurité au travail,INTERNE,17,764.46
+2640,96,2027-08-12,Négociation commerciale,EXTERNE,19,2139.61
+2641,85,2027-08-13,Gestion de projet agile,EXTERNE,25,1849.84
+2642,67,2027-08-13,Excel avancé pour la finance,INTERNE,6,129.98
+2643,117,2027-08-14,Comptabilité analytique,E_LEARNING,31,73.22
+2644,77,2027-08-14,Négociation commerciale,E_LEARNING,27,67.03
+2645,116,2027-08-15,Power BI et analyse de données,EXTERNE,20,2861.19
+2646,4,2027-08-15,Sécurité au travail,INTERNE,6,345.69
+2647,29,2027-08-16,Service client de qualité,INTERNE,11,484.39
+2648,74,2027-08-16,Power BI et analyse de données,EXTERNE,21,707.24
+2649,77,2027-08-17,Gestion de projet agile,E_LEARNING,25,204.49
+2650,50,2027-08-17,Sécurité au travail,EXTERNE,13,1528.55
+2651,17,2027-08-18,Comptabilité analytique,EXTERNE,22,2283.38
+2652,87,2027-08-18,Leadership et management,EXTERNE,27,1043.73
+2653,85,2027-08-19,Power BI et analyse de données,E_LEARNING,30,186.42
+2654,78,2027-08-19,Sécurité au travail,E_LEARNING,23,312.67
+2655,52,2027-08-20,Power BI et analyse de données,EXTERNE,26,2860.75
+2656,61,2027-08-20,Comptabilité analytique,E_LEARNING,14,75.36
+2657,48,2027-08-21,Service client de qualité,E_LEARNING,14,121.70
+2658,15,2027-08-21,Excel avancé pour la finance,E_LEARNING,22,337.43
+2659,111,2027-08-22,Comptabilité analytique,E_LEARNING,31,85.61
+2660,104,2027-08-22,Power BI et analyse de données,E_LEARNING,16,131.95
+2661,15,2027-08-23,Service client de qualité,E_LEARNING,21,77.07
+2662,89,2027-08-23,Comptabilité analytique,EXTERNE,5,2334.94
+2663,58,2027-08-24,Service client de qualité,INTERNE,5,646.54
+2664,32,2027-08-24,Sécurité au travail,INTERNE,20,363.97
+2665,4,2027-08-25,Gestion de projet agile,INTERNE,9,652.33
+2666,110,2027-08-25,Comptabilité analytique,EXTERNE,12,932.85
+2667,120,2027-08-26,Power BI et analyse de données,EXTERNE,13,2024.04
+2668,7,2027-08-26,Leadership et management,EXTERNE,13,772.39
+2669,76,2027-08-27,Leadership et management,E_LEARNING,23,222.56
+2670,112,2027-08-27,Comptabilité analytique,E_LEARNING,12,328.03
+2671,100,2027-08-28,Power BI et analyse de données,EXTERNE,23,1037.24
+2672,14,2027-08-28,Power BI et analyse de données,E_LEARNING,19,279.64
+2673,38,2027-08-29,Sécurité au travail,INTERNE,17,759.67
+2674,97,2027-08-29,Sécurité au travail,EXTERNE,12,1155.69
+2675,53,2027-08-30,Comptabilité analytique,EXTERNE,20,1701.65
+2676,90,2027-08-30,Leadership et management,INTERNE,9,290.43
+2677,81,2027-08-31,Leadership et management,EXTERNE,9,1258.65
+2678,111,2027-08-31,Gestion de projet agile,E_LEARNING,21,277.69
+2679,1,2027-09-01,Comptabilité analytique,E_LEARNING,22,263.75
+2680,89,2027-09-01,Sécurité au travail,EXTERNE,27,1814.64
+2681,30,2027-09-02,Service client de qualité,EXTERNE,29,1748.28
+2682,118,2027-09-02,Excel avancé pour la finance,EXTERNE,9,2250.21
+2683,113,2027-09-03,Excel avancé pour la finance,EXTERNE,25,1230.67
+2684,39,2027-09-03,Gestion de projet agile,E_LEARNING,17,343.08
+2685,70,2027-09-04,Leadership et management,E_LEARNING,30,341.26
+2686,21,2027-09-04,Excel avancé pour la finance,E_LEARNING,27,245.70
+2687,104,2027-09-05,Power BI et analyse de données,EXTERNE,10,1112.07
+2688,72,2027-09-05,Service client de qualité,INTERNE,29,585.06
+2689,63,2027-09-06,Power BI et analyse de données,E_LEARNING,15,303.06
+2690,12,2027-09-06,Sécurité au travail,E_LEARNING,10,310.31
+2691,83,2027-09-07,Excel avancé pour la finance,E_LEARNING,5,315.13
+2692,36,2027-09-07,Leadership et management,E_LEARNING,17,262.33
+2693,24,2027-09-08,Gestion de projet agile,E_LEARNING,6,109.48
+2694,90,2027-09-08,Sécurité au travail,INTERNE,33,471.89
+2695,45,2027-09-09,Power BI et analyse de données,EXTERNE,29,1720.39
+2696,107,2027-09-09,Leadership et management,E_LEARNING,8,71.52
+2697,112,2027-09-10,Sécurité au travail,EXTERNE,24,946.66
+2698,105,2027-09-10,Sécurité au travail,E_LEARNING,31,79.28
+2699,95,2027-09-11,Comptabilité analytique,EXTERNE,33,1916.12
+2700,109,2027-09-11,Sécurité au travail,E_LEARNING,29,286.38
+2701,51,2027-09-12,Sécurité au travail,E_LEARNING,26,213.48
+2702,61,2027-09-12,Négociation commerciale,E_LEARNING,4,144.03
+2703,59,2027-09-13,Excel avancé pour la finance,EXTERNE,21,2702.50
+2704,79,2027-09-13,Excel avancé pour la finance,EXTERNE,25,1288.92
+2705,46,2027-09-14,Gestion de projet agile,E_LEARNING,18,163.46
+2706,54,2027-09-14,Leadership et management,INTERNE,26,224.74
+2707,59,2027-09-15,Sécurité au travail,E_LEARNING,5,77.48
+2708,36,2027-09-15,Excel avancé pour la finance,INTERNE,31,294.35
+2709,59,2027-09-16,Leadership et management,E_LEARNING,18,71.05
+2710,105,2027-09-16,Leadership et management,INTERNE,15,466.85
+2711,13,2027-09-17,Sécurité au travail,INTERNE,18,362.67
+2712,19,2027-09-17,Service client de qualité,E_LEARNING,12,310.80
+2713,55,2027-09-18,Comptabilité analytique,EXTERNE,16,1760.31
+2714,30,2027-09-18,Négociation commerciale,E_LEARNING,16,149.91
+2715,49,2027-09-19,Comptabilité analytique,INTERNE,4,670.68
+2716,59,2027-09-19,Excel avancé pour la finance,INTERNE,12,317.23
+2717,64,2027-09-20,Gestion de projet agile,E_LEARNING,22,103.25
+2718,6,2027-09-20,Sécurité au travail,E_LEARNING,27,295.07
+2719,85,2027-09-21,Power BI et analyse de données,INTERNE,14,743.40
+2720,115,2027-09-21,Négociation commerciale,EXTERNE,19,2421.92
+2721,41,2027-09-22,Négociation commerciale,EXTERNE,17,1750.95
+2722,17,2027-09-22,Service client de qualité,INTERNE,9,300.95
+2723,86,2027-09-23,Comptabilité analytique,E_LEARNING,30,324.70
+2724,107,2027-09-23,Gestion de projet agile,E_LEARNING,20,220.92
+2725,28,2027-09-24,Sécurité au travail,EXTERNE,28,2568.57
+2726,84,2027-09-24,Négociation commerciale,E_LEARNING,20,54.24
+2727,52,2027-09-25,Leadership et management,INTERNE,17,736.81
+2728,79,2027-09-25,Sécurité au travail,E_LEARNING,22,256.22
+2729,74,2027-09-26,Leadership et management,E_LEARNING,27,191.04
+2730,119,2027-09-26,Gestion de projet agile,EXTERNE,24,1511.68
+2731,3,2027-09-27,Power BI et analyse de données,E_LEARNING,31,244.51
+2732,61,2027-09-27,Power BI et analyse de données,EXTERNE,4,526.61
+2733,4,2027-09-28,Sécurité au travail,INTERNE,30,215.90
+2734,6,2027-09-28,Comptabilité analytique,E_LEARNING,18,78.73
+2735,6,2027-09-29,Gestion de projet agile,E_LEARNING,16,68.83
+2736,11,2027-09-29,Excel avancé pour la finance,INTERNE,18,332.61
+2737,117,2027-09-30,Excel avancé pour la finance,E_LEARNING,15,235.97
+2738,120,2027-09-30,Service client de qualité,INTERNE,25,675.09
+2739,55,2027-10-01,Power BI et analyse de données,INTERNE,30,649.93
+2740,93,2027-10-01,Gestion de projet agile,E_LEARNING,29,124.22
+2741,89,2027-10-02,Sécurité au travail,E_LEARNING,17,307.49
+2742,117,2027-10-02,Service client de qualité,INTERNE,31,782.54
+2743,66,2027-10-03,Power BI et analyse de données,INTERNE,25,793.31
+2744,20,2027-10-03,Sécurité au travail,INTERNE,30,875.73
+2745,22,2027-10-04,Power BI et analyse de données,E_LEARNING,25,249.69
+2746,17,2027-10-04,Excel avancé pour la finance,E_LEARNING,5,97.69
+2747,80,2027-10-05,Leadership et management,E_LEARNING,17,264.40
+2748,24,2027-10-05,Service client de qualité,E_LEARNING,17,200.31
+2749,17,2027-10-06,Service client de qualité,INTERNE,33,405.84
+2750,117,2027-10-06,Service client de qualité,E_LEARNING,4,91.06
+2751,82,2027-10-07,Comptabilité analytique,E_LEARNING,12,337.81
+2752,109,2027-10-07,Sécurité au travail,EXTERNE,10,2541.97
+2753,54,2027-10-08,Service client de qualité,E_LEARNING,10,239.98
+2754,57,2027-10-08,Négociation commerciale,EXTERNE,12,1918.99
+2755,1,2027-10-09,Gestion de projet agile,EXTERNE,11,1315.41
+2756,104,2027-10-09,Excel avancé pour la finance,INTERNE,11,234.44
+2757,7,2027-10-10,Gestion de projet agile,E_LEARNING,31,233.94
+2758,43,2027-10-10,Service client de qualité,E_LEARNING,5,214.72
+2759,72,2027-10-11,Négociation commerciale,EXTERNE,26,2755.00
+2760,29,2027-10-11,Gestion de projet agile,EXTERNE,27,555.71
+2761,90,2027-10-12,Leadership et management,E_LEARNING,22,254.50
+2762,69,2027-10-12,Power BI et analyse de données,E_LEARNING,10,62.09
+2763,72,2027-10-13,Sécurité au travail,E_LEARNING,22,290.69
+2764,20,2027-10-13,Sécurité au travail,EXTERNE,10,2004.88
+2765,48,2027-10-14,Service client de qualité,INTERNE,20,838.20
+2766,117,2027-10-14,Service client de qualité,INTERNE,25,720.33
+2767,87,2027-10-15,Leadership et management,INTERNE,33,506.44
+2768,67,2027-10-15,Service client de qualité,INTERNE,8,865.32
+2769,45,2027-10-16,Comptabilité analytique,E_LEARNING,10,232.73
+2770,45,2027-10-16,Négociation commerciale,INTERNE,26,857.12
+2771,53,2027-10-17,Power BI et analyse de données,INTERNE,28,843.48
+2772,29,2027-10-17,Power BI et analyse de données,EXTERNE,21,2535.69
+2773,39,2027-10-18,Comptabilité analytique,INTERNE,26,282.37
+2774,106,2027-10-18,Comptabilité analytique,E_LEARNING,9,159.94
+2775,33,2027-10-19,Service client de qualité,INTERNE,25,197.50
+2776,52,2027-10-19,Service client de qualité,E_LEARNING,25,267.42
+2777,59,2027-10-20,Négociation commerciale,INTERNE,28,381.88
+2778,32,2027-10-20,Service client de qualité,INTERNE,6,586.17
+2779,100,2027-10-21,Leadership et management,INTERNE,29,710.31
+2780,30,2027-10-21,Excel avancé pour la finance,E_LEARNING,14,227.74
+2781,112,2027-10-22,Service client de qualité,E_LEARNING,4,195.39
+2782,49,2027-10-22,Service client de qualité,EXTERNE,7,2655.46
+2783,1,2027-10-23,Excel avancé pour la finance,EXTERNE,11,2891.69
+2784,3,2027-10-23,Leadership et management,INTERNE,4,571.43
+2785,112,2027-10-24,Service client de qualité,E_LEARNING,12,267.76
+2786,90,2027-10-24,Sécurité au travail,EXTERNE,27,1607.83
+2787,107,2027-10-25,Comptabilité analytique,INTERNE,25,290.14
+2788,1,2027-10-25,Service client de qualité,INTERNE,31,814.05
+2789,83,2027-10-26,Comptabilité analytique,E_LEARNING,22,280.12
+2790,115,2027-10-26,Service client de qualité,EXTERNE,10,1772.43
+2791,106,2027-10-27,Comptabilité analytique,E_LEARNING,7,152.43
+2792,43,2027-10-27,Service client de qualité,E_LEARNING,26,335.40
+2793,65,2027-10-28,Sécurité au travail,E_LEARNING,31,118.82
+2794,43,2027-10-28,Power BI et analyse de données,INTERNE,17,272.80
+2795,90,2027-10-29,Leadership et management,INTERNE,17,788.07
+2796,114,2027-10-29,Comptabilité analytique,INTERNE,25,211.10
+2797,64,2027-10-30,Service client de qualité,INTERNE,14,767.28
+2798,21,2027-10-30,Leadership et management,EXTERNE,5,1877.02
+2799,77,2027-10-31,Comptabilité analytique,EXTERNE,10,2387.92
+2800,18,2027-10-31,Négociation commerciale,EXTERNE,15,569.18
+2801,118,2027-11-01,Leadership et management,E_LEARNING,14,143.34
+2802,57,2027-11-01,Gestion de projet agile,EXTERNE,11,986.55
+2803,22,2027-11-02,Excel avancé pour la finance,INTERNE,20,467.28
+2804,75,2027-11-02,Comptabilité analytique,E_LEARNING,22,311.97
+2805,57,2027-11-03,Power BI et analyse de données,E_LEARNING,12,183.61
+2806,51,2027-11-03,Service client de qualité,E_LEARNING,18,261.39
+2807,13,2027-11-04,Comptabilité analytique,EXTERNE,24,769.75
+2808,54,2027-11-04,Leadership et management,E_LEARNING,13,328.63
+2809,86,2027-11-05,Gestion de projet agile,E_LEARNING,15,256.23
+2810,35,2027-11-05,Excel avancé pour la finance,EXTERNE,6,1222.07
+2811,23,2027-11-06,Comptabilité analytique,INTERNE,23,879.65
+2812,108,2027-11-06,Leadership et management,EXTERNE,9,1254.19
+2813,1,2027-11-07,Service client de qualité,INTERNE,21,224.06
+2814,3,2027-11-07,Leadership et management,EXTERNE,27,1585.82
+2815,104,2027-11-08,Sécurité au travail,INTERNE,11,858.89
+2816,114,2027-11-08,Gestion de projet agile,E_LEARNING,19,246.14
+2817,87,2027-11-09,Excel avancé pour la finance,EXTERNE,16,2557.35
+2818,108,2027-11-09,Power BI et analyse de données,INTERNE,28,872.16
+2819,46,2027-11-10,Négociation commerciale,INTERNE,18,662.90
+2820,9,2027-11-10,Excel avancé pour la finance,INTERNE,18,334.58
+2821,1,2027-11-11,Service client de qualité,INTERNE,24,520.34
+2822,75,2027-11-11,Comptabilité analytique,EXTERNE,10,2352.65
+2823,13,2027-11-12,Leadership et management,INTERNE,33,407.49
+2824,118,2027-11-12,Gestion de projet agile,E_LEARNING,16,307.81
+2825,11,2027-11-13,Excel avancé pour la finance,E_LEARNING,24,106.89
+2826,113,2027-11-13,Comptabilité analytique,INTERNE,30,785.42
+2827,75,2027-11-14,Comptabilité analytique,EXTERNE,23,2160.38
+2828,46,2027-11-14,Sécurité au travail,E_LEARNING,13,177.92
+2829,16,2027-11-15,Service client de qualité,EXTERNE,16,1890.04
+2830,63,2027-11-15,Leadership et management,E_LEARNING,4,201.61
+2831,63,2027-11-16,Comptabilité analytique,INTERNE,33,360.90
+2832,87,2027-11-16,Négociation commerciale,EXTERNE,28,1051.80
+2833,84,2027-11-17,Négociation commerciale,E_LEARNING,17,143.54
+2834,26,2027-11-17,Excel avancé pour la finance,INTERNE,23,328.86
+2835,53,2027-11-18,Sécurité au travail,EXTERNE,29,972.55
+2836,43,2027-11-18,Négociation commerciale,INTERNE,11,333.11
+2837,88,2027-11-19,Gestion de projet agile,E_LEARNING,9,310.62
+2838,90,2027-11-19,Sécurité au travail,INTERNE,27,554.10
+2839,62,2027-11-20,Gestion de projet agile,E_LEARNING,5,95.89
+2840,69,2027-11-20,Power BI et analyse de données,EXTERNE,6,2195.51
+2841,16,2027-11-21,Gestion de projet agile,EXTERNE,16,950.16
+2842,75,2027-11-21,Excel avancé pour la finance,EXTERNE,15,2483.27
+2843,103,2027-11-22,Comptabilité analytique,E_LEARNING,21,161.45
+2844,14,2027-11-22,Négociation commerciale,EXTERNE,16,977.00
+2845,86,2027-11-23,Comptabilité analytique,E_LEARNING,7,96.89
+2846,50,2027-11-23,Gestion de projet agile,EXTERNE,30,929.97
+2847,29,2027-11-24,Gestion de projet agile,E_LEARNING,21,260.53
+2848,93,2027-11-24,Sécurité au travail,E_LEARNING,8,144.94
+2849,14,2027-11-25,Comptabilité analytique,EXTERNE,31,1170.74
+2850,76,2027-11-25,Comptabilité analytique,INTERNE,28,766.79
+2851,84,2027-11-26,Comptabilité analytique,E_LEARNING,7,110.08
+2852,74,2027-11-26,Service client de qualité,EXTERNE,12,2601.18
+2853,38,2027-11-27,Power BI et analyse de données,INTERNE,15,127.46
+2854,120,2027-11-27,Sécurité au travail,E_LEARNING,13,169.19
+2855,7,2027-11-28,Leadership et management,INTERNE,23,649.47
+2856,63,2027-11-28,Leadership et management,EXTERNE,17,1852.07
+2857,46,2027-11-29,Leadership et management,INTERNE,5,755.50
+2858,109,2027-11-29,Service client de qualité,INTERNE,20,230.73
+2859,18,2027-11-30,Gestion de projet agile,INTERNE,5,842.16
+2860,64,2027-11-30,Comptabilité analytique,E_LEARNING,16,242.33
+2861,115,2027-12-01,Sécurité au travail,E_LEARNING,25,107.39
+2862,97,2027-12-01,Négociation commerciale,EXTERNE,4,1461.36
+2863,110,2027-12-02,Power BI et analyse de données,EXTERNE,20,2289.36
+2864,107,2027-12-02,Comptabilité analytique,INTERNE,15,324.49
+2865,35,2027-12-03,Leadership et management,EXTERNE,7,2931.76
+2866,65,2027-12-03,Power BI et analyse de données,E_LEARNING,6,215.28
+2867,62,2027-12-04,Négociation commerciale,E_LEARNING,11,132.86
+2868,76,2027-12-04,Gestion de projet agile,INTERNE,12,512.96
+2869,87,2027-12-05,Excel avancé pour la finance,INTERNE,13,324.87
+2870,57,2027-12-05,Leadership et management,EXTERNE,7,927.87
+2871,64,2027-12-06,Négociation commerciale,INTERNE,22,210.47
+2872,99,2027-12-06,Négociation commerciale,E_LEARNING,28,78.53
+2873,9,2027-12-07,Excel avancé pour la finance,INTERNE,9,688.82
+2874,14,2027-12-07,Sécurité au travail,EXTERNE,32,1794.94
+2875,93,2027-12-08,Excel avancé pour la finance,INTERNE,24,228.54
+2876,86,2027-12-08,Leadership et management,INTERNE,33,207.38
+2877,92,2027-12-09,Gestion de projet agile,EXTERNE,16,2837.27
+2878,49,2027-12-09,Négociation commerciale,INTERNE,5,397.74
+2879,88,2027-12-10,Sécurité au travail,EXTERNE,22,2426.02
+2880,1,2027-12-10,Sécurité au travail,E_LEARNING,11,323.60
+2881,93,2027-12-11,Leadership et management,INTERNE,25,899.99
+2882,100,2027-12-11,Power BI et analyse de données,INTERNE,28,392.87
+2883,43,2027-12-12,Power BI et analyse de données,EXTERNE,14,2971.17
+2884,104,2027-12-12,Excel avancé pour la finance,EXTERNE,17,578.32
+2885,93,2027-12-13,Sécurité au travail,E_LEARNING,6,53.47
+2886,97,2027-12-13,Service client de qualité,E_LEARNING,22,190.98
+2887,66,2027-12-14,Excel avancé pour la finance,INTERNE,6,356.32
+2888,47,2027-12-14,Gestion de projet agile,E_LEARNING,18,167.05
+2889,60,2027-12-15,Excel avancé pour la finance,INTERNE,21,592.98
+2890,38,2027-12-15,Gestion de projet agile,E_LEARNING,4,89.47
+2891,78,2027-12-16,Power BI et analyse de données,E_LEARNING,28,145.51
+2892,14,2027-12-16,Gestion de projet agile,EXTERNE,26,2069.56
+2893,105,2027-12-17,Gestion de projet agile,EXTERNE,8,2195.61
+2894,109,2027-12-17,Gestion de projet agile,EXTERNE,10,2627.87
+2895,75,2027-12-18,Comptabilité analytique,EXTERNE,23,2074.77
+2896,29,2027-12-18,Comptabilité analytique,INTERNE,31,326.25
+2897,82,2027-12-19,Gestion de projet agile,EXTERNE,29,711.31
+2898,111,2027-12-19,Excel avancé pour la finance,EXTERNE,33,2872.92
+2899,91,2027-12-20,Power BI et analyse de données,E_LEARNING,30,195.48
+2900,89,2027-12-20,Excel avancé pour la finance,INTERNE,13,593.38
+2901,11,2027-12-21,Gestion de projet agile,EXTERNE,20,2561.18
+2902,52,2027-12-21,Leadership et management,E_LEARNING,26,119.54
+2903,111,2027-12-22,Comptabilité analytique,E_LEARNING,16,224.37
+2904,79,2027-12-22,Service client de qualité,EXTERNE,21,2976.04
+2905,29,2027-12-23,Power BI et analyse de données,INTERNE,31,598.18
+2906,48,2027-12-23,Sécurité au travail,INTERNE,22,785.17
+2907,56,2027-12-24,Sécurité au travail,E_LEARNING,22,339.41
+2908,117,2027-12-24,Comptabilité analytique,E_LEARNING,11,297.58
+2909,44,2027-12-25,Service client de qualité,INTERNE,24,780.37
+2910,23,2027-12-25,Power BI et analyse de données,EXTERNE,21,2749.04
+2911,89,2027-12-26,Gestion de projet agile,E_LEARNING,17,131.15
+2912,117,2027-12-26,Power BI et analyse de données,INTERNE,11,419.38
+2913,33,2027-12-27,Négociation commerciale,INTERNE,16,202.21
+2914,49,2027-12-27,Négociation commerciale,EXTERNE,29,1581.65
+2915,72,2027-12-28,Service client de qualité,EXTERNE,26,823.57
+2916,46,2027-12-28,Sécurité au travail,EXTERNE,15,2426.44
+2917,86,2027-12-29,Excel avancé pour la finance,INTERNE,24,217.22
+2918,84,2027-12-29,Leadership et management,INTERNE,24,804.33
+2919,45,2027-12-30,Excel avancé pour la finance,INTERNE,16,101.16
+2920,93,2027-12-30,Négociation commerciale,E_LEARNING,10,111.54
+2921,46,2027-12-31,Power BI et analyse de données,INTERNE,29,268.30
+2922,60,2027-12-31,Gestion de projet agile,E_LEARNING,7,185.16

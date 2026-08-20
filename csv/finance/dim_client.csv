@@ -1,0 +1,66 @@
+﻿client_id,nom_client,secteur,region,ville,date_creation,segment
+1,Congo Telecom SA,Telecom,Kinshasa,Kinshasa,2021-03-12,Grand Compte
+2,Banque Baobab,Finance,Kinshasa,Kinshasa,2020-01-20,Grand Compte
+3,AgriKivu Coop,Agro,Nord-Kivu,Goma,2022-05-08,PME
+4,Clinique MediPlus,Sante,Lubumbashi,Lubumbashi,2021-09-15,PME
+5,TransKivu Logistique,Transport,Nord-Kivu,Goma,2020-07-02,Grand Compte
+6,Ecole La Fontaine,Education,Kinshasa,Kinshasa,2023-01-10,PME
+7,Hotel Lumumba Palace,Hotellerie,Kinshasa,Kinshasa,2019-11-25,Grand Compte
+8,Minoterie du Kongo,Industrie,Bas-Congo,Matadi,2021-02-14,Grand Compte
+9,SuperMarché Tropicana,Commerce,Lubumbashi,Lubumbashi,2022-08-30,PME
+10,Agence Media7,Media,Kinshasa,Kinshasa,2020-04-18,PME
+11,Brewery Virunga,Industrie,Nord-Kivu,Goma,2018-06-22,Grand Compte
+12,Pharmacie Uzima,Sante,Sud-Kivu,Bukavu,2022-02-09,PME
+13,Ferme de la Nsele,Agro,Kinshasa,Kinshasa,2021-10-05,PME
+14,Université CEPROMAD,Education,Kinshasa,Kinshasa,2019-08-19,Grand Compte
+15,TaxiBus Green,Transport,Kinshasa,Kinshasa,2023-03-27,PME
+16,Imprimerie CongoPress,Media,Kinshasa,Kinshasa,2020-12-11,PME
+17,Construction Bati-Congo,BTP,Kinshasa,Kinshasa,2021-06-01,Grand Compte
+18,Cimenterie Kimpese,Industrie,Bas-Congo,Kikwit,2019-03-08,Grand Compte
+19,Cabinet JurisLex,Services,Kinshasa,Kinshasa,2022-04-26,PME
+20,EcoCarburant SARL,Energie,Kinshasa,Kinshasa,2020-09-13,Grand Compte
+21,Poissonnerie du Lac,Agro,Sud-Kivu,Bukavu,2023-02-16,PME
+22,Fabrique Textile Kivu,Industrie,Nord-Kivu,Goma,2021-11-07,PME
+23,Agence Immobilière KIN,Immobilier,Kinshasa,Kinshasa,2018-10-29,Grand Compte
+24,Clinique Dentaire Smile,Sante,Kinshasa,Kinshasa,2022-07-21,PME
+25,Logistique Port Matadi,Transport,Bas-Congo,Matadi,2020-02-06,Grand Compte
+26,Supermarché CityMarket,Commerce,Kinshasa,Kinshasa,2021-05-17,PME
+27,Microfinance SIKA,Finance,Kinshasa,Kinshasa,2020-08-24,PME
+28,Boulangerie du Matin,Commerce,Kinshasa,Kinshasa,2023-05-12,PME
+29,Electricité Kivu Power,Energie,Nord-Kivu,Goma,2019-12-03,Grand Compte
+30,École Technique Mabanga,Education,Lubumbashi,Lubumbashi,2022-09-28,PME
+31,Transport Katanga,Transport,Lubumbashi,Lubumbashi,2021-01-15,PME
+32,Société Minière Kazibaze,Industrie,Lubumbashi,Kolwezi,2018-05-04,Grand Compte
+33,Hôtel Bel Air,Hotellerie,Kinshasa,Kinshasa,2022-11-19,PME
+34,Safari Lodge Virunga,Tourisme,Nord-Kivu,Goma,2021-07-30,PME
+35,Restaurant Saveurs d'Af,Commerce,Kinshasa,Kinshasa,2023-04-03,PME
+36,Cabinet Audit KPM DRC,Services,Kinshasa,Kinshasa,2019-09-09,Grand Compte
+37,AgroTrading Bas-Congo,Agro,Bas-Congo,Matadi,2020-10-27,PME
+38,Clinique Mère-Enfant,Sante,Kinshasa,Kinshasa,2021-12-14,PME
+39,Usine Plastique KIN,Industrie,Kinshasa,Kinshasa,2019-02-11,Grand Compte
+40,Distillerie du Fleuve,Industrie,Kinshasa,Kinshasa,2018-08-07,Grand Compte
+41,Groupe Presse Lumière,Media,Lubumbashi,Lubumbashi,2020-06-23,PME
+42,Ferme Avicole Étoile,Agro,Kinshasa,Kinshasa,2022-03-31,PME
+43,Société BTP Matadi,BTP,Bas-Congo,Matadi,2021-08-09,PME
+44,Compagnie Aérienne DCong,Transport,Kinshasa,Kinshasa,2019-04-16,Grand Compte
+45,Banque Intérim,Finance,Kinshasa,Kinshasa,2020-11-02,Grand Compte
+46,Réseau Pharmacies Congo,Sante,Kinshasa,Kinshasa,2021-03-19,Grand Compte
+47,Supermarché Kongo Market,Commerce,Bas-Congo,Matadi,2022-01-25,PME
+48,Université Saint Augustin,Education,Lubumbashi,Lubumbashi,2019-07-07,PME
+49,Hôtel Riviera Goma,Hotellerie,Nord-Kivu,Goma,2020-05-05,PME
+50,Cabinet Fiscal Expertis,Services,Kinshasa,Kinshasa,2021-04-13,PME
+51,AgroSécurité Sarl,Agro,Sud-Kivu,Bukavu,2022-06-06,PME
+52,Câblerie du Congo,Industrie,Kinshasa,Kinshasa,2018-12-28,Grand Compte
+53,Pharma Express Bukavu,Sante,Sud-Kivu,Bukavu,2021-09-21,PME
+54,Transport Fleuve Congo,Transport,Kinshasa,Kinshasa,2020-03-09,PME
+55,Brasserie du Kasaï,Industrie,Kinshasa,Mbuji-Mayi,2019-10-30,PME
+56,École Internationale KIN,Education,Kinshasa,Kinshasa,2023-01-04,PME
+57,Mines d'Étain Kamituga,Industrie,Sud-Kivu,Bukavu,2018-09-17,Grand Compte
+58,Coopérative Café Kivu,Agro,Sud-Kivu,Bukavu,2021-06-28,PME
+59,Hôtel Karibu Lubumbashi,Hotellerie,Lubumbashi,Lubumbashi,2020-07-11,PME
+60,Papeterie EcolePlus,Commerce,Kinshasa,Kinshasa,2022-05-15,PME
+61,Gaz & Pétrole Congo,Energie,Kinshasa,Kinshasa,2019-05-20,Grand Compte
+62,Cabinet d'Architecture,BTP,Kinshasa,Kinshasa,2021-10-08,PME
+63,Ferme Laitière Kiwa,Agro,Sud-Kivu,Bukavu,2022-08-22,PME
+64,Société Pêche Maritime,Agro,Bas-Congo,Matadi,2021-11-16,PME
+65,Kiosque Numérique KIN,Telecom,Kinshasa,Kinshasa,2023-06-19,PME

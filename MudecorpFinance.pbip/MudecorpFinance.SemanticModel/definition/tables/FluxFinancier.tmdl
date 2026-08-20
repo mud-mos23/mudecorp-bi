@@ -1,0 +1,167 @@
+table FluxFinancier
+	lineageTag: 0ab063c9-0f01-4c5d-b24b-2ae044dc208f
+
+	measure 'Total Revenus' = CALCULATE(SUM(FluxFinancier[Montant]), FluxFinancier[TypeFlux] = "REVENU", FluxFinancier[Statut] = "VALIDE")
+		formatString: '$#,##0.00'
+		displayFolder: Indicateurs
+		lineageTag: 266504d1-abbd-4f5b-9374-1dee28d65ea3
+
+	measure 'Total Dépenses' = CALCULATE(SUM(FluxFinancier[Montant]), FluxFinancier[TypeFlux] = "DEPENSE", FluxFinancier[Statut] = "VALIDE")
+		formatString: '$#,##0.00'
+		displayFolder: Indicateurs
+		lineageTag: efd87e77-4017-41a8-a222-e1dc47b4897e
+
+	measure 'Résultat Net' = [Total Revenus] - [Total Dépenses]
+		formatString: '$#,##0.00'
+		displayFolder: Indicateurs
+		lineageTag: 314587d3-01ca-41c5-8b46-1556753fa49f
+
+	measure 'Marge Nette %' = DIVIDE([Résultat Net], [Total Revenus], 0)
+		formatString: '0.0%'
+		displayFolder: Indicateurs
+		lineageTag: d75fe53e-79a1-4bb7-8bce-5e826182dd13
+
+	measure 'Nb Transactions' = COUNT(FluxFinancier[TxId])
+		formatString: '#,##0'
+		displayFolder: Indicateurs
+		lineageTag: 953c5067-d9ce-4206-b461-b06a09308172
+
+	measure 'Panier Moyen' = DIVIDE([Total Revenus], [Nb Transactions])
+		formatString: '$#,##0.00'
+		displayFolder: Indicateurs
+		lineageTag: dceb2988-a1c3-46e9-86dd-cf403e89e78d
+
+	measure 'Revenus Mois Précédent' = CALCULATE([Total Revenus], PREVIOUSMONTH(Calendrier[DateId]))
+		formatString: '$#,##0.00'
+		displayFolder: Indicateurs
+		lineageTag: e3ff7574-2bed-438c-b636-43b78fe8af0e
+
+	measure 'Variation Revenus %' = DIVIDE([Total Revenus] - [Revenus Mois Précédent], [Revenus Mois Précédent], 0)
+		formatString: '0.0%;(0.0%)'
+		displayFolder: Indicateurs
+		lineageTag: 8a385d3a-22c5-42c3-985b-b3e57b7a8434
+
+	column TxId
+		dataType: int64
+		lineageTag: a61349a1-e7f6-4de0-9c33-b280b80ac89b
+		summarizeBy: none
+		sourceColumn: tx_id
+
+	column DateTx
+		dataType: dateTime
+		formatString: dd/mm/yyyy
+		lineageTag: e4c4ecc3-6d92-4d45-8d73-994cf25c6c03
+		summarizeBy: none
+		sourceColumn: date_tx
+
+	column Annee
+		dataType: int64
+		lineageTag: e27ad7b3-b6a9-4be1-9929-b03bb2450c7d
+		summarizeBy: none
+		sourceColumn: annee
+
+	column Mois
+		dataType: int64
+		lineageTag: 3e1248d4-9e74-480e-b014-e1a832a12c13
+		summarizeBy: none
+		sourceColumn: mois
+
+	column NomMois
+		dataType: string
+		lineageTag: 9eb6c823-9a82-4bb9-8c0f-54ec865cf3d3
+		summarizeBy: none
+		sourceColumn: nom_mois
+
+	column Trimestre
+		dataType: int64
+		lineageTag: 551a3ae8-fb72-48a9-a2da-a2a1b3d635aa
+		summarizeBy: none
+		sourceColumn: trimestre
+
+	column CodeCompte
+		dataType: string
+		lineageTag: 79522b5b-c33c-4457-bd0c-8eb87ede2f55
+		summarizeBy: none
+		sourceColumn: code_compte
+
+	column Compte
+		dataType: string
+		lineageTag: 6d40a444-5f1f-4980-b237-4820293fc3f6
+		summarizeBy: none
+		sourceColumn: compte
+
+	column Groupe
+		dataType: string
+		lineageTag: 3d3d1454-1ae6-4276-9cf4-b85ce2458684
+		summarizeBy: none
+		sourceColumn: groupe
+
+	column TypeFlux
+		dataType: string
+		lineageTag: 02d1becb-9732-4e28-a44d-be339deb28c9
+		summarizeBy: none
+		sourceColumn: type_flux
+
+	column Client
+		dataType: string
+		lineageTag: 7a708792-c63a-43fb-9d8e-ddd0e1b22bbf
+		summarizeBy: none
+		sourceColumn: client
+
+	column Secteur
+		dataType: string
+		lineageTag: 601cc982-7bc4-4fdf-92a3-4a058a9f6b46
+		summarizeBy: none
+		sourceColumn: secteur
+
+	column Region
+		dataType: string
+		lineageTag: 22d5e8d9-38bf-4608-be61-e98c1be1bd8b
+		summarizeBy: none
+		sourceColumn: region
+
+	column Ville
+		dataType: string
+		lineageTag: 42014f0a-fe55-43b6-b1c9-0ceea7d73335
+		summarizeBy: none
+		sourceColumn: ville
+
+	column Segment
+		dataType: string
+		lineageTag: 34610539-56c4-43e0-b60c-94559d52a143
+		summarizeBy: none
+		sourceColumn: segment
+
+	column Montant
+		dataType: decimal
+		formatString: '$#,##0.00'
+		lineageTag: d5a29427-d471-497f-b242-7fded621b3c5
+		summarizeBy: sum
+		sourceColumn: montant
+
+	column ModePaiement
+		dataType: string
+		lineageTag: 05fb0e49-2753-48d0-844e-be77b654a142
+		summarizeBy: none
+		sourceColumn: mode_paiement
+
+	column Statut
+		dataType: string
+		lineageTag: 6d213a25-1b2c-4f44-a68f-ae1b4576d579
+		summarizeBy: none
+		sourceColumn: statut
+
+	column Description
+		dataType: string
+		lineageTag: 2e941190-bd3e-436d-a216-517a69bfa805
+		summarizeBy: none
+		sourceColumn: description
+
+	partition FluxFinancier = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("localhost", "bi_finance", [ReturnSingleDatabase = true, Query = "SELECT * FROM mv_flux_financier"])
+				in
+				    Source
+

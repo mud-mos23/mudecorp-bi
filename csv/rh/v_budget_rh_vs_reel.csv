@@ -1,0 +1,11 @@
+﻿departement_id,nom_departement,budget_annuel,annee,realise
+1,Direction Générale,2500000.00,NULL,985128.66
+2,Finance & Comptabilité,3800000.00,NULL,454804.57
+3,Ventes & Marketing,4200000.00,NULL,670454.20
+4,Ressources Humaines,1800000.00,NULL,612298.95
+5,Production,5100000.00,NULL,826899.24
+6,Logistique,2900000.00,NULL,796308.07
+7,Informatique (IT),2200000.00,NULL,940309.87
+8,Support Client,1600000.00,NULL,713303.17
+9,Recherche & Développement,3500000.00,NULL,1040035.00
+10,Juridique,1500000.00,NULL,1709728.69

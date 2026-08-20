@@ -1,0 +1,36 @@
+﻿code_produit,produit,categorie,sous_categorie,quantite_vendue,chiffre_affaires,marge_brute
+AGD-001,Sac riz 50kg,Agroalimentaire,Céréales,9185,517467.30,165330.00
+AGD-002,Huile de palme 20L,Agroalimentaire,Huiles,9076,661203.75,208748.00
+AGD-003,Café arabica 1kg,Agroalimentaire,Boissons,9887,209880.00,108757.00
+AGD-004,Cacao pur 5kg,Agroalimentaire,Cacao,8573,789079.50,282909.00
+AGD-005,Sucre de canne 25kg,Agroalimentaire,Sucres,9873,400665.30,138222.00
+BTP-001,"Ciment CPJ 42,5 (sac)",BTP,Matériaux,9210,107195.40,36840.00
+BTP-002,Fer à béton 12mm (6m),BTP,Matériaux,9035,158158.80,54210.00
+BTP-003,Peinture acrylique 20L,BTP,Peintures,8679,1010784.00,390555.00
+BTP-004,Carrelage 60x60 m²,BTP,Revêtements,8843,275296.00,106116.00
+BTP-005,Tôle bac acier,BTP,Couverture,9411,247160.70,94110.00
+ELC-001,Smartphone Neo X1,Électronique,Téléphones,9596,4636533.35,1813644.00
+ELC-002,Ordinateur PortPro 14,Électronique,Ordinateurs,8958,7808669.05,2768022.00
+ELC-003,Tablette TabMini,Électronique,Tablettes,9785,2359922.40,968715.00
+ELC-004,Casque AudioMax,Électronique,Audio,9026,1131942.75,514482.00
+ELC-005,"Écran ViewPro 27""",Électronique,Écrans,9341,3169216.65,1204989.00
+ELE-001,Réfrigérateur FrostFree,Électroménager,Froid,9030,6121457.55,2429070.00
+ELE-002,Lave-linge TurboClean,Électroménager,Lavage,8184,4361365.80,1710456.00
+ELE-003,Cuisinière GazPro 4,Électroménager,Cuisson,8241,3104356.15,1227909.00
+ELE-004,Micro-ondes QuickHeat,Électroménager,Cuisson,9033,1308234.90,551013.00
+ELE-005,Climatiseur CoolAir 2.5,Électroménager,Climatisation,9637,7481556.35,2881463.00
+JOU-001,Poupée traditionnelle,Jouets,Poupées,9377,136356.75,84393.00
+JOU-002,Voiture télécommandée,Jouets,Voitures,9170,398414.25,192570.00
+JOU-003,Lego City 500 pièces,Jouets,Construction,9405,593388.25,291555.00
+JOU-004,Ballon de foot officiel,Jouets,Sports,9711,329157.50,184509.00
+JOU-005,Trottinette enfant,Jouets,Mobilité,9564,729896.80,353868.00
+MOB-001,Canapé 3 places Milano,Mobilier,Salon,8748,7608416.80,3315492.00
+MOB-002,Table à manger 6 pers.,Mobilier,Salle à manger,8977,3980952.90,1696653.00
+MOB-003,Lit double BoisMassif,Mobilier,Chambre,9510,5971676.15,2558190.00
+MOB-004,Armoire 4 portes,Mobilier,Chambre,9031,4825298.25,1977789.00
+MOB-005,Bureau executive,Mobilier,Bureau,9433,3465594.95,1499847.00
+TXT-001,Pagne wax 6 yards,Textile,Pagnes,9274,406865.25,213302.00
+TXT-002,Costume homme coupe,Textile,Vêtements,9539,1748902.05,896666.00
+TXT-003,Chaussures cuir femme,Textile,Chaussures,8810,761755.45,387640.00
+TXT-004,Sac à main cousu main,Textile,Accessoires,9413,631136.10,348281.00
+TXT-005,Tapis traditionnel 3m,Textile,Décoration,9816,1512972.45,726384.00

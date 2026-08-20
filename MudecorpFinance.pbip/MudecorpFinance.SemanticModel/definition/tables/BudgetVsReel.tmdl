@@ -1,0 +1,70 @@
+table BudgetVsReel
+	lineageTag: 6d05a303-3b47-4be0-a894-f674a1ce113d
+
+	measure 'Budget Total' = SUM(BudgetVsReel[Budget])
+		formatString: '$#,##0.00'
+		displayFolder: Budget
+		lineageTag: a354e02e-e2a5-4a48-aee4-1807ab90afa4
+
+	measure 'Réalisé Total' = SUM(BudgetVsReel[Realise])
+		formatString: '$#,##0.00'
+		displayFolder: Budget
+		lineageTag: 0f49ffff-cb56-4ff9-929b-39a081d1448f
+
+	measure 'Réalisation Budget %' = DIVIDE([Réalisé Total], [Budget Total], 0)
+		formatString: '0.0%;(0.0%)'
+		displayFolder: Budget
+		lineageTag: 36ac6028-5d35-45a8-9d31-ba48238b8429
+
+	column Annee
+		dataType: int64
+		lineageTag: fe44211c-7e68-4ce4-83d0-96db2942c0ec
+		summarizeBy: none
+		sourceColumn: annee
+
+	column Mois
+		dataType: int64
+		lineageTag: 6eab44e1-e709-4efa-97be-d775d2d5a927
+		summarizeBy: none
+		sourceColumn: mois
+
+	column Compte
+		dataType: string
+		lineageTag: 0f6a7239-f603-4350-9ac5-83e5d94d47e4
+		summarizeBy: none
+		sourceColumn: compte
+
+	column Groupe
+		dataType: string
+		lineageTag: 9b34ed13-f962-4d1d-adad-5415470eded9
+		summarizeBy: none
+		sourceColumn: groupe
+
+	column TypeFlux
+		dataType: string
+		lineageTag: c800d63f-1afc-4828-9b55-dfb239ff2bea
+		summarizeBy: none
+		sourceColumn: type_flux
+
+	column Budget
+		dataType: decimal
+		formatString: '$#,##0.00'
+		lineageTag: 320008ad-8846-45fa-9fcd-caf74db481df
+		summarizeBy: sum
+		sourceColumn: budget
+
+	column Realise
+		dataType: decimal
+		formatString: '$#,##0.00'
+		lineageTag: cea95f4b-a57c-450a-af5e-3d3ef41124c0
+		summarizeBy: sum
+		sourceColumn: realise
+
+	partition BudgetVsReel = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("localhost", "bi_finance", [ReturnSingleDatabase = true, Query = "SELECT * FROM mv_budget_vs_reel"])
+				in
+				    Source
+

@@ -1,0 +1,61 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 50,
+            "y": 100
+          },
+          "nodeIndex": "Calendrier",
+          "nodeLineageTag": "35cd9a05-95f2-4d14-a1f5-94deee9b2bdf",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 400,
+            "y": 20
+          },
+          "nodeIndex": "FluxFinancier",
+          "nodeLineageTag": "0ab063c9-0f01-4c5d-b24b-2ae044dc208f",
+          "size": {
+            "height": 320,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 780,
+            "y": 100
+          },
+          "nodeIndex": "BudgetVsReel",
+          "nodeLineageTag": "6d05a303-3b47-4be0-a894-f674a1ce113d",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

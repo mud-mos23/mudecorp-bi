@@ -1,0 +1,36 @@
+﻿produit_id,code_produit,produit,categorie,stock_disponible,quantite_vendue
+1,ELC-001,Smartphone Neo X1,Électronique,-3539,9596
+2,ELC-002,Ordinateur PortPro 14,Électronique,-3144,8958
+3,ELC-003,Tablette TabMini,Électronique,-5552,9785
+4,ELC-004,Casque AudioMax,Électronique,-3322,9026
+5,ELC-005,"Écran ViewPro 27""",Électronique,-5003,9341
+6,ELE-001,Réfrigérateur FrostFree,Électroménager,-5443,9030
+7,ELE-002,Lave-linge TurboClean,Électroménager,-4069,8184
+8,ELE-003,Cuisinière GazPro 4,Électroménager,-4214,8241
+9,ELE-004,Micro-ondes QuickHeat,Électroménager,-2753,9033
+10,ELE-005,Climatiseur CoolAir 2.5,Électroménager,-7517,9637
+11,MOB-001,Canapé 3 places Milano,Mobilier,-4266,8748
+12,MOB-002,Table à manger 6 pers.,Mobilier,-3276,8977
+13,MOB-003,Lit double BoisMassif,Mobilier,-4965,9510
+14,MOB-004,Armoire 4 portes,Mobilier,-5093,9031
+15,MOB-005,Bureau executive,Mobilier,-6820,9433
+16,TXT-001,Pagne wax 6 yards,Textile,-4222,9274
+17,TXT-002,Costume homme coupe,Textile,-4815,9539
+18,TXT-003,Chaussures cuir femme,Textile,-3067,8810
+19,TXT-004,Sac à main cousu main,Textile,-2754,9413
+20,TXT-005,Tapis traditionnel 3m,Textile,-5882,9816
+21,AGD-001,Sac riz 50kg,Agroalimentaire,-4216,9185
+22,AGD-002,Huile de palme 20L,Agroalimentaire,-2731,9076
+23,AGD-003,Café arabica 1kg,Agroalimentaire,-3347,9887
+24,AGD-004,Cacao pur 5kg,Agroalimentaire,-5858,8573
+25,AGD-005,Sucre de canne 25kg,Agroalimentaire,-6217,9873
+26,BTP-001,"Ciment CPJ 42,5 (sac)",BTP,-3602,9210
+27,BTP-002,Fer à béton 12mm (6m),BTP,-2627,9035
+28,BTP-003,Peinture acrylique 20L,BTP,-4302,8679
+29,BTP-004,Carrelage 60x60 m²,BTP,-3734,8843
+30,BTP-005,Tôle bac acier,BTP,-4735,9411
+31,JOU-001,Poupée traditionnelle,Jouets,-5419,9377
+32,JOU-002,Voiture télécommandée,Jouets,-3797,9170
+33,JOU-003,Lego City 500 pièces,Jouets,-2944,9405
+34,JOU-004,Ballon de foot officiel,Jouets,-5525,9711
+35,JOU-005,Trottinette enfant,Jouets,-6657,9564

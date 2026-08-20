@@ -1,0 +1,263 @@
+﻿annee,mois,type_absence,departement,nb_absences,jours_perdus
+2024,1,MALADIE,Support Client,1,1
+2024,1,CONGE_PAYE,Production,1,7
+2024,1,CONGE_PAYE,Support Client,1,7
+2024,2,CONGE_PAYE,Informatique (IT),1,12
+2024,2,CONGE_PAYE,Support Client,1,10
+2024,2,AUTORISATION,Production,1,1
+2024,3,MALADIE,Informatique (IT),1,9
+2024,3,CONGE_PAYE,Support Client,1,5
+2024,3,INJUSTIFIEE,Recherche & Développement,1,1
+2024,4,MALADIE,Juridique,1,2
+2024,4,CONGE_PAYE,Ressources Humaines,1,5
+2024,4,CONGE_PAYE,Support Client,1,3
+2024,4,AUTORISATION,Ressources Humaines,1,2
+2024,4,CONGE_MATERNITE,Finance & Comptabilité,1,80
+2024,4,INJUSTIFIEE,Informatique (IT),1,1
+2024,4,INJUSTIFIEE,Juridique,1,1
+2024,5,MALADIE,Support Client,1,5
+2024,5,CONGE_PAYE,Juridique,1,3
+2024,5,AUTORISATION,Informatique (IT),1,2
+2024,5,INJUSTIFIEE,Juridique,1,1
+2024,5,INJUSTIFIEE,Support Client,2,2
+2024,6,MALADIE,Ressources Humaines,1,6
+2024,6,AUTORISATION,Informatique (IT),1,1
+2024,6,AUTORISATION,Production,1,1
+2024,6,INJUSTIFIEE,Finance & Comptabilité,1,1
+2024,7,MALADIE,Support Client,1,4
+2024,7,CONGE_PAYE,Logistique,1,8
+2024,7,CONGE_PAYE,Recherche & Développement,1,4
+2024,7,CONGE_MATERNITE,Logistique,1,67
+2024,7,CONGE_MATERNITE,Production,1,76
+2024,8,MALADIE,Finance & Comptabilité,1,5
+2024,8,CONGE_PAYE,Direction Générale,1,4
+2024,8,CONGE_PAYE,Informatique (IT),1,12
+2024,8,CONGE_PAYE,Ventes & Marketing,1,13
+2024,8,AUTORISATION,Finance & Comptabilité,1,2
+2024,8,AUTORISATION,Logistique,1,1
+2024,8,CONGE_MATERNITE,Logistique,1,62
+2024,8,CONGE_MATERNITE,Ressources Humaines,1,73
+2024,8,INJUSTIFIEE,Production,1,1
+2024,9,MALADIE,Direction Générale,1,2
+2024,9,MALADIE,Juridique,1,4
+2024,9,MALADIE,Production,1,4
+2024,9,CONGE_PAYE,Juridique,2,12
+2024,9,AUTORISATION,Recherche & Développement,2,3
+2024,9,CONGE_MATERNITE,Ventes & Marketing,1,83
+2024,9,INJUSTIFIEE,Finance & Comptabilité,1,1
+2024,9,INJUSTIFIEE,Juridique,1,1
+2024,9,INJUSTIFIEE,Support Client,1,1
+2024,10,MALADIE,Recherche & Développement,1,10
+2024,10,CONGE_PAYE,Direction Générale,1,10
+2024,10,CONGE_PAYE,Support Client,1,13
+2024,10,CONGE_MATERNITE,Logistique,1,72
+2024,10,CONGE_MATERNITE,Support Client,1,72
+2024,10,INJUSTIFIEE,Logistique,1,1
+2024,11,MALADIE,Direction Générale,1,10
+2024,11,MALADIE,Informatique (IT),2,15
+2024,11,MALADIE,Logistique,1,9
+2024,11,CONGE_PAYE,Juridique,1,6
+2024,11,CONGE_PAYE,Logistique,1,13
+2024,11,AUTORISATION,Direction Générale,1,1
+2024,11,AUTORISATION,Production,1,2
+2024,11,AUTORISATION,Recherche & Développement,1,1
+2024,11,AUTORISATION,Support Client,1,1
+2024,12,CONGE_PAYE,Direction Générale,3,24
+2024,12,CONGE_PAYE,Production,1,5
+2024,12,AUTORISATION,Direction Générale,1,2
+2024,12,INJUSTIFIEE,Finance & Comptabilité,1,1
+2024,12,INJUSTIFIEE,Informatique (IT),1,1
+2025,1,CONGE_PAYE,Direction Générale,1,10
+2025,1,AUTORISATION,Recherche & Développement,1,1
+2025,1,INJUSTIFIEE,Ressources Humaines,1,1
+2025,2,AUTORISATION,Production,1,1
+2025,3,MALADIE,Informatique (IT),1,4
+2025,3,CONGE_PAYE,Direction Générale,1,7
+2025,3,CONGE_PAYE,Informatique (IT),1,13
+2025,3,CONGE_PAYE,Juridique,2,14
+2025,3,AUTORISATION,Ventes & Marketing,1,1
+2025,3,INJUSTIFIEE,Informatique (IT),1,1
+2025,3,INJUSTIFIEE,Recherche & Développement,2,2
+2025,4,MALADIE,Ventes & Marketing,1,6
+2025,4,CONGE_PAYE,Production,1,12
+2025,4,CONGE_PAYE,Ventes & Marketing,1,13
+2025,4,AUTORISATION,Logistique,1,1
+2025,4,INJUSTIFIEE,Logistique,1,1
+2025,4,INJUSTIFIEE,Ventes & Marketing,1,1
+2025,5,MALADIE,Logistique,1,9
+2025,5,CONGE_PAYE,Direction Générale,1,10
+2025,5,CONGE_PAYE,Informatique (IT),1,11
+2025,5,CONGE_PAYE,Recherche & Développement,1,12
+2025,6,MALADIE,Ressources Humaines,1,2
+2025,6,MALADIE,Support Client,1,6
+2025,6,CONGE_PAYE,Production,1,10
+2025,6,AUTORISATION,Recherche & Développement,1,1
+2025,6,INJUSTIFIEE,Logistique,1,1
+2025,6,INJUSTIFIEE,Production,1,1
+2025,6,INJUSTIFIEE,Recherche & Développement,1,1
+2025,7,AUTORISATION,Logistique,1,2
+2025,7,CONGE_MATERNITE,Juridique,1,67
+2025,7,CONGE_MATERNITE,Recherche & Développement,1,88
+2025,7,INJUSTIFIEE,Direction Générale,1,1
+2025,7,INJUSTIFIEE,Recherche & Développement,1,1
+2025,8,MALADIE,Production,1,1
+2025,8,CONGE_PAYE,Juridique,1,8
+2025,8,CONGE_PAYE,Logistique,1,4
+2025,8,CONGE_PAYE,Production,1,8
+2025,8,CONGE_PAYE,Ventes & Marketing,1,7
+2025,8,AUTORISATION,Ressources Humaines,1,2
+2025,9,CONGE_PAYE,Direction Générale,1,3
+2025,9,CONGE_PAYE,Support Client,1,8
+2025,9,AUTORISATION,Juridique,1,2
+2025,9,INJUSTIFIEE,Logistique,1,1
+2025,9,INJUSTIFIEE,Production,1,1
+2025,10,MALADIE,Production,1,2
+2025,10,CONGE_PAYE,Production,1,9
+2025,10,AUTORISATION,Informatique (IT),1,1
+2025,10,INJUSTIFIEE,Support Client,1,1
+2025,11,MALADIE,Juridique,1,8
+2025,11,CONGE_PAYE,Ventes & Marketing,1,5
+2025,11,AUTORISATION,Juridique,2,3
+2025,11,AUTORISATION,Logistique,1,1
+2025,11,INJUSTIFIEE,Recherche & Développement,1,1
+2025,12,CONGE_PAYE,Juridique,1,5
+2025,12,AUTORISATION,Recherche & Développement,1,1
+2025,12,CONGE_MATERNITE,Direction Générale,1,68
+2025,12,INJUSTIFIEE,Informatique (IT),1,1
+2025,12,INJUSTIFIEE,Juridique,1,1
+2025,12,INJUSTIFIEE,Recherche & Développement,1,1
+2026,1,CONGE_PAYE,Informatique (IT),1,2
+2026,1,CONGE_PAYE,Logistique,1,10
+2026,1,CONGE_PAYE,Ventes & Marketing,2,24
+2026,1,AUTORISATION,Production,1,2
+2026,1,INJUSTIFIEE,Support Client,1,1
+2026,2,MALADIE,Direction Générale,1,1
+2026,2,CONGE_PAYE,Juridique,1,4
+2026,3,MALADIE,Juridique,1,4
+2026,3,CONGE_PAYE,Informatique (IT),1,2
+2026,3,CONGE_PAYE,Production,1,6
+2026,3,AUTORISATION,Ventes & Marketing,1,1
+2026,3,CONGE_MATERNITE,Production,1,72
+2026,3,INJUSTIFIEE,Recherche & Développement,2,2
+2026,4,MALADIE,Finance & Comptabilité,1,6
+2026,4,MALADIE,Informatique (IT),1,9
+2026,4,MALADIE,Ressources Humaines,1,8
+2026,4,CONGE_PAYE,Informatique (IT),1,9
+2026,4,CONGE_MATERNITE,Logistique,1,74
+2026,5,CONGE_PAYE,Informatique (IT),1,9
+2026,5,CONGE_PAYE,Juridique,2,22
+2026,5,CONGE_PAYE,Recherche & Développement,1,8
+2026,5,AUTORISATION,Informatique (IT),1,1
+2026,5,AUTORISATION,Production,1,2
+2026,5,AUTORISATION,Recherche & Développement,1,2
+2026,5,INJUSTIFIEE,Juridique,1,1
+2026,5,INJUSTIFIEE,Logistique,1,1
+2026,5,INJUSTIFIEE,Recherche & Développement,1,1
+2026,6,CONGE_PAYE,Juridique,1,12
+2026,6,CONGE_PAYE,Production,1,11
+2026,6,AUTORISATION,Logistique,1,1
+2026,6,AUTORISATION,Ressources Humaines,1,2
+2026,6,INJUSTIFIEE,Recherche & Développement,1,1
+2026,7,MALADIE,Informatique (IT),1,4
+2026,7,AUTORISATION,Direction Générale,1,1
+2026,7,AUTORISATION,Juridique,1,1
+2026,7,AUTORISATION,Ventes & Marketing,1,2
+2026,7,CONGE_MATERNITE,Finance & Comptabilité,1,86
+2026,7,CONGE_MATERNITE,Support Client,1,78
+2026,7,INJUSTIFIEE,Informatique (IT),1,1
+2026,7,INJUSTIFIEE,Support Client,2,2
+2026,8,MALADIE,Recherche & Développement,1,5
+2026,8,MALADIE,Support Client,1,6
+2026,8,CONGE_PAYE,Support Client,1,5
+2026,8,AUTORISATION,Direction Générale,1,1
+2026,8,AUTORISATION,Logistique,1,1
+2026,8,CONGE_MATERNITE,Juridique,1,89
+2026,8,CONGE_MATERNITE,Production,1,81
+2026,8,CONGE_MATERNITE,Ventes & Marketing,1,66
+2026,8,INJUSTIFIEE,Juridique,1,1
+2026,9,CONGE_PAYE,Informatique (IT),2,13
+2026,9,CONGE_PAYE,Ventes & Marketing,1,9
+2026,9,AUTORISATION,Recherche & Développement,1,2
+2026,9,CONGE_MATERNITE,Finance & Comptabilité,1,70
+2026,9,CONGE_MATERNITE,Juridique,1,80
+2026,9,INJUSTIFIEE,Direction Générale,1,1
+2026,9,INJUSTIFIEE,Informatique (IT),1,1
+2026,10,CONGE_PAYE,Direction Générale,1,8
+2026,10,CONGE_PAYE,Recherche & Développement,1,7
+2026,10,CONGE_PAYE,Ressources Humaines,1,3
+2026,10,AUTORISATION,Informatique (IT),1,1
+2026,10,CONGE_MATERNITE,Juridique,1,78
+2026,11,MALADIE,Support Client,1,4
+2026,11,CONGE_PAYE,Direction Générale,1,13
+2026,11,CONGE_PAYE,Juridique,2,10
+2026,11,CONGE_PAYE,Logistique,1,3
+2026,11,CONGE_PAYE,Ventes & Marketing,1,10
+2026,11,AUTORISATION,Informatique (IT),1,2
+2026,11,AUTORISATION,Juridique,1,2
+2026,11,INJUSTIFIEE,Production,1,1
+2026,12,MALADIE,Informatique (IT),1,5
+2026,12,MALADIE,Recherche & Développement,1,7
+2026,12,CONGE_PAYE,Recherche & Développement,1,8
+2026,12,AUTORISATION,Production,1,2
+2026,12,AUTORISATION,Recherche & Développement,1,1
+2026,12,CONGE_MATERNITE,Logistique,1,83
+2026,12,INJUSTIFIEE,Recherche & Développement,1,1
+2027,1,CONGE_PAYE,Informatique (IT),1,2
+2027,1,CONGE_PAYE,Logistique,1,4
+2027,1,CONGE_PAYE,Production,1,6
+2027,1,CONGE_PAYE,Ressources Humaines,1,10
+2027,1,AUTORISATION,Support Client,1,2
+2027,2,CONGE_PAYE,Juridique,1,4
+2027,2,CONGE_PAYE,Ventes & Marketing,1,6
+2027,2,AUTORISATION,Ressources Humaines,1,1
+2027,2,AUTORISATION,Ventes & Marketing,1,1
+2027,2,INJUSTIFIEE,Juridique,1,1
+2027,3,AUTORISATION,Ventes & Marketing,1,2
+2027,3,INJUSTIFIEE,Juridique,2,2
+2027,3,INJUSTIFIEE,Logistique,1,1
+2027,4,MALADIE,Juridique,1,1
+2027,4,MALADIE,Logistique,1,4
+2027,4,CONGE_PAYE,Support Client,2,12
+2027,4,AUTORISATION,Direction Générale,1,2
+2027,4,AUTORISATION,Juridique,1,2
+2027,4,AUTORISATION,Ressources Humaines,1,1
+2027,4,INJUSTIFIEE,Juridique,1,1
+2027,5,CONGE_PAYE,Logistique,1,8
+2027,5,CONGE_PAYE,Recherche & Développement,1,7
+2027,5,AUTORISATION,Logistique,1,1
+2027,6,MALADIE,Informatique (IT),1,8
+2027,6,AUTORISATION,Finance & Comptabilité,1,2
+2027,6,CONGE_MATERNITE,Ressources Humaines,1,70
+2027,7,MALADIE,Ventes & Marketing,1,8
+2027,7,AUTORISATION,Recherche & Développement,1,1
+2027,7,INJUSTIFIEE,Support Client,1,1
+2027,7,INJUSTIFIEE,Ventes & Marketing,1,1
+2027,8,CONGE_PAYE,Direction Générale,1,10
+2027,8,CONGE_PAYE,Logistique,1,9
+2027,8,CONGE_PAYE,Production,1,12
+2027,8,CONGE_PAYE,Support Client,1,5
+2027,8,AUTORISATION,Recherche & Développement,1,2
+2027,8,CONGE_MATERNITE,Juridique,1,78
+2027,8,INJUSTIFIEE,Recherche & Développement,1,1
+2027,9,MALADIE,Informatique (IT),1,5
+2027,9,MALADIE,Juridique,1,1
+2027,9,CONGE_PAYE,Juridique,1,8
+2027,9,CONGE_PAYE,Logistique,1,9
+2027,9,CONGE_MATERNITE,Ventes & Marketing,1,88
+2027,9,INJUSTIFIEE,Informatique (IT),1,1
+2027,9,INJUSTIFIEE,Support Client,1,1
+2027,10,CONGE_PAYE,Recherche & Développement,1,5
+2027,10,AUTORISATION,Finance & Comptabilité,1,1
+2027,11,MALADIE,Support Client,2,10
+2027,11,CONGE_PAYE,Juridique,1,6
+2027,11,AUTORISATION,Direction Générale,1,1
+2027,11,AUTORISATION,Recherche & Développement,1,1
+2027,11,CONGE_MATERNITE,Juridique,1,68
+2027,12,MALADIE,Ressources Humaines,1,6
+2027,12,CONGE_PAYE,Juridique,1,11
+2027,12,CONGE_PAYE,Logistique,1,5
+2027,12,CONGE_PAYE,Support Client,1,4
+2027,12,AUTORISATION,Informatique (IT),1,1
+2027,12,INJUSTIFIEE,Informatique (IT),1,1
+2027,12,INJUSTIFIEE,Juridique,3,3
+2027,12,INJUSTIFIEE,Recherche & Développement,1,1

@@ -1,0 +1,11 @@
+﻿departement_id,nom_departement,directeur,localisation,budget_annuel
+1,Direction Générale,Jean-Marc Kabila,Kinshasa,2500000.00
+2,Finance & Comptabilité,Marie Ilunga,Kinshasa,3800000.00
+3,Ventes & Marketing,Patrick Tshiala,Kinshasa,4200000.00
+4,Ressources Humaines,Sarah Mwamba,Lubumbashi,1800000.00
+5,Production,Alain Bisimwa,Goma,5100000.00
+6,Logistique,Chantal Mbala,Matadi,2900000.00
+7,Informatique (IT),Fabrice Muhindo,Kinshasa,2200000.00
+8,Support Client,Esther Uwimana,Bukavu,1600000.00
+9,Recherche & Développement,Olivier Kongo,Kinshasa,3500000.00
+10,Juridique,Béatrice Luzolo,Kinshasa,1500000.00

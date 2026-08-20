@@ -1,0 +1,36 @@
+﻿produit_id,code_produit,nom_produit,categorie,sous_categorie,prix_unitaire,cout_unitaire,fournisseur
+1,ELC-001,Smartphone Neo X1,Électronique,Téléphones,499.00,310.00,Shenzhen Tech
+2,ELC-002,Ordinateur PortPro 14,Électronique,Ordinateurs,899.00,590.00,Taiwan Computing
+3,ELC-003,Tablette TabMini,Électronique,Tablettes,249.00,150.00,Shenzhen Tech
+4,ELC-004,Casque AudioMax,Électronique,Audio,129.00,72.00,Vietnam Audio
+5,ELC-005,"Écran ViewPro 27""",Électronique,Écrans,349.00,220.00,Taiwan Computing
+6,ELE-001,Réfrigérateur FrostFree,Électroménager,Froid,699.00,430.00,Korea Appliances
+7,ELE-002,Lave-linge TurboClean,Électroménager,Lavage,549.00,340.00,Korea Appliances
+8,ELE-003,Cuisinière GazPro 4,Électroménager,Cuisson,389.00,240.00,Turkey Home
+9,ELE-004,Micro-ondes QuickHeat,Électroménager,Cuisson,149.00,88.00,Turkey Home
+10,ELE-005,Climatiseur CoolAir 2.5,Électroménager,Climatisation,799.00,500.00,China Climate
+11,MOB-001,Canapé 3 places Milano,Mobilier,Salon,899.00,520.00,Local Artisan
+12,MOB-002,Table à manger 6 pers.,Mobilier,Salle à manger,459.00,270.00,Local Artisan
+13,MOB-003,Lit double BoisMassif,Mobilier,Chambre,649.00,380.00,Local Artisan
+14,MOB-004,Armoire 4 portes,Mobilier,Chambre,549.00,330.00,Local Artisan
+15,MOB-005,Bureau executive,Mobilier,Bureau,379.00,220.00,Local Artisan
+16,TXT-001,Pagne wax 6 yards,Textile,Pagnes,45.00,22.00,Africa Textiles
+17,TXT-002,Costume homme coupe,Textile,Vêtements,189.00,95.00,Africa Textiles
+18,TXT-003,Chaussures cuir femme,Textile,Chaussures,89.00,45.00,Ethiopia Leather
+19,TXT-004,Sac à main cousu main,Textile,Accessoires,69.00,32.00,Local Artisan
+20,TXT-005,Tapis traditionnel 3m,Textile,Décoration,159.00,85.00,Rwanda Crafts
+21,AGD-001,Sac riz 50kg,Agroalimentaire,Céréales,58.00,40.00,FarmCo Congo
+22,AGD-002,Huile de palme 20L,Agroalimentaire,Huiles,75.00,52.00,AgriPalme
+23,AGD-003,Café arabica 1kg,Agroalimentaire,Boissons,22.00,11.00,Coop Kivu
+24,AGD-004,Cacao pur 5kg,Agroalimentaire,Cacao,95.00,62.00,Coop Kivu
+25,AGD-005,Sucre de canne 25kg,Agroalimentaire,Sucres,42.00,28.00,Sucrerie Kongo
+26,BTP-001,"Ciment CPJ 42,5 (sac)",BTP,Matériaux,12.00,8.00,Cimenterie Kimpese
+27,BTP-002,Fer à béton 12mm (6m),BTP,Matériaux,18.00,12.00,Aciérie Katanga
+28,BTP-003,Peinture acrylique 20L,BTP,Peintures,120.00,75.00,Chimie Congo
+29,BTP-004,Carrelage 60x60 m²,BTP,Revêtements,32.00,20.00,Ceramic Italia
+30,BTP-005,Tôle bac acier,BTP,Couverture,27.00,17.00,Aciérie Katanga
+31,JOU-001,Poupée traditionnelle,Jouets,Poupées,15.00,6.00,Local Artisan
+32,JOU-002,Voiture télécommandée,Jouets,Voitures,45.00,24.00,Shenzhen Tech
+33,JOU-003,Lego City 500 pièces,Jouets,Construction,65.00,34.00,Denmark Toys
+34,JOU-004,Ballon de foot officiel,Jouets,Sports,35.00,16.00,Pakistan Sports
+35,JOU-005,Trottinette enfant,Jouets,Mobilité,79.00,42.00,Shenzhen Tech

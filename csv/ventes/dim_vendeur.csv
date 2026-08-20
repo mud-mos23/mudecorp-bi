@@ -1,0 +1,13 @@
+﻿vendeur_id,nom_vendeur,region,ville,date_embauche,equipe
+1,Jean Kabila,Kinshasa,Kinshasa,2020-01-15,Équipe Kinshasa
+2,Marie Ilunga,Kinshasa,Kinshasa,2020-03-02,Équipe Kinshasa
+3,Patrick Tshiala,Kinshasa,Kinshasa,2021-06-10,Équipe Kinshasa
+4,Sarah Mwamba,Lubumbashi,Lubumbashi,2020-09-22,Équipe Katanga
+5,Dieu-Merci K.,Lubumbashi,Lubumbashi,2021-02-14,Équipe Katanga
+6,Grace Nkulu,Lubumbashi,Kolwezi,2022-04-05,Équipe Katanga
+7,Alain Bisimwa,Nord-Kivu,Goma,2020-11-18,Équipe Est
+8,Esther Uwimana,Sud-Kivu,Bukavu,2021-08-30,Équipe Est
+9,Fabrice Muhindo,Nord-Kivu,Goma,2022-01-25,Équipe Est
+10,Chantal Mbala,Bas-Congo,Matadi,2020-05-11,Équipe Ouest
+11,Olivier Kongo,Bas-Congo,Matadi,2021-10-07,Équipe Ouest
+12,Béatrice Luzolo,Kinshasa,Kinshasa,2023-03-16,Équipe Kinshasa

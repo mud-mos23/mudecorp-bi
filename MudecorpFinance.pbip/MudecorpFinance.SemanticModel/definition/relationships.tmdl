@@ -1,0 +1,5 @@
+relationship Calendrier_DateId_FluxFinancier_DateTx
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendrier.DateId
+	toColumn: FluxFinancier.DateTx
+

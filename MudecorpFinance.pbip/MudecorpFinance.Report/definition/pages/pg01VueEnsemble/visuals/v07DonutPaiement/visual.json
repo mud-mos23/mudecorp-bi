@@ -1,0 +1,57 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "v07DonutPaiement",
+  "position": {
+    "x": 760,
+    "y": 680,
+    "z": 1000,
+    "height": 360,
+    "width": 500,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FluxFinancier"
+                    }
+                  },
+                  "Property": "ModePaiement"
+                }
+              },
+              "queryRef": "FluxFinancier.ModePaiement",
+              "nativeQueryRef": "ModePaiement",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FluxFinancier"
+                    }
+                  },
+                  "Property": "Total Revenus"
+                }
+              },
+              "queryRef": "FluxFinancier.Total Revenus",
+              "nativeQueryRef": "Total Revenus"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

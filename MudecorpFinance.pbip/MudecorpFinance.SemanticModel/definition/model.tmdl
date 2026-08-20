@@ -1,0 +1,21 @@
+model Model
+	culture: fr-FR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: fr-FR
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["Calendrier","FluxFinancier","BudgetVsReel"]
+
+annotation PBI_ProTooling = ["DevMode","TMDL-Extension"]
+
+ref table Calendrier
+ref table FluxFinancier
+ref table BudgetVsReel
+
+ref cultureInfo fr-FR
+

@@ -1,0 +1,121 @@
+﻿employe_id,employe,genre,poste,contrat,salaire_base,statut,date_embauche,anciennete_annees,departement,directeur,localisation
+18,Esther Kabila,F,Analyste,CDI,3684.63,ACTIF,2020-04-19,7,Direction Générale,Jean-Marc Kabila,Kinshasa
+19,Marie Tshibanda,F,Superviseur,STAGE,972.94,ACTIF,2018-01-14,9,Direction Générale,Jean-Marc Kabila,Kinshasa
+23,Esther Tshiala,M,Comptable,CDI,1553.04,ACTIF,2018-08-25,9,Direction Générale,Jean-Marc Kabila,Kinshasa
+51,Patrick Banza,M,Commercial,CDI,4364.18,ACTIF,2023-08-26,4,Direction Générale,Jean-Marc Kabila,Kinshasa
+65,Ruth Tshibanda,F,Superviseur,CONSULTANT,4119.65,ACTIF,2020-10-30,7,Direction Générale,Jean-Marc Kabila,Kinshasa
+67,Marie Lukusa,M,Assistant de direction,CDI,1278.27,ACTIF,2024-07-21,3,Direction Générale,Jean-Marc Kabila,Kinshasa
+87,Esther Lukusa,M,Comptable,CDI,1597.58,ACTIF,2020-12-15,7,Direction Générale,Jean-Marc Kabila,Kinshasa
+98,Chantal Tshiala,F,Assistant de direction,CDI,2225.73,ACTIF,2022-03-07,5,Direction Générale,Jean-Marc Kabila,Kinshasa
+111,Béatrice Kasongo,M,Chef de projet,CDD,1970.85,ACTIF,2020-02-26,7,Direction Générale,Jean-Marc Kabila,Kinshasa
+116,Laetitia Tshiala,F,Développeur,CDI,1197.57,CONGE_MATERNITE,2025-06-28,2,Direction Générale,Jean-Marc Kabila,Kinshasa
+2,Ruth Mwamba,F,Agent administratif,CDI,1402.28,ACTIF,2021-10-24,6,Finance & Comptabilité,Marie Ilunga,Kinshasa
+8,Paul Muhindo,M,Analyste,CDI,3048.80,ACTIF,2019-09-29,8,Finance & Comptabilité,Marie Ilunga,Kinshasa
+30,Grace Tshibanda,M,Agent administratif,CDI,1702.04,ACTIF,2025-04-18,2,Finance & Comptabilité,Marie Ilunga,Kinshasa
+46,Michaël Mpoyi,M,Développeur,CDI,2165.12,ACTIF,2018-06-23,9,Finance & Comptabilité,Marie Ilunga,Kinshasa
+101,Olivier Kabila,M,Superviseur,CDI,927.84,ACTIF,2023-05-29,4,Finance & Comptabilité,Marie Ilunga,Kinshasa
+104,Josué Tshiala,M,Responsable qualité,CDD,1163.23,ACTIF,2025-02-27,2,Finance & Comptabilité,Marie Ilunga,Kinshasa
+105,Josué Banza,M,Technicien,CDI,2664.79,ACTIF,2020-12-15,7,Finance & Comptabilité,Marie Ilunga,Kinshasa
+24,Béatrice Tshibanda,F,Assistant de direction,CDI,1193.36,CONGE_LONGUE_DUREE,2020-09-26,7,Ventes & Marketing,Patrick Tshiala,Kinshasa
+27,Michaël Mpoyi,F,Superviseur,STAGE,1722.74,ACTIF,2019-10-02,8,Ventes & Marketing,Patrick Tshiala,Kinshasa
+28,Esther Kongo,F,Chef de projet,CDI,1561.84,CONGE_MATERNITE,2020-01-24,7,Ventes & Marketing,Patrick Tshiala,Kinshasa
+33,Esther Banza,F,Analyste,CDI,1773.23,ACTIF,2020-11-02,7,Ventes & Marketing,Patrick Tshiala,Kinshasa
+44,Alain Bisimwa,M,Responsable qualité,CDI,1437.18,ACTIF,2018-09-21,9,Ventes & Marketing,Patrick Tshiala,Kinshasa
+69,Clarisse Kasongo,M,Analyste,CDI,1444.62,ACTIF,2021-02-24,6,Ventes & Marketing,Patrick Tshiala,Kinshasa
+88,Jean Mpoyi,M,Analyste,CDI,2156.86,CONGE_LONGUE_DUREE,2024-11-19,3,Ventes & Marketing,Patrick Tshiala,Kinshasa
+114,Fabrice Ntumba,M,Technicien,CDI,1610.79,ACTIF,2022-02-25,5,Ventes & Marketing,Patrick Tshiala,Kinshasa
+120,Dieudonné Tshiala,F,Agent administratif,CDD,2604.52,ACTIF,2019-11-17,8,Ventes & Marketing,Patrick Tshiala,Kinshasa
+26,Paul Kabila,M,Commercial,CDI,994.49,ACTIF,2023-12-30,4,Ressources Humaines,Sarah Mwamba,Lubumbashi
+31,Alain Kalala,M,Technicien,CDI,1173.71,CONGE_LONGUE_DUREE,2022-07-13,5,Ressources Humaines,Sarah Mwamba,Lubumbashi
+53,Grace Tshibanda,F,Assistant de direction,CDI,1706.22,ACTIF,2018-02-12,9,Ressources Humaines,Sarah Mwamba,Lubumbashi
+60,Michaël Mbala,M,Responsable qualité,CDI,1451.42,ACTIF,2020-01-08,7,Ressources Humaines,Sarah Mwamba,Lubumbashi
+89,Esther Tshibanda,M,Agent administratif,CDD,1734.38,ACTIF,2019-11-18,8,Ressources Humaines,Sarah Mwamba,Lubumbashi
+96,Anne Kalala,M,Chef de projet,CDI,3770.09,ACTIF,2022-04-04,5,Ressources Humaines,Sarah Mwamba,Lubumbashi
+103,Clarisse Mbuyi,F,Agent administratif,CDI,1534.57,ACTIF,2021-06-18,6,Ressources Humaines,Sarah Mwamba,Lubumbashi
+108,Grace Mbuyi,F,Assistant de direction,CDD,907.61,ACTIF,2022-06-10,5,Ressources Humaines,Sarah Mwamba,Lubumbashi
+15,Laetitia Banza,M,Chef de projet,CDI,1594.74,ACTIF,2024-02-08,3,Production,Alain Bisimwa,Goma
+21,Laetitia Bisimwa,F,Assistant de direction,CDI,750.91,ACTIF,2019-07-07,8,Production,Alain Bisimwa,Goma
+45,Ruth Mbuyi,F,Technicien,CONSULTANT,1429.37,DEPART,2019-02-24,8,Production,Alain Bisimwa,Goma
+52,Paul Tshiala,M,Agent administratif,STAGE,2186.47,ACTIF,2019-10-07,8,Production,Alain Bisimwa,Goma
+64,Josué Banza,M,Technicien,CDI,746.59,ACTIF,2025-09-09,2,Production,Alain Bisimwa,Goma
+66,Ruth Banza,F,Chef de projet,CDI,938.51,ACTIF,2023-06-07,4,Production,Alain Bisimwa,Goma
+71,Olivier Mbuyi,F,Responsable qualité,CDI,4036.94,ACTIF,2019-01-15,8,Production,Alain Bisimwa,Goma
+75,Grace Mukendi,M,Chef de projet,CDI,2650.39,ACTIF,2018-10-27,9,Production,Alain Bisimwa,Goma
+92,Josué Ilunga,F,Développeur,CDD,4257.02,ACTIF,2023-06-19,4,Production,Alain Bisimwa,Goma
+93,Béatrice Kabila,F,Technicien,CDD,1399.70,ACTIF,2021-05-13,6,Production,Alain Bisimwa,Goma
+94,Marie Mbuyi,F,Superviseur,CDI,1686.04,ACTIF,2018-09-20,9,Production,Alain Bisimwa,Goma
+110,Anne Muhindo,M,Comptable,CDI,1324.77,ACTIF,2021-03-20,6,Production,Alain Bisimwa,Goma
+6,Sarah Bisimwa,M,Chef de projet,CDD,1773.11,ACTIF,2026-01-18,1,Logistique,Chantal Mbala,Matadi
+7,Fabrice Kasongo,M,Chef de projet,CDI,3095.23,CONGE_LONGUE_DUREE,2019-07-26,8,Logistique,Chantal Mbala,Matadi
+20,Chantal Nkulu,M,Comptable,CDI,1333.27,ACTIF,2020-03-13,7,Logistique,Chantal Mbala,Matadi
+22,Dieudonné Ntumba,M,Superviseur,CDI,1700.97,ACTIF,2019-05-27,8,Logistique,Chantal Mbala,Matadi
+25,Olivier Ntumba,M,Assistant de direction,CDI,729.65,ACTIF,2026-03-12,1,Logistique,Chantal Mbala,Matadi
+29,Esther Tshibanda,F,Agent administratif,CDI,1500.94,DEPART,2020-09-02,7,Logistique,Chantal Mbala,Matadi
+32,Esther Kongo,F,Superviseur,CDI,1640.31,ACTIF,2018-02-03,9,Logistique,Chantal Mbala,Matadi
+34,Grace Kalala,M,Comptable,CDI,1280.71,ACTIF,2019-07-09,8,Logistique,Chantal Mbala,Matadi
+40,Michaël Ntumba,F,Technicien,STAGE,2105.97,ACTIF,2020-07-28,7,Logistique,Chantal Mbala,Matadi
+72,Josué Muhindo,F,Comptable,CDI,1213.88,CONGE_LONGUE_DUREE,2023-09-12,4,Logistique,Chantal Mbala,Matadi
+76,Laetitia Kabila,M,Commercial,CDI,969.41,ACTIF,2023-02-09,4,Logistique,Chantal Mbala,Matadi
+91,Fabrice Mbuyi,M,Superviseur,CDI,1524.06,CONGE_MATERNITE,2023-11-25,4,Logistique,Chantal Mbala,Matadi
+95,Marie Kabila,F,Chef de projet,CDI,750.57,ACTIF,2019-10-14,8,Logistique,Chantal Mbala,Matadi
+99,Fabrice Tshibanda,M,Comptable,CDI,2057.09,ACTIF,2022-05-31,5,Logistique,Chantal Mbala,Matadi
+1,Sarah Mbuyi,M,Agent administratif,CDI,1006.47,ACTIF,2018-09-30,9,Informatique (IT),Fabrice Muhindo,Kinshasa
+13,Olivier Kabila,F,Comptable,CDI,893.66,ACTIF,2019-07-01,8,Informatique (IT),Fabrice Muhindo,Kinshasa
+14,Michaël Ilunga,F,Analyste,CDI,2979.04,ACTIF,2025-10-30,2,Informatique (IT),Fabrice Muhindo,Kinshasa
+36,Grace Muhindo,M,Agent administratif,CDD,1665.75,ACTIF,2021-07-10,6,Informatique (IT),Fabrice Muhindo,Kinshasa
+61,Jean Nkulu,M,Comptable,CDI,620.36,ACTIF,2025-05-16,2,Informatique (IT),Fabrice Muhindo,Kinshasa
+77,Anne Mwamba,M,Analyste,STAGE,1522.11,ACTIF,2018-03-16,9,Informatique (IT),Fabrice Muhindo,Kinshasa
+81,Emmanuel Kabila,F,Responsable qualité,CDI,969.79,ACTIF,2018-06-22,9,Informatique (IT),Fabrice Muhindo,Kinshasa
+84,Chantal Kongo,F,Responsable qualité,CDI,1042.10,ACTIF,2022-05-07,5,Informatique (IT),Fabrice Muhindo,Kinshasa
+90,Olivier Tshiala,M,Agent administratif,CDI,1638.95,ACTIF,2022-08-22,5,Informatique (IT),Fabrice Muhindo,Kinshasa
+102,Patrick Mukendi,F,Commercial,CDI,2807.75,ACTIF,2024-08-04,3,Informatique (IT),Fabrice Muhindo,Kinshasa
+106,Paul Kongo,F,Superviseur,CDI,1005.73,ACTIF,2020-01-28,7,Informatique (IT),Fabrice Muhindo,Kinshasa
+107,Jean Muhindo,F,Chef de projet,CDI,3603.76,CONGE_MATERNITE,2019-06-27,8,Informatique (IT),Fabrice Muhindo,Kinshasa
+5,Laetitia Kongo,F,Analyste,CDI,707.53,CONGE_LONGUE_DUREE,2024-01-11,3,Support Client,Esther Uwimana,Bukavu
+12,Clarisse Lukusa,F,Analyste,STAGE,672.00,CONGE_MATERNITE,2022-04-14,5,Support Client,Esther Uwimana,Bukavu
+38,Alain Ntumba,M,Responsable qualité,STAGE,4109.15,ACTIF,2020-09-30,7,Support Client,Esther Uwimana,Bukavu
+39,Sarah Lukusa,M,Développeur,CDI,1515.53,ACTIF,2025-02-03,2,Support Client,Esther Uwimana,Bukavu
+55,Anne Kabila,M,Analyste,CDI,2180.53,ACTIF,2020-06-08,7,Support Client,Esther Uwimana,Bukavu
+57,Josué Kalala,M,Responsable qualité,CDI,1878.55,ACTIF,2024-07-17,3,Support Client,Esther Uwimana,Bukavu
+58,Paul Nkulu,F,Commercial,CDI,1007.95,ACTIF,2024-07-01,3,Support Client,Esther Uwimana,Bukavu
+62,Michaël Nkulu,M,Responsable qualité,CDD,986.36,ACTIF,2018-08-18,9,Support Client,Esther Uwimana,Bukavu
+63,Fabrice Uwimana,F,Analyste,STAGE,968.43,ACTIF,2020-12-25,7,Support Client,Esther Uwimana,Bukavu
+70,Béatrice Mbuyi,M,Comptable,CDI,1639.59,ACTIF,2021-11-18,6,Support Client,Esther Uwimana,Bukavu
+73,Fabrice Kasongo,M,Technicien,CDI,2079.77,DEPART,2022-08-23,5,Support Client,Esther Uwimana,Bukavu
+78,Emmanuel Ntumba,F,Technicien,CDI,967.53,ACTIF,2020-10-01,7,Support Client,Esther Uwimana,Bukavu
+83,Marie Kasongo,F,Superviseur,CDI,1077.83,ACTIF,2022-05-02,5,Support Client,Esther Uwimana,Bukavu
+85,Laetitia Kabila,M,Technicien,CONSULTANT,893.55,ACTIF,2026-01-30,1,Support Client,Esther Uwimana,Bukavu
+115,Dieudonné Mukendi,F,Analyste,CDD,3338.52,ACTIF,2019-08-15,8,Support Client,Esther Uwimana,Bukavu
+117,Esther Lukusa,M,Technicien,CDI,606.93,ACTIF,2024-08-31,3,Support Client,Esther Uwimana,Bukavu
+9,Emmanuel Kalala,M,Technicien,STAGE,1109.60,ACTIF,2024-01-13,3,Recherche & Développement,Olivier Kongo,Kinshasa
+11,Marie Mbuyi,M,Responsable qualité,CDI,1363.43,ACTIF,2020-11-03,7,Recherche & Développement,Olivier Kongo,Kinshasa
+35,Béatrice Muhindo,M,Agent administratif,CDI,1158.89,ACTIF,2019-09-26,8,Recherche & Développement,Olivier Kongo,Kinshasa
+41,Chantal Banza,F,Développeur,CDD,2562.90,ACTIF,2022-07-11,5,Recherche & Développement,Olivier Kongo,Kinshasa
+47,Anne Mukendi,F,Développeur,CDI,815.10,ACTIF,2022-03-09,5,Recherche & Développement,Olivier Kongo,Kinshasa
+48,Sarah Lukusa,F,Comptable,CDD,2364.36,ACTIF,2019-01-19,8,Recherche & Développement,Olivier Kongo,Kinshasa
+49,Alain Mpoyi,M,Agent administratif,CDI,1061.53,ACTIF,2024-12-02,3,Recherche & Développement,Olivier Kongo,Kinshasa
+50,Grace Lukusa,F,Développeur,CDI,614.82,ACTIF,2025-11-09,2,Recherche & Développement,Olivier Kongo,Kinshasa
+68,Dieudonné Tshibanda,F,Agent administratif,CDI,1175.51,ACTIF,2023-09-11,4,Recherche & Développement,Olivier Kongo,Kinshasa
+82,Patrick Kongo,M,Assistant de direction,CDI,1700.59,ACTIF,2018-09-05,9,Recherche & Développement,Olivier Kongo,Kinshasa
+97,Ruth Mpoyi,M,Comptable,CDI,2715.83,ACTIF,2021-01-31,6,Recherche & Développement,Olivier Kongo,Kinshasa
+112,Josué Tshiala,F,Analyste,CDD,2494.59,ACTIF,2021-12-09,6,Recherche & Développement,Olivier Kongo,Kinshasa
+113,Fabrice Kongo,M,Agent administratif,STAGE,2673.14,ACTIF,2021-06-11,6,Recherche & Développement,Olivier Kongo,Kinshasa
+3,Jean Luzolo,F,Commercial,CDI,2617.92,ACTIF,2021-08-19,6,Juridique,Béatrice Luzolo,Kinshasa
+4,Laetitia Mpoyi,M,Agent administratif,STAGE,3363.14,ACTIF,2019-05-14,8,Juridique,Béatrice Luzolo,Kinshasa
+10,Béatrice Mukendi,F,Superviseur,CONSULTANT,1010.35,CONGE_LONGUE_DUREE,2019-07-12,8,Juridique,Béatrice Luzolo,Kinshasa
+16,Esther Uwimana,M,Agent administratif,CDI,1737.42,ACTIF,2018-12-01,9,Juridique,Béatrice Luzolo,Kinshasa
+17,Laetitia Tshibanda,F,Superviseur,CDI,1434.05,ACTIF,2021-06-09,6,Juridique,Béatrice Luzolo,Kinshasa
+37,Sarah Nkulu,F,Analyste,CDI,1005.69,ACTIF,2022-08-18,5,Juridique,Béatrice Luzolo,Kinshasa
+42,Olivier Banza,F,Comptable,CDI,2918.24,ACTIF,2020-01-28,7,Juridique,Béatrice Luzolo,Kinshasa
+43,Béatrice Lukusa,F,Commercial,CDI,2502.14,ACTIF,2022-08-16,5,Juridique,Béatrice Luzolo,Kinshasa
+54,Esther Mpoyi,F,Technicien,CDI,4157.69,ACTIF,2022-01-26,5,Juridique,Béatrice Luzolo,Kinshasa
+56,Esther Bisimwa,M,Chef de projet,CDI,2414.02,ACTIF,2020-02-16,7,Juridique,Béatrice Luzolo,Kinshasa
+59,Marie Lukusa,M,Chef de projet,CDI,1015.41,ACTIF,2023-12-19,4,Juridique,Béatrice Luzolo,Kinshasa
+74,Sarah Lukusa,M,Assistant de direction,CDI,1639.94,ACTIF,2022-04-07,5,Juridique,Béatrice Luzolo,Kinshasa
+79,Paul Kongo,M,Analyste,STAGE,1430.98,DEPART,2022-12-26,5,Juridique,Béatrice Luzolo,Kinshasa
+80,Esther Kalala,M,Comptable,CDI,1075.63,ACTIF,2023-02-14,4,Juridique,Béatrice Luzolo,Kinshasa
+86,Anne Muhindo,M,Comptable,CDI,3981.91,ACTIF,2018-11-07,9,Juridique,Béatrice Luzolo,Kinshasa
+100,Josué Mbuyi,F,Agent administratif,CDI,2396.94,ACTIF,2026-02-21,1,Juridique,Béatrice Luzolo,Kinshasa
+109,Sarah Mbala,M,Assistant de direction,CDI,746.40,ACTIF,2019-02-24,8,Juridique,Béatrice Luzolo,Kinshasa
+118,Laetitia Mpoyi,F,Commercial,CDD,912.90,ACTIF,2021-08-29,6,Juridique,Béatrice Luzolo,Kinshasa
+119,Fabrice Luzolo,F,Responsable qualité,CDD,2448.64,ACTIF,2021-08-07,6,Juridique,Béatrice Luzolo,Kinshasa

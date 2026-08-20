@@ -1,0 +1,71 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "v05LineTendance",
+  "position": {
+    "x": 40,
+    "y": 300,
+    "z": 1000,
+    "height": 360,
+    "width": 680,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "lineChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Calendrier"
+                    }
+                  },
+                  "Property": "DateId"
+                }
+              },
+              "queryRef": "Calendrier.DateId",
+              "nativeQueryRef": "DateId",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FluxFinancier"
+                    }
+                  },
+                  "Property": "Total Revenus"
+                }
+              },
+              "queryRef": "FluxFinancier.Total Revenus",
+              "nativeQueryRef": "Total Revenus"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FluxFinancier"
+                    }
+                  },
+                  "Property": "Total Dépenses"
+                }
+              },
+              "queryRef": "FluxFinancier.Total Dépenses",
+              "nativeQueryRef": "Total Dépenses"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

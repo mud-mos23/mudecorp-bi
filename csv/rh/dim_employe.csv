@@ -1,0 +1,121 @@
+﻿employe_id,nom,prenom,genre,date_naissance,date_embauche,departement_id,poste,contrat,salaire_base,statut
+1,Mbuyi,Sarah,M,1983-09-20,2018-09-30,7,Agent administratif,CDI,1006.47,ACTIF
+2,Mwamba,Ruth,F,1975-05-20,2021-10-24,2,Agent administratif,CDI,1402.28,ACTIF
+3,Luzolo,Jean,F,1983-11-17,2021-08-19,10,Commercial,CDI,2617.92,ACTIF
+4,Mpoyi,Laetitia,M,1987-12-26,2019-05-14,10,Agent administratif,STAGE,3363.14,ACTIF
+5,Kongo,Laetitia,F,1969-04-25,2024-01-11,8,Analyste,CDI,707.53,CONGE_LONGUE_DUREE
+6,Bisimwa,Sarah,M,1966-04-09,2026-01-18,6,Chef de projet,CDD,1773.11,ACTIF
+7,Kasongo,Fabrice,M,1972-10-30,2019-07-26,6,Chef de projet,CDI,3095.23,CONGE_LONGUE_DUREE
+8,Muhindo,Paul,M,1978-03-15,2019-09-29,2,Analyste,CDI,3048.80,ACTIF
+9,Kalala,Emmanuel,M,1978-02-13,2024-01-13,9,Technicien,STAGE,1109.60,ACTIF
+10,Mukendi,Béatrice,F,1993-10-26,2019-07-12,10,Superviseur,CONSULTANT,1010.35,CONGE_LONGUE_DUREE
+11,Mbuyi,Marie,M,1995-03-26,2020-11-03,9,Responsable qualité,CDI,1363.43,ACTIF
+12,Lukusa,Clarisse,F,1973-02-20,2022-04-14,8,Analyste,STAGE,672.00,CONGE_MATERNITE
+13,Kabila,Olivier,F,1981-10-04,2019-07-01,7,Comptable,CDI,893.66,ACTIF
+14,Ilunga,Michaël,F,1971-04-12,2025-10-30,7,Analyste,CDI,2979.04,ACTIF
+15,Banza,Laetitia,M,1972-07-15,2024-02-08,5,Chef de projet,CDI,1594.74,ACTIF
+16,Uwimana,Esther,M,1988-11-29,2018-12-01,10,Agent administratif,CDI,1737.42,ACTIF
+17,Tshibanda,Laetitia,F,1992-02-06,2021-06-09,10,Superviseur,CDI,1434.05,ACTIF
+18,Kabila,Esther,F,1997-02-13,2020-04-19,1,Analyste,CDI,3684.63,ACTIF
+19,Tshibanda,Marie,F,1990-08-13,2018-01-14,1,Superviseur,STAGE,972.94,ACTIF
+20,Nkulu,Chantal,M,1985-01-20,2020-03-13,6,Comptable,CDI,1333.27,ACTIF
+21,Bisimwa,Laetitia,F,1970-06-18,2019-07-07,5,Assistant de direction,CDI,750.91,ACTIF
+22,Ntumba,Dieudonné,M,1966-08-28,2019-05-27,6,Superviseur,CDI,1700.97,ACTIF
+23,Tshiala,Esther,M,1967-03-24,2018-08-25,1,Comptable,CDI,1553.04,ACTIF
+24,Tshibanda,Béatrice,F,1997-03-04,2020-09-26,3,Assistant de direction,CDI,1193.36,CONGE_LONGUE_DUREE
+25,Ntumba,Olivier,M,1976-02-19,2026-03-12,6,Assistant de direction,CDI,729.65,ACTIF
+26,Kabila,Paul,M,1992-10-24,2023-12-30,4,Commercial,CDI,994.49,ACTIF
+27,Mpoyi,Michaël,F,1975-08-08,2019-10-02,3,Superviseur,STAGE,1722.74,ACTIF
+28,Kongo,Esther,F,1966-08-13,2020-01-24,3,Chef de projet,CDI,1561.84,CONGE_MATERNITE
+29,Tshibanda,Esther,F,1977-04-12,2020-09-02,6,Agent administratif,CDI,1500.94,DEPART
+30,Tshibanda,Grace,M,1988-04-02,2025-04-18,2,Agent administratif,CDI,1702.04,ACTIF
+31,Kalala,Alain,M,1994-03-21,2022-07-13,4,Technicien,CDI,1173.71,CONGE_LONGUE_DUREE
+32,Kongo,Esther,F,1988-03-03,2018-02-03,6,Superviseur,CDI,1640.31,ACTIF
+33,Banza,Esther,F,1991-02-11,2020-11-02,3,Analyste,CDI,1773.23,ACTIF
+34,Kalala,Grace,M,1993-05-28,2019-07-09,6,Comptable,CDI,1280.71,ACTIF
+35,Muhindo,Béatrice,M,1991-06-01,2019-09-26,9,Agent administratif,CDI,1158.89,ACTIF
+36,Muhindo,Grace,M,1982-06-11,2021-07-10,7,Agent administratif,CDD,1665.75,ACTIF
+37,Nkulu,Sarah,F,1997-04-26,2022-08-18,10,Analyste,CDI,1005.69,ACTIF
+38,Ntumba,Alain,M,1989-05-06,2020-09-30,8,Responsable qualité,STAGE,4109.15,ACTIF
+39,Lukusa,Sarah,M,1966-08-28,2025-02-03,8,Développeur,CDI,1515.53,ACTIF
+40,Ntumba,Michaël,F,1995-10-10,2020-07-28,6,Technicien,STAGE,2105.97,ACTIF
+41,Banza,Chantal,F,1988-06-13,2022-07-11,9,Développeur,CDD,2562.90,ACTIF
+42,Banza,Olivier,F,1989-04-03,2020-01-28,10,Comptable,CDI,2918.24,ACTIF
+43,Lukusa,Béatrice,F,1973-11-22,2022-08-16,10,Commercial,CDI,2502.14,ACTIF
+44,Bisimwa,Alain,M,1988-04-03,2018-09-21,3,Responsable qualité,CDI,1437.18,ACTIF
+45,Mbuyi,Ruth,F,1965-01-31,2019-02-24,5,Technicien,CONSULTANT,1429.37,DEPART
+46,Mpoyi,Michaël,M,1985-08-06,2018-06-23,2,Développeur,CDI,2165.12,ACTIF
+47,Mukendi,Anne,F,1980-07-03,2022-03-09,9,Développeur,CDI,815.10,ACTIF
+48,Lukusa,Sarah,F,1978-08-07,2019-01-19,9,Comptable,CDD,2364.36,ACTIF
+49,Mpoyi,Alain,M,1994-09-19,2024-12-02,9,Agent administratif,CDI,1061.53,ACTIF
+50,Lukusa,Grace,F,1988-04-07,2025-11-09,9,Développeur,CDI,614.82,ACTIF
+51,Banza,Patrick,M,1971-08-16,2023-08-26,1,Commercial,CDI,4364.18,ACTIF
+52,Tshiala,Paul,M,1976-10-10,2019-10-07,5,Agent administratif,STAGE,2186.47,ACTIF
+53,Tshibanda,Grace,F,1977-08-13,2018-02-12,4,Assistant de direction,CDI,1706.22,ACTIF
+54,Mpoyi,Esther,F,1981-01-25,2022-01-26,10,Technicien,CDI,4157.69,ACTIF
+55,Kabila,Anne,M,1990-08-28,2020-06-08,8,Analyste,CDI,2180.53,ACTIF
+56,Bisimwa,Esther,M,1965-04-12,2020-02-16,10,Chef de projet,CDI,2414.02,ACTIF
+57,Kalala,Josué,M,1966-03-10,2024-07-17,8,Responsable qualité,CDI,1878.55,ACTIF
+58,Nkulu,Paul,F,1968-10-25,2024-07-01,8,Commercial,CDI,1007.95,ACTIF
+59,Lukusa,Marie,M,1990-05-02,2023-12-19,10,Chef de projet,CDI,1015.41,ACTIF
+60,Mbala,Michaël,M,1979-05-11,2020-01-08,4,Responsable qualité,CDI,1451.42,ACTIF
+61,Nkulu,Jean,M,1977-08-26,2025-05-16,7,Comptable,CDI,620.36,ACTIF
+62,Nkulu,Michaël,M,1968-02-05,2018-08-18,8,Responsable qualité,CDD,986.36,ACTIF
+63,Uwimana,Fabrice,F,1967-09-23,2020-12-25,8,Analyste,STAGE,968.43,ACTIF
+64,Banza,Josué,M,1996-02-29,2025-09-09,5,Technicien,CDI,746.59,ACTIF
+65,Tshibanda,Ruth,F,1990-08-05,2020-10-30,1,Superviseur,CONSULTANT,4119.65,ACTIF
+66,Banza,Ruth,F,1970-10-27,2023-06-07,5,Chef de projet,CDI,938.51,ACTIF
+67,Lukusa,Marie,M,1978-07-07,2024-07-21,1,Assistant de direction,CDI,1278.27,ACTIF
+68,Tshibanda,Dieudonné,F,1984-05-07,2023-09-11,9,Agent administratif,CDI,1175.51,ACTIF
+69,Kasongo,Clarisse,M,1970-01-24,2021-02-24,3,Analyste,CDI,1444.62,ACTIF
+70,Mbuyi,Béatrice,M,1991-04-13,2021-11-18,8,Comptable,CDI,1639.59,ACTIF
+71,Mbuyi,Olivier,F,1990-12-03,2019-01-15,5,Responsable qualité,CDI,4036.94,ACTIF
+72,Muhindo,Josué,F,1987-10-07,2023-09-12,6,Comptable,CDI,1213.88,CONGE_LONGUE_DUREE
+73,Kasongo,Fabrice,M,1973-10-06,2022-08-23,8,Technicien,CDI,2079.77,DEPART
+74,Lukusa,Sarah,M,1966-05-28,2022-04-07,10,Assistant de direction,CDI,1639.94,ACTIF
+75,Mukendi,Grace,M,1985-06-28,2018-10-27,5,Chef de projet,CDI,2650.39,ACTIF
+76,Kabila,Laetitia,M,1977-04-13,2023-02-09,6,Commercial,CDI,969.41,ACTIF
+77,Mwamba,Anne,M,1966-09-05,2018-03-16,7,Analyste,STAGE,1522.11,ACTIF
+78,Ntumba,Emmanuel,F,1996-01-16,2020-10-01,8,Technicien,CDI,967.53,ACTIF
+79,Kongo,Paul,M,1973-08-30,2022-12-26,10,Analyste,STAGE,1430.98,DEPART
+80,Kalala,Esther,M,1982-06-17,2023-02-14,10,Comptable,CDI,1075.63,ACTIF
+81,Kabila,Emmanuel,F,1979-05-26,2018-06-22,7,Responsable qualité,CDI,969.79,ACTIF
+82,Kongo,Patrick,M,1989-06-11,2018-09-05,9,Assistant de direction,CDI,1700.59,ACTIF
+83,Kasongo,Marie,F,1966-06-12,2022-05-02,8,Superviseur,CDI,1077.83,ACTIF
+84,Kongo,Chantal,F,1984-12-19,2022-05-07,7,Responsable qualité,CDI,1042.10,ACTIF
+85,Kabila,Laetitia,M,1977-11-18,2026-01-30,8,Technicien,CONSULTANT,893.55,ACTIF
+86,Muhindo,Anne,M,1989-04-22,2018-11-07,10,Comptable,CDI,3981.91,ACTIF
+87,Lukusa,Esther,M,1976-07-23,2020-12-15,1,Comptable,CDI,1597.58,ACTIF
+88,Mpoyi,Jean,M,1974-10-27,2024-11-19,3,Analyste,CDI,2156.86,CONGE_LONGUE_DUREE
+89,Tshibanda,Esther,M,1975-02-10,2019-11-18,4,Agent administratif,CDD,1734.38,ACTIF
+90,Tshiala,Olivier,M,1976-11-08,2022-08-22,7,Agent administratif,CDI,1638.95,ACTIF
+91,Mbuyi,Fabrice,M,1969-09-02,2023-11-25,6,Superviseur,CDI,1524.06,CONGE_MATERNITE
+92,Ilunga,Josué,F,1972-02-27,2023-06-19,5,Développeur,CDD,4257.02,ACTIF
+93,Kabila,Béatrice,F,1992-11-20,2021-05-13,5,Technicien,CDD,1399.70,ACTIF
+94,Mbuyi,Marie,F,1996-12-05,2018-09-20,5,Superviseur,CDI,1686.04,ACTIF
+95,Kabila,Marie,F,1975-12-13,2019-10-14,6,Chef de projet,CDI,750.57,ACTIF
+96,Kalala,Anne,M,1967-03-21,2022-04-04,4,Chef de projet,CDI,3770.09,ACTIF
+97,Mpoyi,Ruth,M,1985-04-30,2021-01-31,9,Comptable,CDI,2715.83,ACTIF
+98,Tshiala,Chantal,F,1988-12-27,2022-03-07,1,Assistant de direction,CDI,2225.73,ACTIF
+99,Tshibanda,Fabrice,M,1974-08-23,2022-05-31,6,Comptable,CDI,2057.09,ACTIF
+100,Mbuyi,Josué,F,1988-06-04,2026-02-21,10,Agent administratif,CDI,2396.94,ACTIF
+101,Kabila,Olivier,M,1971-07-14,2023-05-29,2,Superviseur,CDI,927.84,ACTIF
+102,Mukendi,Patrick,F,1986-02-17,2024-08-04,7,Commercial,CDI,2807.75,ACTIF
+103,Mbuyi,Clarisse,F,1990-04-30,2021-06-18,4,Agent administratif,CDI,1534.57,ACTIF
+104,Tshiala,Josué,M,1996-03-20,2025-02-27,2,Responsable qualité,CDD,1163.23,ACTIF
+105,Banza,Josué,M,1984-10-14,2020-12-15,2,Technicien,CDI,2664.79,ACTIF
+106,Kongo,Paul,F,1973-03-01,2020-01-28,7,Superviseur,CDI,1005.73,ACTIF
+107,Muhindo,Jean,F,1984-01-10,2019-06-27,7,Chef de projet,CDI,3603.76,CONGE_MATERNITE
+108,Mbuyi,Grace,F,1972-12-14,2022-06-10,4,Assistant de direction,CDD,907.61,ACTIF
+109,Mbala,Sarah,M,1996-10-02,2019-02-24,10,Assistant de direction,CDI,746.40,ACTIF
+110,Muhindo,Anne,M,1988-04-07,2021-03-20,5,Comptable,CDI,1324.77,ACTIF
+111,Kasongo,Béatrice,M,1994-01-16,2020-02-26,1,Chef de projet,CDD,1970.85,ACTIF
+112,Tshiala,Josué,F,1994-12-02,2021-12-09,9,Analyste,CDD,2494.59,ACTIF
+113,Kongo,Fabrice,M,1976-06-18,2021-06-11,9,Agent administratif,STAGE,2673.14,ACTIF
+114,Ntumba,Fabrice,M,1966-06-07,2022-02-25,3,Technicien,CDI,1610.79,ACTIF
+115,Mukendi,Dieudonné,F,1994-03-06,2019-08-15,8,Analyste,CDD,3338.52,ACTIF
+116,Tshiala,Laetitia,F,1983-10-08,2025-06-28,1,Développeur,CDI,1197.57,CONGE_MATERNITE
+117,Lukusa,Esther,M,1965-09-29,2024-08-31,8,Technicien,CDI,606.93,ACTIF
+118,Mpoyi,Laetitia,F,1986-10-06,2021-08-29,10,Commercial,CDD,912.90,ACTIF
+119,Luzolo,Fabrice,F,1990-04-23,2021-08-07,10,Responsable qualité,CDD,2448.64,ACTIF
+120,Tshiala,Dieudonné,F,1976-12-03,2019-11-17,3,Agent administratif,CDD,2604.52,ACTIF
