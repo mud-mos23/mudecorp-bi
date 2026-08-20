@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mudecorp Finance — Documentation du projet BI</title>
+<style>
+:root {
+  --bg: #0f1420;
+  --bg2: #161d2e;
+  --bg3: #1d2740;
+  --fg: #e6ebf5;
+  --muted: #93a1bd;
+  --accent: #3b82f6;
+  --accent2: #22c55e;
+  --warn: #f59e0b;
+  --danger: #ef4444;
+  --border: #26334d;
+  --radius: 10px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.65;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+
+/* Navigation */
+nav {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(15, 20, 32, .92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+nav .container { display: flex; align-items: center; gap: 28px; height: 60px; flex-wrap: wrap; }
+.logo { font-weight: 700; font-size: 1.05rem; color: var(--fg); letter-spacing: .5px; }
+.logo span { color: var(--accent); }
+nav a:not(.logo) { color: var(--muted); font-size: .92rem; }
+nav a:hover { color: var(--fg); text-decoration: none; }
+
+/* Hero */
+.hero {
+  padding: 64px 0 48px;
+  background: radial-gradient(ellipse 80% 60% at 50% -20%, rgba(59,130,246,.18), transparent),
+              linear-gradient(180deg, var(--bg2), var(--bg));
+  border-bottom: 1px solid var(--border);
+}
+.hero h1 { font-size: 2.4rem; margin-bottom: 14px; }
+.hero p { color: var(--muted); max-width: 760px; font-size: 1.05rem; }
+.badges { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 22px; }
+.badge {
+  background: var(--bg3); border: 1px solid var(--border);
+  padding: 6px 14px; border-radius: 999px; font-size: .82rem; color: var(--fg);
+}
+.badge b { color: var(--accent2); }
+
+/* Sections */
+section { padding: 56px 0; border-bottom: 1px solid var(--border); }
+h2 { font-size: 1.6rem; margin-bottom: 8px; }
+h2::before { content: ""; display: inline-block; width: 10px; height: 22px; background: var(--accent); border-radius: 3px; margin-right: 12px; vertical-align: -3px; }
+.sub { color: var(--muted); margin-bottom: 32px; }
+h3 { font-size: 1.15rem; margin: 28px 0 12px; color: var(--fg); }
+p { color: var(--muted); margin-bottom: 12px; }
+
+/* Cartes dashboards */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin-top: 28px; }
+.card {
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden;
+  transition: transform .2s, border-color .2s;
+}
+.card:hover { transform: translateY(-4px); border-color: var(--accent); }
+.card img { width: 100%; display: block; border-bottom: 1px solid var(--border); }
+.card .body { padding: 18px 20px 22px; }
+.card h3 { margin: 0 0 8px; }
+.card .pages { color: var(--muted); font-size: .92rem; margin-top: 10px; }
+.card .pages li { margin: 4px 0 4px 18px; }
+
+/* Tableaux */
+table { width: 100%; border-collapse: collapse; margin: 16px 0 8px; font-size: .92rem; }
+th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--border); }
+th { background: var(--bg3); color: var(--fg); font-weight: 600; }
+td { color: var(--muted); }
+td code { color: var(--fg); }
+tr:hover td { background: rgba(59,130,246,.05); }
+
+/* Code */
+.code {
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 18px 20px;
+  font-family: 'Cascadia Code', Consolas, monospace;
+  font-size: .88rem; overflow-x: auto; margin: 12px 0 8px;
+}
+.code .k { color: #7dd3fc; }
+.code .f { color: #c4b5fd; }
+.code .s { color: #86efac; }
+.code .c { color: #64748b; font-style: italic; }
+.code .n { color: #fda4af; }
+.code .m { color: #fde047; }
+
+/* Blocs appel */
+.callout {
+  border-left: 4px solid var(--accent); background: var(--bg2);
+  padding: 14px 18px; border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 16px 0; font-size: .93rem; color: var(--muted);
+}
+.callout.warn { border-color: var(--warn); }
+.callout.danger { border-color: var(--danger); }
+.callout.ok { border-color: var(--accent2); }
+
+/* Étapes */
+.steps { counter-reset: step; list-style: none; }
+.steps li {
+  counter-increment: step;
+  position: relative; padding: 10px 0 10px 52px;
+  color: var(--muted); font-size: .95rem;
+}
+.steps li::before {
+  content: counter(step);
+  position: absolute; left: 0; top: 10px;
+  width: 32px; height: 32px; border-radius: 50%;
+  background: var(--bg3); border: 1px solid var(--accent);
+  color: var(--accent); font-weight: 700;
+  display: flex; align-items: center; justify-content: center; font-size: .9rem;
+}
+
+/* Liste fichiers */
+.files { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin-top: 18px; }
+.file {
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 14px 16px;
+  font-size: .9rem; transition: border-color .2s;
+}
+.file:hover { border-color: var(--accent); }
+.file .fn { color: var(--fg); font-family: Consolas, monospace; font-weight: 600; }
+.file .desc { color: var(--muted); font-size: .85rem; margin-top: 4px; }
+
+/* Footer */
+footer { padding: 36px 0; text-align: center; color: var(--muted); font-size: .88rem; }
+footer a { color: var(--muted); }
+footer a:hover { color: var(--fg); }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="container">
+    <a class="logo" href="#">Mudecorp<span>BI</span></a>
+    <a href="#dashboards">Dashboards</a>
+    <a href="#architecture">Architecture</a>
+    <a href="#dax">Mesures DAX</a>
+    <a href="#installation">Installation</a>
+    <a href="#fichiers">Fichiers</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="container">
+    <h1>Dashboards BI — Mudecorp International SA</h1>
+    <p>
+      Trois dashboards Power BI construits sur des données fictives de 01/01/2024 à 31/12/2027 :
+      un suivi financier complet (flux, budget vs réalisé), les ventes (commandes, produits, vendeurs)
+      et les ressources humaines (paie, absences, formations). Le tout généré par scripts SQL,
+      exporté en CSV et modélisé en format Power BI Project (.pbip) moderne.
+    </p>
+    <div class="badges">
+      <span class="badge"><b>MySQL / MariaDB 10.4</b></span>
+      <span class="badge"><b>Power BI Desktop</b></span>
+      <span class="badge"><b>Format .pbip</b></span>
+      <span class="badge"><b>TMDL</b></span>
+      <span class="badge"><b>DAX</b></span>
+      <span class="badge"><b>29 exports CSV</b></span>
+    </div>
+  </div>
+</header>
+
+<section id="dashboards">
+  <div class="container">
+    <h2>Les trois dashboards</h2>
+    <p class="sub">Chaque dashboard est un projet Power BI (.pbip) prêt à ouvrir, avec 3 pages et des indicateurs clés.</p>
+
+    <div class="cards">
+      <div class="card">
+        <img src="../images/page1_vue_ensemble.png" alt="Vue d'ensemble du dashboard Finance">
+        <div class="body">
+          <h3>Finance — <span style="color:var(--accent)">bi_finance</span></h3>
+          <p style="color:var(--muted);font-size:.9rem">~11 000 transactions, 65 clients, 15 comptes, budget vs réalisé. 3 tables, 8 mesures DAX, 14 visuals.</p>
+          <ul class="pages">
+            <li><b>Vue d'ensemble</b> — 4 KPI (Revenus, Dépenses, Résultat, Marge), courbes Revenus vs Dépenses, donut de répartition, budget vs réel</li>
+            <li><b>Revenus</b> — Top clients, secteurs, croissance du chiffre d'affaires</li>
+            <li><b>Dépenses & Budget</b> — Réalisé vs budget par groupe, taux de réalisation</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card">
+        <img src="../images/page2_revenus.png" alt="Page Revenus du dashboard Finance">
+        <div class="body">
+          <h3>Ventes — <span style="color:var(--accent)">bi_ventes</span></h3>
+          <p style="color:var(--muted);font-size:.9rem">~7 400 commandes, ~22 000 lignes, 35 produits, 12 vendeurs.</p>
+          <ul class="pages">
+            <li><b>Vue d'ensemble</b> — 4 KPI (CA, Marge, Commandes, Panier moyen), courbes CA, gauge taux de marge</li>
+            <li><b>Produits & Catégories</b> — CA par catégorie, top produits, stock avec alerte rupture</li>
+            <li><b>Vendeurs & Clients</b> — CA par vendeur, matrice vendeur × mois, répartition par canal</li>
+          </ul>
+        </div>
+      </div>
+      <div class="card">
+        <img src="../images/page3_depenses_budget.png" alt="Page Dépenses et budget du dashboard Finance">
+        <div class="body">
+          <h3>RH — <span style="color:var(--accent)">bi_rh</span></h3>
+          <p style="color:var(--muted);font-size:.9rem">120 employés, 4 464 bulletins de paie, absences, formations.</p>
+          <ul class="pages">
+            <li><b>Vue d'ensemble</b> — 4 KPI (Effectif, Masse salariale, Salaire moyen, Réalisation budget)</li>
+            <li><b>Effectifs</b> — Effectif par département, contrat, genre, ancienneté</li>
+            <li><b>Absences & Formations</b> — Jours perdus, matrice absences, coût et thèmes de formation</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="architecture">
+  <div class="container">
+    <h2>Architecture des données</h2>
+    <p class="sub">Trois bases MySQL indépendantes, chacune en schéma en étoile, avec des vues analytiques prêtes pour Power BI.</p>
+
+    <h3>Schéma Finance (étoile)</h3>
+    <table>
+      <tr><th>Table</th><th>Type</th><th>Contenu</th></tr>
+      <tr><td><code>dim_date</code></td><td>Dimension</td><td>Calendrier 2024 → 2027 (année, mois, trimestre, weekend)</td></tr>
+      <tr><td><code>dim_client</code></td><td>Dimension</td><td>65 clients (secteur, région, ville, segment)</td></tr>
+      <tr><td><code>dim_compte</code></td><td>Dimension</td><td>Plan comptable (15 comptes, groupes)</td></tr>
+      <tr><td><code>fact_transaction</code></td><td>Fait</td><td>~11 000 transactions (montant, mode de paiement, statut)</td></tr>
+      <tr><td><code>fact_budget</code></td><td>Fait</td><td>Budget mensuel par compte (720 lignes)</td></tr>
+    </table>
+
+    <h3>Schéma Ventes</h3>
+    <table>
+      <tr><th>Table</th><th>Type</th><th>Contenu</th></tr>
+      <tr><td><code>dim_produit</code></td><td>Dimension</td><td>35 produits (catégorie, prix, coût, fournisseur)</td></tr>
+      <tr><td><code>dim_vendeur</code></td><td>Dimension</td><td>12 vendeurs (région, ville, équipe)</td></tr>
+      <tr><td><code>dim_client</code></td><td>Dimension</td><td>40 clients</td></tr>
+      <tr><td><code>fact_commande</code></td><td>Fait</td><td>~7 400 commandes (canal, statut, montant)</td></tr>
+      <tr><td><code>fact_ligne_commande</code></td><td>Fait</td><td>~22 000 lignes (quantité, prix, remise)</td></tr>
+      <tr><td><code>fact_stock</code></td><td>Fait</td><td>~21 000 mouvements de stock</td></tr>
+    </table>
+
+    <h3>Schéma RH</h3>
+    <table>
+      <tr><th>Table</th><th>Type</th><th>Contenu</th></tr>
+      <tr><td><code>dim_departement</code></td><td>Dimension</td><td>10 départements (directeur, localisation, budget annuel)</td></tr>
+      <tr><td><code>dim_employe</code></td><td>Dimension</td><td>120 employés (poste, contrat, salaire de base, statut)</td></tr>
+      <tr><td><code>fact_paie</code></td><td>Fait</td><td>4 464 bulletins mensuels (brut, primes, impôts, net)</td></tr>
+      <tr><td><code>fact_absence</code></td><td>Fait</td><td>~280 absences (type, durée, motif)</td></tr>
+      <tr><td><code>fact_formation</code></td><td>Fait</td><td>~2 900 formations (thème, type, durée, coût)</td></tr>
+    </table>
+
+    <h3>Vues prêtes pour Power BI</h3>
+    <p><b>Finance :</b> <code>v_flux_financier</code> (principale), <code>v_revenus_mensuels</code>, <code>v_depenses_mensuelles</code>, <code>v_budget_vs_reel</code></p>
+    <p><b>Ventes :</b> <code>v_ventes_detail</code> (principale), <code>v_ventes_mensuelles</code>, <code>v_ventes_produits</code>, <code>v_performance_vendeurs</code>, <code>v_stock_actuel</code></p>
+    <p><b>RH :</b> <code>v_effectif</code>, <code>v_paie_mensuelle</code>, <code>v_absences_mensuelles</code>, <code>v_formations</code>, <code>v_budget_rh_vs_reel</code></p>
+
+    <h3>Le modèle Power BI (.pbip)</h3>
+    <p>
+      Le dossier <code>MudecorpFinance.pbip/</code> est un projet Power BI au format texte moderne :
+      le modèle sémantique (TMDL) contient 3 tables — <code>FluxFinancier</code>, <code>Calendrier</code>,
+      <code>BudgetVsReel</code> — chargées depuis les exports CSV, reliées par une relation
+      Calendrier → FluxFinancier (joinOnDateBehavior: datePartOnly), avec 8 mesures DAX.
+    </p>
+  </div>
+</section>
+
+<section id="dax">
+  <div class="container">
+    <h2>Mesures DAX</h2>
+    <p class="sub">Les mesures réellement implémentées dans le modèle sémantique du dashboard Finance.</p>
+
+    <h3>Modèle sémantique (implementées dans FluxFinancier)</h3>
+    <div class="code"><span class="k">Total Revenus</span> = <span class="f">CALCULATE</span>(<span class="f">SUM</span>(FluxFinancier[Montant]), FluxFinancier[TypeFlux] = <span class="s">"REVENU"</span>, FluxFinancier[Statut] = <span class="s">"VALIDE"</span>)
+<span class="k">Total Dépenses</span> = <span class="f">CALCULATE</span>(<span class="f">SUM</span>(FluxFinancier[Montant]), FluxFinancier[TypeFlux] = <span class="s">"DEPENSE"</span>, FluxFinancier[Statut] = <span class="s">"VALIDE"</span>)
+<span class="k">Résultat Net</span> = [Total Revenus] - [Total Dépenses]
+<span class="k">Marge Nette %</span> = <span class="f">DIVIDE</span>([Résultat Net], [Total Revenus], <span class="m">0</span>)
+<span class="k">Nb Transactions</span> = <span class="f">COUNT</span>(FluxFinancier[TxId])
+<span class="k">Panier Moyen</span> = <span class="f">DIVIDE</span>([Total Revenus], [Nb Transactions])
+<span class="k">Revenus Mois Précédent</span> = <span class="f">CALCULATE</span>([Total Revenus], <span class="f">PREVIOUSMONTH</span>(Calendrier[DateId]))
+<span class="k">Variation Revenus %</span> = <span class="f">DIVIDE</span>([Total Revenus] - [Revenus Mois Précédent], [Revenus Mois Précédent], <span class="m">0</span>)</div>
+
+    <h3>Dashboard Ventes (référence)</h3>
+    <div class="code"><span class="k">Chiffre d'affaires</span> = <span class="f">SUM</span>(v_ventes_detail[montant_ligne])
+<span class="k">Marge brute</span> = <span class="f">SUM</span>(v_ventes_detail[marge_brute])
+<span class="k">Taux de marge %</span> = <span class="f">DIVIDE</span>([Marge brute], [Chiffre d'affaires], <span class="m">0</span>)
+<span class="k">Nb Commandes</span> = <span class="f">DISTINCTCOUNT</span>(v_ventes_detail[commande_id])
+<span class="k">Panier moyen</span> = <span class="f">DIVIDE</span>([Chiffre d'affaires], [Nb Commandes])
+<span class="k">CA Mois Précédent</span> = <span class="f">CALCULATE</span>([Chiffre d'affaires], <span class="f">PREVIOUSMONTH</span>(v_ventes_detail[date_commande]))</div>
+
+    <h3>Dashboard RH (référence)</h3>
+    <div class="code"><span class="k">Effectif</span> = <span class="f">COUNT</span>(v_effectif[employe_id])
+<span class="k">Masse salariale brute</span> = <span class="f">SUM</span>(v_paie_mensuelle[masse_salariale_brute])
+<span class="k">Salaire moyen</span> = <span class="f">DIVIDE</span>([Masse salariale brute], [Effectif], <span class="m">0</span>)
+<span class="k">Nb Absences</span> = <span class="f">SUM</span>(v_absences_mensuelles[nb_absences])
+<span class="k">Taux d'absentéisme %</span> = <span class="f">DIVIDE</span>([Jours perdus], [Effectif] * <span class="m">260</span>, <span class="m">0</span>)
+<span class="k">Heures de formation</span> = <span class="f">SUM</span>(v_formations[duree_heures])
+<span class="k">Coût formation</span> = <span class="f">SUM</span>(v_formations[cout])</div>
+  </div>
+</section>
+
+<section id="installation">
+  <div class="container">
+    <h2>Installation et utilisation</h2>
+    <p class="sub">De la génération des données à l'ouverture du dashboard dans Power BI Desktop.</p>
+
+    <h3>0. Tout régénérer en 1 commande</h3>
+    <div class="code"><span class="c"># WSL / Linux</span>
+./automatisation.sh
+
+<span class="c"># Windows (double-clic)</span>
+automatisation.bat</div>
+    <div class="callout warn">Compte ~7 minutes : le script démarre MariaDB si besoin, recrée les 3 bases et exporte les 29 CSV. Les montants varient à chaque exécution (génération aléatoire <code>RAND()</code>).</div>
+
+    <h3>Ouvrir le dashboard (.pbip)</h3>
+    <p>Le format <code>.pbip</code> est un aperçu : il nécessite Power BI Desktop de juillet 2025 ou plus récent avec les fonctionnalités d'aperçu activées.</p>
+    <ol class="steps">
+      <li>Power BI Desktop → <b>Fichier → Options et paramètres → Options</b></li>
+      <li>Onglet <b>Fonctionnalités en préversion</b> → activer <b>Power BI project (.pbip) save option</b> et <b>Store semantic model using TMDL format</b></li>
+      <li><b>OK</b> → redémarrer Power BI Desktop</li>
+      <li><b>Fichier → Ouvrir</b> → sélectionner le fichier <code>MudecorpFinance.pbip</code> <u>dans</u> le dossier <code>MudecorpFinance.pbip/</code></li>
+      <li>Les données se chargent depuis les CSV de <code>csv/finance/</code> (aucun pilote MySQL requis)</li>
+    </ol>
+    <div class="callout danger"><b>N'ouvrez pas un .pbix :</b> le seul fichier ouvrable est le <code>.pbip</code> (dossier contenant le fichier du même nom). Le <code>.pbix</code> binaire ne peut être créé que par Power BI Desktop lui-même (Fichier → Enregistrer sous).</div>
+
+    <h3>Reconnecter à MySQL (optionnel)</h3>
+    <p>Les exports CSV permettent un import direct. Pour utiliser la base MySQL à la place :</p>
+    <ol class="steps">
+      <li>Démarrer MySQL : XAMPP Control Panel → <b>Start</b> sur <i>MySQL</i></li>
+      <li>Power BI Desktop → <b>Obtenir des données</b> → <b>Base de données MySQL</b></li>
+      <li>Serveur : <code>localhost:3306</code> — Base : <code>bi_finance</code> — Utilisateur <code>root</code> (sans mot de passe)</li>
+      <li>Si l'erreur « La valeur demandée 'None' est introuvable » apparaît : MariaDB n'est pas compatible avec le connecteur MySQL de Power BI — utiliser plutôt les CSV ou le connecteur ODBC</li>
+    </ol>
+
+    <h3>Recréer les bases depuis zéro</h3>
+    <div class="code">mysql -u root &lt; 01_schema.sql   <span class="c"># base bi_finance (schéma)</span>
+mysql -u root &lt; 02_data.sql     <span class="c"># base bi_finance (données + vues)</span>
+mysql -u root &lt; 03_ventes.sql   <span class="c"># base bi_ventes (tout)</span>
+mysql -u root &lt; 04_rh.sql       <span class="c"># base bi_rh (tout)</span></div>
+    <p class="sub" style="margin-top:8px">Les scripts sont réexécutables : ils réinitialisent et régénèrent les données.</p>
+  </div>
+</section>
+
+<section id="fichiers">
+  <div class="container">
+    <h2>Fichiers du dépôt</h2>
+    <p class="sub">Tout le projet est versionné sur GitHub — scripts, données, projet Power BI et documentation.</p>
+
+    <div class="files">
+      <a class="file" href="../01_schema.sql">
+        <div class="fn">01_schema.sql</div>
+        <div class="desc">Schéma bi_finance (tables + contraintes)</div>
+      </a>
+      <a class="file" href="../02_data.sql">
+        <div class="fn">02_data.sql</div>
+        <div class="desc">Données finance + vues analytiques</div>
+      </a>
+      <a class="file" href="../03_ventes.sql">
+        <div class="fn">03_ventes.sql</div>
+        <div class="desc">Base bi_ventes complète</div>
+      </a>
+      <a class="file" href="../04_rh.sql">
+        <div class="fn">04_rh.sql</div>
+        <div class="desc">Base bi_rh complète</div>
+      </a>
+      <a class="file" href="../automatisation.sh">
+        <div class="fn">automatisation.sh</div>
+        <div class="desc">Régénération complète (WSL/Linux)</div>
+      </a>
+      <a class="file" href="../automatisation.bat">
+        <div class="fn">automatisation.bat</div>
+        <div class="desc">Régénération complète (Windows)</div>
+      </a>
+      <a class="file" href="../chargement_power_bi.pq">
+        <div class="fn">chargement_power_bi.pq</div>
+        <div class="desc">Script Power Query (finance)</div>
+      </a>
+      <a class="file" href="../chargement_ventes.pq">
+        <div class="fn">chargement_ventes.pq</div>
+        <div class="desc">Script Power Query (ventes)</div>
+      </a>
+      <a class="file" href="../MudecorpFinance.pbip/">
+        <div class="fn">MudecorpFinance.pbip/</div>
+        <div class="desc">Projet Power BI (modèle TMDL + rapport)</div>
+      </a>
+      <a class="file" href="../csv/">
+        <div class="fn">csv/</div>
+        <div class="desc">29 exports CSV (finance, ventes, RH)</div>
+      </a>
+    </div>
+
+    <div class="callout ok">Le modèle sémantique du dashboard contient 3 tables importées depuis les CSV (FluxFinancier, Calendrier, BudgetVsReel), 8 mesures DAX, 1 relation et un rapport de 3 pages avec 14 visuals.</div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>Projet <a href="https://github.com/mud-mos23/mudecorp-bi">Mudecorp BI</a> — Power BI Project (.pbip) · MySQL · TMDL · DAX · CSV</p>
+    <p style="font-size:.8rem;margin-top:6px">Données fictives générées par scripts SQL — Mudecorp International SA</p>
+  </div>
+</footer>
+
+</body>
+</html>
