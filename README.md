@@ -1,4 +1,4 @@
-# 📊 Dashboards BI — Mudecorp International SA
+# Dashboards BI — Mudecorp International SA
 
 Trois dashboards Power BI sur des données fictives (01/01/2024 → 31/12/2027).
 
@@ -8,7 +8,7 @@ Trois dashboards Power BI sur des données fictives (01/01/2024 → 31/12/2027).
 | **Ventes** | `bi_ventes` | ~7 400 commandes, ~22 000 lignes, 35 produits, 12 vendeurs |
 | **RH** | `bi_rh` | 120 employés, 4 464 lignes de paie, absences, formations |
 
-## ⚡ 0. Tout régénérer en 1 commande
+## 0. Tout régénérer en 1 commande
 
 ```bash
 # WSL / Linux
@@ -19,11 +19,11 @@ automatisation.bat
 ```
 
 Le script : démarre MariaDB si besoin → recrée les 3 bases → exporte les 29 CSV → affiche le résumé.
-⚠️ Compte ~7 minutes (génération de 4 ans de données aléatoires).
+Compte ~7 minutes (génération de 4 ans de données aléatoires).
 
 ---
 
-## 🗄️ 1. Les bases MySQL (MariaDB 10.4, port 3306, user `root` sans mot de passe)
+## 1. Les bases MySQL (MariaDB 10.4, port 3306, user `root` sans mot de passe)
 
 ### Scripts
 
@@ -83,7 +83,7 @@ Le script : démarre MariaDB si besoin → recrée les 3 bases → exporte les 2
 
 ---
 
-## 🔌 2. Ouvrir le dashboard dans Power BI
+## 2. Ouvrir le dashboard dans Power BI
 
 ### Option A — Fichier Power BI fourni (RECOMMANDÉ)
 
@@ -93,7 +93,7 @@ Deux fichiers prêts à ouvrir sont fournis :
 |---|---|---|
 | `MudecorpFinance.pbip` | **Projet Power BI** (dossier) | Power BI Desktop → **Fichier → Ouvrir → Power BI project (.pbip)** → sélectionner le fichier `MudecorpFinance.pbip` DANS le dossier |
 
-> ⚠️ **N'ouvrez PAS un `.pbix`** : le seul fichier ouvrable est le **`.pbip`** (dossier
+> **N'ouvrez PAS un `.pbix`** : le seul fichier ouvrable est le **`.pbip`** (dossier
 > `MudecorpFinance.pbip/` contenant le fichier `MudecorpFinance.pbip`). Le `.pbix` binaire
 > ne peut être créé que par Power BI Desktop lui-même (Fichier → Enregistrer sous).
 
@@ -101,7 +101,7 @@ Deux fichiers prêts à ouvrir sont fournis :
 - le **modèle sémantique** (`MudecorpFinance.SemanticModel/`) : 3 tables importées depuis MySQL (`FluxFinancier`, `Calendrier`, `BudgetVsReel`), 11 mesures DAX, 1 relation
 - le **rapport** (`MudecorpFinance.Report/`) : 3 pages et 14 visuals déjà placés
 
-### ✅ Prérequis avant d'ouvrir le `.pbip`
+### Prérequis avant d'ouvrir le `.pbip`
 
 Le format `.pbip` est un **aperçu (preview)** : il nécessite Power BI Desktop de juillet 2025 ou plus récent
 et les fonctionnalités d'aperçu activées :
@@ -116,7 +116,7 @@ et les fonctionnalités d'aperçu activées :
 À l'ouverture, Power BI demandera les identifiants MySQL :
 - Serveur : `localhost:3306` — Base : `bi_finance` — User : `root` (sans mot de passe)
 
-> 💡 Pour obtenir un `.pbix` : ouvrir le `.pbip` dans Power BI Desktop, puis
+> Pour obtenir un `.pbix` : ouvrir le `.pbip` dans Power BI Desktop, puis
 > **Fichier → Enregistrer sous → .pbix**.
 
 ### Option B — MySQL direct (créer ses propres pages)
@@ -135,7 +135,7 @@ et les fonctionnalités d'aperçu activées :
 
 ---
 
-## 🧮 3. Mesures DAX — Dashboard Finance
+## 3. Mesures DAX — Dashboard Finance
 
 ```dax
 Total Revenus = CALCULATE(SUM(v_flux_financier[montant]),
@@ -158,7 +158,7 @@ Variation Revenus % = DIVIDE([Total Revenus] - [Revenus Mois Précédent],
     [Revenus Mois Précédent], 0)
 ```
 
-## 🧮 4. Mesures DAX — Dashboard Ventes
+## 4. Mesures DAX — Dashboard Ventes
 
 ```dax
 Chiffre d'affaires = SUM(v_ventes_detail[montant_ligne])
@@ -175,7 +175,7 @@ Variation CA % = DIVIDE([Chiffre d'affaires] - [CA Mois Précédent],
     [CA Mois Précédent], 0)
 ```
 
-## 🧮 5. Mesures DAX — Dashboard RH
+## 5. Mesures DAX — Dashboard RH
 
 ```dax
 Effectif = COUNT(v_effectif[employe_id])
@@ -199,7 +199,7 @@ Réalisation budget RH % = DIVIDE([Masse salariale brute],
 
 ---
 
-## 📈 6. Structure des dashboards (3 pages chacun)
+## 6. Structure des dashboards (3 pages chacun)
 
 ### Finance
 1. **Vue d'ensemble** — 4 KPI (Revenus, Dépenses, Résultat, Marge), courbes Revenus vs Dépenses par mois, gauge budget
@@ -218,7 +218,7 @@ Réalisation budget RH % = DIVIDE([Masse salariale brute],
 
 ---
 
-## 🛠️ 7. Recréer les bases depuis zéro
+## 7. Recréer les bases depuis zéro
 
 ```bash
 # MySQL démarré (XAMPP)
@@ -229,7 +229,19 @@ mysql -u root < 04_rh.sql       # base bi_rh (tout)
 ```
 
 > Les scripts sont réexécutables : ils réinitialisent et régénèrent les données.
-> ⚠️ Les montants varient à chaque exécution (génération aléatoire RAND()).
+> Les montants varient à chaque exécution (génération aléatoire RAND()).
 > Astuce : pour changer l'échelle, modifier les montants/quantités dans les
 > procédures `gen_transactions` (02_data.sql), `gen_ventes` (03_ventes.sql)
-> et `gen_paie`/`gen_absences`/`gen_formations` (04_rh.sql).
+> et `gen_paie`/`gen_absences`/`gen_formations` (04_rh.sql).---
+
+## Captures du dashboard Finance
+
+| Page | Aperçu |
+|---|---|
+| **Vue d'ensemble** — 4 KPI (Revenus, Dépenses, Résultat, Marge), courbes Revenus vs Dépenses, répartition des revenus | ![Vue d'ensemble](images/page1_vue_ensemble.png) |
+| **Revenus** — Top clients, secteurs, croissance du chiffre d'affaires | ![Revenus](images/page2_revenus.png) |
+| **Dépenses & Budget** — Réalisé vs budget par groupe, taux de réalisation | ![Dépenses et budget](images/page3_depenses_budget.png) |
+
+> Les captures ci-dessus sont des aperçus générés. Pour mettre vos vraies captures
+> d'écran Power BI : prendre l'image (ex. `page1.png`) puis remplacer le fichier
+> correspondant dans `images/` et committer.
